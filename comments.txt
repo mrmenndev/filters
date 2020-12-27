@@ -1,9 +1,13 @@
 ! Title: mrmenndev filters - comments
 ! Last modified: 27.12.2020
 
-!YT
+!Youtube
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer, undefined)
 youtube.com##+js(json-prune, [].response.contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer)
+
+!Youtube - Mobile
+||m.youtube.com/watch_comment
+m.youtube.com##ytm-comment-section-renderer
 
 !PCGH
 www.pcgameshardware.de###comment
