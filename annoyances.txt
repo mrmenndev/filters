@@ -38,16 +38,16 @@ www.pcgameshardware.de##.xPromo_PCG
 www.pcgameshardware.de##.ticker_item:has-text([Werbung])
 www.pcgameshardware.de##.itemHeadline:has-text([Werbung])
 www.pcgameshardware.de##.at_sponsored
-! PCGH article inside
+! PCGH article
 www.pcgameshardware.de##p:has-text(Auch spannend:)
 www.pcgameshardware.de##.cbox_embedded
-www.pcgameshardware.de##.affiliateBelowArticle
 www.pcgameshardware.de##.plusTeaserModule
-! PCGH article outside
-www.pcgameshardware.de###supportNote
 www.pcgameshardware.de##.importantArticleModule
-www.pcgameshardware.de##.sidebar
+www.pcgameshardware.de##.affiliateBelowArticle
 www.pcgameshardware.de##.productFactsModule 
+www.pcgameshardware.de##.shopLinkButtonsWrapper
+www.pcgameshardware.de##.sidebar
+www.pcgameshardware.de###supportNote
 
 www.computerbase.de##+js(acis, document.createElement, onerror)
 www.computerbase.de##.article:has-text(/Anzeige/)
