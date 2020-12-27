@@ -38,8 +38,10 @@ www.pcgameshardware.de##.xPromo_PCG
 www.pcgameshardware.de##.ticker_item:has-text([Werbung])
 www.pcgameshardware.de##.itemHeadline:has-text([Werbung])
 www.pcgameshardware.de##.at_sponsored
-! PCGH article
+! PCGH article - inside
 www.pcgameshardware.de##p:has-text(Auch spannend:)
+www.pcgameshardware.de##p:has-text(Passend zum Thema:)
+! PCGH article - outside
 www.pcgameshardware.de##.cbox_embedded
 www.pcgameshardware.de##.plusTeaserModule
 www.pcgameshardware.de##.importantArticleModule
