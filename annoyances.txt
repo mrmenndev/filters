@@ -1,0 +1,73 @@
+! Title: mrmenndev filters - annoyances
+! Last modified: 27.12.2020
+
+!------------------------------------------------
+!-----------------cookies------------------------
+!------------------------------------------------
+
+www.computerbase.de##+js(set, BaseCMS.initDialog, noopFunc)
+
+proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
+
+!------------------------------------------------
+!-----------------annoyances---------------------
+!------------------------------------------------
+
+! YT video
+youtube.com###merch-shelf 
+youtube.com###clarify-box
+! YT video on channelpage
+youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer)
+youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer, undefined)
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+! YT consent
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+! YT login
+youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
+
+! PCGH start
+www.pcgameshardware.de###topBannerWrapper
+www.pcgameshardware.de##.e3TopTeaser
+www.pcgameshardware.de##.widget
+www.pcgameshardware.de###containerplaced_4_1266253
+www.pcgameshardware.de##.xPromo_PCG
+! PCGH ticker
+www.pcgameshardware.de##.ticker_item:has-text([Werbung])
+www.pcgameshardware.de##.itemHeadline:has-text([Werbung])
+www.pcgameshardware.de##.at_sponsored
+! PCGH article inside
+www.pcgameshardware.de##p:has-text(Auch spannend:)
+www.pcgameshardware.de##.cbox_embedded
+www.pcgameshardware.de##.affiliateBelowArticle
+www.pcgameshardware.de##.plusTeaserModule
+! PCGH article outside
+www.pcgameshardware.de###supportNote
+www.pcgameshardware.de##.importantArticleModule
+www.pcgameshardware.de##.sidebar
+www.pcgameshardware.de##.productFactsModule 
+
+www.computerbase.de##+js(acis, document.createElement, onerror)
+www.computerbase.de##.article:has-text(/Anzeige/)
+www.computerbase.de##.adbox
+www.computerbase.de##.js-promobar
+
+stackoverflow.com##.s-sidebarwidget
+stackoverflow.com,stackexchange.com###hot-network-questions
+
+www.anime-loads.org##footer 
+
+www.nsfwyoutube.com##.sidebarright
+
+fandom.com##.article-featured-video__player
+
+wikipedia.org###siteNotice
+
+www.soeren-hentzschel.at##.tnemesitrevda
+
+www.dns-shop.ru##.homepage-stories
+
+www.materialui.co##.mui_logo_li

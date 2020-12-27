@@ -1,0 +1,15 @@
+! Title: mrmenndev filters - comments
+! Last modified: 27.12.2020
+
+!YT
+youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer, undefined)
+youtube.com##+js(json-prune, [].response.contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer)
+
+!PCGH
+www.pcgameshardware.de###comment
+www.pcgameshardware.de##article_comment_box
+
+!computerbase
+www.computerbase.de##.article-view__footer-links
+www.computerbase.de##.article__comments-link
+www.computerbase.de##.ticker__comment-link
