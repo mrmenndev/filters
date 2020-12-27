@@ -11,7 +11,7 @@ m.youtube.com##ytm-comment-section-renderer
 
 !PCGH
 www.pcgameshardware.de###comment
-www.pcgameshardware.de##article_comment_box
+www.pcgameshardware.de###article_comment_box
 
 !computerbase
 www.computerbase.de##.article-view__footer-links
