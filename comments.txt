@@ -2,8 +2,10 @@
 ! Last modified: 27.12.2020
 
 !Youtube
-youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer, undefined)
-youtube.com##+js(json-prune, [].response.contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer)
+||www.youtube.com/comment_service_ajax
+youtube.com##ytd-comments
+youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.conversationBar, undefined)
+youtube.com##+js(json-prune, [].response.contents.twoColumnWatchNextResults.conversationBar)
 
 !Youtube - Mobile
 ||m.youtube.com/watch_comment
