@@ -48,7 +48,7 @@ www.pcgameshardware.de##.importantArticleModule
 www.pcgameshardware.de##.affiliateBelowArticle
 www.pcgameshardware.de##.productFactsModule 
 www.pcgameshardware.de##.shopLinkButtonsWrapper
-www.pcgameshardware.de##.sidebar
+www.pcgameshardware.de##.stickyParent
 www.pcgameshardware.de###supportNote
 
 www.computerbase.de##+js(acis, document.createElement, onerror)
