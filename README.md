@@ -1,6 +1,6 @@
 ## mrmenndev filters
 
-A additional collection of filters for **uBlock Origin**
+An additional collection of filters for **uBlock Origin**
 
 ### Contents
 -  mrmenndev filters - [all](https://gitlab.com/mrmenndev/filters/-/raw/master/filters.txt)
