@@ -69,13 +69,15 @@ www.computerbase.de##.js-promobar
 stackoverflow.com##.s-sidebarwidget
 stackoverflow.com,stackexchange.com###hot-network-questions
 
-www.anime-loads.org##footer 
-
-www.nsfwyoutube.com##.sidebarright
-
 fandom.com##.article-featured-video__player
 
 wikipedia.org###siteNotice
+
+threadreaderapp.com##.sharingfooter
+
+www.anime-loads.org##footer 
+
+www.nsfwyoutube.com##.sidebarright
 
 www.soeren-hentzschel.at##.tnemesitrevda
 
