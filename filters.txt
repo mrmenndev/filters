@@ -1,5 +1,4 @@
 ! Title: mrmenndev filters
-! Last modified: 27.12.2020
 
 ! YT - remove homepage
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)

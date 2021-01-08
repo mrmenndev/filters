@@ -1,5 +1,4 @@
 ! Title: mrmenndev filters - comments
-! Last modified: 27.12.2020
 
 !Youtube
 ||www.youtube.com/comment_service_ajax

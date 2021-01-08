@@ -1,5 +1,4 @@
 ! Title: mrmenndev filters - annoyances
-! Last modified: 27.12.2020
 
 !------------------------------------------------
 !----------------whitelist-----------------------
