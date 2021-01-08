@@ -42,7 +42,7 @@ youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upse
 www.pcgameshardware.de###topBannerWrapper
 www.pcgameshardware.de##.e3TopTeaser
 www.pcgameshardware.de##.widget
-www.pcgameshardware.de###containerplaced_4_1266253
+www.pcgameshardware.de##.fakeTripleTeaser
 www.pcgameshardware.de##.xPromo_PCG
 ! PCGH ticker
 www.pcgameshardware.de##.ticker_item:has-text([Werbung])
