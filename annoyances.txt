@@ -45,7 +45,7 @@ www.pcgameshardware.de##.fakeTripleTeaser
 www.pcgameshardware.de##.xPromo_PCG
 ! PCGH ticker
 www.pcgameshardware.de##.ticker_item:has-text([Werbung])
-www.pcgameshardware.de##.itemHeadline:has-text([Werbung])
+www.pcgameshardware.de##.item:has(a:has-text([Werbung]))
 www.pcgameshardware.de##.at_sponsored
 ! PCGH article - inside
 www.pcgameshardware.de##p:has-text(Auch spannend:)
