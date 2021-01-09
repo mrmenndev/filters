@@ -48,9 +48,10 @@ www.pcgameshardware.de##.ticker_item:has-text([Werbung])
 www.pcgameshardware.de##.item:has(a:has-text([Werbung]))
 www.pcgameshardware.de##.at_sponsored
 ! PCGH article - inside
-www.pcgameshardware.de##p:has-text(Auch spannend:)
-www.pcgameshardware.de##p:has-text(zum Thema:)
+www.pcgameshardware.de##p:has(>b):has(a[href])
+www.pcgameshardware.de##p > :has(b):has(a[href])
 www.pcgameshardware.de##.linkbox
+www.pcgameshardware.de##.affiliateBelowArticle
 ! PCGH article - geizhals
 ||www.pcgameshardware.de/commoncfm/geizhals
 www.pcgameshardware.de##.ghapi
@@ -58,7 +59,6 @@ www.pcgameshardware.de##.ghapi
 www.pcgameshardware.de##.cbox_embedded
 www.pcgameshardware.de##.plusTeaserModule
 www.pcgameshardware.de##.importantArticleModule
-www.pcgameshardware.de##.affiliateBelowArticle
 www.pcgameshardware.de##.productFactsModule 
 www.pcgameshardware.de##.shopLinkButtonsWrapper
 www.pcgameshardware.de##.stickyParent
