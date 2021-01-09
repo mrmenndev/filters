@@ -49,7 +49,10 @@ www.pcgameshardware.de##.item:has(a:has-text([Werbung]))
 www.pcgameshardware.de##.at_sponsored
 ! PCGH article - inside
 www.pcgameshardware.de##p:has-text(Auch spannend:)
-www.pcgameshardware.de##p:has-text(Passend zum Thema:)
+www.pcgameshardware.de##p:has-text(zum Thema:)
+! PCGH article - geizhals
+||www.pcgameshardware.de/commoncfm/geizhals
+www.pcgameshardware.de##.ghapi
 ! PCGH article - outside
 www.pcgameshardware.de##.cbox_embedded
 www.pcgameshardware.de##.plusTeaserModule
