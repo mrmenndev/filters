@@ -50,15 +50,16 @@ www.pcgameshardware.de##.at_sponsored
 ! PCGH article - inside
 www.pcgameshardware.de##p:has(>b):has(a[href])
 www.pcgameshardware.de##p > :has(b):has(a[href])
+! PCGH article - video
+www.pcgameshardware.de###articleTextBody .cbox_embedded 
+www.pcgameshardware.de##.article_text:has(>p).cbox_embedded
+! PCGH article - links
 www.pcgameshardware.de##.linkbox
 www.pcgameshardware.de##.affiliateBelowArticle
-! PCGH article - geizhals
-||www.pcgameshardware.de/commoncfm/geizhals
 www.pcgameshardware.de##.ghapi
+||www.pcgameshardware.de/commoncfm/geizhals
 ! PCGH article - outside
-www.pcgameshardware.de##.cbox_embedded
 www.pcgameshardware.de##.plusTeaserModule
-www.pcgameshardware.de##.importantArticleModule
 www.pcgameshardware.de##.productFactsModule 
 www.pcgameshardware.de##.shopLinkButtonsWrapper
 www.pcgameshardware.de##.stickyParent
