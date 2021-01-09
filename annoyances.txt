@@ -50,6 +50,7 @@ www.pcgameshardware.de##.at_sponsored
 ! PCGH article - inside
 www.pcgameshardware.de##p:has-text(Auch spannend:)
 www.pcgameshardware.de##p:has-text(zum Thema:)
+www.pcgameshardware.de##.linkbox
 ! PCGH article - geizhals
 ||www.pcgameshardware.de/commoncfm/geizhals
 www.pcgameshardware.de##.ghapi
