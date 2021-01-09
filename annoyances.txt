@@ -14,7 +14,7 @@ m.youtube.com##.upsell-dialog-lightbox
 m.youtube.com##.consent-bump-lightbox
 m.youtube.com##body:style(position: absolute !important;)
 
-www.computerbase.de##+js(set, BaseCMS.initDialog, noopFunc)
+||www.computerbase.de/js/dialog-polyfill
 
 proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
 
