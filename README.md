@@ -5,6 +5,7 @@ An additional collection of filters for **uBlock Origin**
 ### Content
 -  mrmenndev filters - [all](https://gitlab.com/mrmenndev/filters/-/raw/master/filters.txt)
 -  mrmenndev filters - [annoyances](https://gitlab.com/mrmenndev/filters/-/raw/master/annoyances.txt)
+-  mrmenndev filters - [annoyances plus](https://gitlab.com/mrmenndev/filters/-/raw/master/annoyances_plus.txt)
 -  mrmenndev filters - [comments](https://gitlab.com/mrmenndev/filters/-/raw/master/comments.txt)
 
 ### Additional filters (not mine)

@@ -1,8 +1,6 @@
 ! Title: mrmenndev filters
 
-! YT - remove homepage
-youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)
-youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer)
 
 !#include annoyances.txt
+!#include annoyances_plus.txt
 !#include comments.txt
