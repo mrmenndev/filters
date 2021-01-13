@@ -1,18 +1,28 @@
 ! Title: mrmenndev filters - annoyances
 
 !------------------------------------------------
-!----------------whitelist-----------------------
+!-----------------Network------------------------
 !------------------------------------------------
 
+||www.google.com/shopping/customerreviews/badge$subdocument
 @@||api.nextdns.io
 
 !------------------------------------------------
 !-----------------cookies------------------------
 !------------------------------------------------
 
+! YT - Mobile
 m.youtube.com##.upsell-dialog-lightbox
 m.youtube.com##.consent-bump-lightbox
 m.youtube.com##body:style(position: absolute !important;)
+
+! Google
+!#if env_chromium
+www.google.*##+js(aeld, , /CONSENT/)
+!#endif
+!#if env_firefox
+www.google.*##^g-dialog
+!#endif
 
 ||www.computerbase.de/js/dialog-polyfill
 
