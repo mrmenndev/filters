@@ -80,7 +80,7 @@ www.computerbase.de##.adbox
 www.computerbase.de##.js-promobar
 
 stackoverflow.com##.s-sidebarwidget
-stackoverflow.com,superuser.com,stackexchange.com###hot-network-questions
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com###hot-network-questions
 
 fandom.com##.article-featured-video__player
 
