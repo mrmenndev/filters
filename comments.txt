@@ -15,6 +15,7 @@ www.pcgameshardware.de###comment
 www.pcgameshardware.de###article_comment_box
 
 !computerbase
+www.computerbase.de##.article__meta-li:has(.article__comments-link)
+www.computerbase.de##.ticker__comment-link
 www.computerbase.de##.article-view__footer-links
 www.computerbase.de##.article__comments-link
-www.computerbase.de##.ticker__comment-link
