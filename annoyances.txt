@@ -79,6 +79,13 @@ www.computerbase.de##.article:has-text(/Anzeige/)
 www.computerbase.de##.adbox
 www.computerbase.de##.js-promobar
 
+! chip.de - start
+www.chip.de##.Portal:style(--topbanner-height-min: 0px!important)
+! chip.de - article
+www.chip.de##.Listing-Teaser--V02
+www.chip.de##.is-emphasized
+www.chip.de##.Grid__Row:has(div[data-endlessvideo])
+
 stackoverflow.com##.s-sidebarwidget
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com###hot-network-questions
 
