@@ -25,6 +25,7 @@ m.youtube.com##.upsell-dialog-lightbox
 m.youtube.com##.consent-bump-lightbox
 m.youtube.com##body:style(position: absolute !important;)
 
+mega.nz##.fm-dialog-overlay
 proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
 superuser.com##.js-consent-banner
 www.caseking.de##.cc-window[aria-label="cookieconsent"]
