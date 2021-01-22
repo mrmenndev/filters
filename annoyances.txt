@@ -98,6 +98,8 @@ wikipedia.org###siteNotice
 
 threadreaderapp.com##.sharingfooter
 
+www.reddit.com###SearchDropdownContent
+
 www.androidpolice.com##.widget:has(.adsbygoogle)
 
 www.xda-developers.com###xda_alert_bar
