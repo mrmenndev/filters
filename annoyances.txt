@@ -9,7 +9,7 @@
 @@||api.nextdns.io
 
 !------------------------------------------------
-!-----------------cookies------------------------
+!-----------------annoyances---------------------
 !------------------------------------------------
 
 ! Google
@@ -19,20 +19,6 @@ www.google.*##+js(aeld, , /CONSENT/)
 !#if env_firefox
 www.google.*##^g-dialog
 !#endif
-
-! YT - Mobile
-m.youtube.com##.upsell-dialog-lightbox
-m.youtube.com##.consent-bump-lightbox
-m.youtube.com##body:style(position: absolute !important;)
-
-mega.nz##.fm-dialog-overlay
-proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
-superuser.com##.js-consent-banner
-www.caseking.de##.cc-window[aria-label="cookieconsent"]
-
-!------------------------------------------------
-!-----------------annoyances---------------------
-!------------------------------------------------
 
 ! YT - video
 youtube.com###merch-shelf 
@@ -48,6 +34,11 @@ youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBu
 youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
+
+! YT - Mobile
+m.youtube.com##.upsell-dialog-lightbox
+m.youtube.com##.consent-bump-lightbox
+m.youtube.com##body:style(position: absolute !important;)
 
 ! PCGH start
 www.pcgameshardware.de###topBannerWrapper
@@ -77,11 +68,6 @@ www.pcgameshardware.de##.shopLinkButtonsWrapper
 www.pcgameshardware.de##.stickyParent
 www.pcgameshardware.de###supportNote
 
-www.computerbase.de##+js(acis, document.createElement, onerror)
-www.computerbase.de##.article:has-text(/Anzeige/)
-www.computerbase.de##.adbox
-www.computerbase.de##.js-promobar
-
 ! chip.de - start
 www.chip.de##.Portal:style(--topbanner-height-min: 0px!important)
 ! chip.de - article
@@ -89,29 +75,32 @@ www.chip.de##.Listing-Teaser--V02
 www.chip.de##.is-emphasized
 www.chip.de##.Grid__Row:has(div[data-endlessvideo])
 
-stackoverflow.com##.s-sidebarwidget
-stackoverflow.com,superuser.com,stackexchange.com,serverfault.com###hot-network-questions
-
-fandom.com##.article-featured-video__player
-
-wikipedia.org###siteNotice
-
-threadreaderapp.com##.sharingfooter
-
-www.reddit.com###SearchDropdownContent
-
-www.androidpolice.com##.widget:has(.adsbygoogle)
-
-www.xda-developers.com###xda_alert_bar
-
-www.anime-loads.org##footer 
-
-www.nsfwyoutube.com##.sidebarright
-
-www.soeren-hentzschel.at##.tnemesitrevda
-
-www.dns-shop.ru##.homepage-stories
-
-www.materialui.co##.mui_logo_li
+! computerbase.de - anti adblock
+www.computerbase.de##+js(acis, document.createElement, onerror)
+! computerbase.de - ads
+www.computerbase.de##.adbox
+www.computerbase.de##.js-promobar
+! computerbase.de - ads in ticker
+www.computerbase.de##.article:has-text(/Anzeige/)
 
 www.caseking.de###wallpaper
+www.caseking.de##.cc-window[aria-label="cookieconsent"]
+
+stackoverflow.com##.s-sidebarwidget
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com###hot-network-questions
+superuser.com##.js-consent-banner
+
+mega.nz##.fm-dialog-overlay
+proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
+fandom.com##.article-featured-video__player
+wikipedia.org###siteNotice
+threadreaderapp.com##.sharingfooter
+
+www.anime-loads.org##footer 
+www.soeren-hentzschel.at##.tnemesitrevda
+www.reddit.com###SearchDropdownContent
+www.androidpolice.com##.widget:has(.adsbygoogle)
+www.xda-developers.com###xda_alert_bar
+www.materialui.co##.mui_logo_li
+www.nsfwyoutube.com##.sidebarright
+www.dns-shop.ru##.homepage-stories
