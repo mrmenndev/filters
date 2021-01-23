@@ -105,6 +105,9 @@ www.materialui.co##.mui_logo_li
 www.nsfwyoutube.com##.sidebarright
 www.dns-shop.ru##.homepage-stories
 
-! ulp overlay
+!-----Popups-----
+
 www.premiumize.org##.ulp-overlay
 www.premiumize.org##.ulp-content
+
+careerkarma.com##.wmpci-popup-wrp
