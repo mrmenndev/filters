@@ -104,3 +104,7 @@ www.xda-developers.com###xda_alert_bar
 www.materialui.co##.mui_logo_li
 www.nsfwyoutube.com##.sidebarright
 www.dns-shop.ru##.homepage-stories
+
+! ulp overlay
+www.premiumize.org##.ulp-overlay
+www.premiumize.org##.ulp-content
