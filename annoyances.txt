@@ -87,7 +87,7 @@ www.caseking.de###wallpaper
 www.caseking.de##.cc-window[aria-label="cookieconsent"]
 
 stackoverflow.com##.s-sidebarwidget
-stackoverflow.com,superuser.com,stackexchange.com,serverfault.com###hot-network-questions
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
 superuser.com##.js-consent-banner
 
 mega.nz##.fm-dialog-overlay
