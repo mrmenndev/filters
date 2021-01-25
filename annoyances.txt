@@ -6,6 +6,7 @@
 
 ||www.google.com/shopping/customerreviews/badge$subdocument
 ||www.computerbase.de/js/dialog-polyfill
+||www.synology-forum.de/js/wutime_adblocktracker/*$1p,important
 @@||api.nextdns.io
 
 !------------------------------------------------
@@ -85,6 +86,9 @@ www.computerbase.de##.article:has-text(/Anzeige/)
 
 www.caseking.de###wallpaper
 www.caseking.de##.cc-window[aria-label="cookieconsent"]
+
+www.synology-forum.de##.samItem
+www.synology-forum.de##p:has-text(Adblock):upward(3)
 
 stackoverflow.com##.s-sidebarwidget
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
