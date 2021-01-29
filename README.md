@@ -3,10 +3,11 @@
 An additional collection of filters for **uBlock Origin**
 
 ### Content
--  mrmenndev filters - [all](https://gitlab.com/mrmenndev/filters/-/raw/master/filters.txt)
--  mrmenndev filters - [annoyances](https://gitlab.com/mrmenndev/filters/-/raw/master/annoyances.txt)
--  mrmenndev filters - [annoyances plus](https://gitlab.com/mrmenndev/filters/-/raw/master/annoyances_plus.txt)
--  mrmenndev filters - [comments](https://gitlab.com/mrmenndev/filters/-/raw/master/comments.txt)
+-  mrmenndev filters - [all](https://gitlab.com/mrmenndev/filters/-/raw/master/filter/filters.txt)
+-  mrmenndev filters - [annoyances](https://gitlab.com/mrmenndev/filters/-/raw/master/filter/annoyances.txt)
+-  mrmenndev filters - [annoyances plus](https://gitlab.com/mrmenndev/filters/-/raw/master/filter/annoyances_plus.txt)
+-  mrmenndev filters - [comments](https://gitlab.com/mrmenndev/filters/-/raw/master/filter/comments.txt)
+-  mrmenndev filters - [search](https://gitlab.com/mrmenndev/filters/-/raw/master/filter/search.txt)
 
 ### Additional filters (not mine)
 - [RU AdList: Counters](https://easylist-downloads.adblockplus.org/cntblock.txt)
