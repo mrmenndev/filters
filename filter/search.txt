@@ -1,0 +1,6 @@
+! Title: mrmenndev filters - search
+
+duckduckgo.com##.result[data-domain='www.quora.com']
+duckduckgo.com##.result[data-domain='www.gutefrage.net']
+duckduckgo.com##.results__sitelink--organics:has([data-domain='www.quora.com'])
+duckduckgo.com##.results__sitelink--organics:has([data-domain='www.gutefrage.net'])
