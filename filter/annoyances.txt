@@ -41,9 +41,10 @@ m.youtube.com##.upsell-dialog-lightbox
 m.youtube.com##.consent-bump-lightbox
 m.youtube.com##body:style(position: absolute !important;)
 
-! chocolatey.org - consent
-chocolatey.org##.fade
-chocolatey.org##body:style(overflow: auto !important;)
+! consent
+chocolatey.org,qastack.com.de##.fade
+chocolatey.org,qastack.com.de##body:style(overflow: auto !important;)
+
 ! chocolatey.org - notification
 chocolatey.org##.gitter-open-chat-button
 chocolatey.org##.btn-announcement-notifications
