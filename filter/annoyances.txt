@@ -103,9 +103,11 @@ stackoverflow.com##.s-sidebarwidget
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
 superuser.com##.js-consent-banner
 
+fandom.com##.article-featured-video__player
+fandom.com###mixed-content-footer
+
 mega.nz##.fm-dialog-overlay
 proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
-fandom.com##.article-featured-video__player
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
 
