@@ -93,6 +93,10 @@ www.computerbase.de##.js-promobar
 ! computerbase.de - ads in ticker
 www.computerbase.de##.article:has-text(/Anzeige/)
 
+www.anisearch.de###top_outside
+www.anisearch.de##.highlightBox
+www.anisearch.de###content-sidebar
+
 www.caseking.de###wallpaper
 www.caseking.de##.cc-window[aria-label="cookieconsent"]
 
