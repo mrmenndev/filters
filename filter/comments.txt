@@ -21,3 +21,4 @@ www.computerbase.de##.article-view__footer-links
 www.computerbase.de##.article__comments-link
 
 www.anisearch.de###comments
+www.deezer.com##.catalog-content:has(.user-comment)
