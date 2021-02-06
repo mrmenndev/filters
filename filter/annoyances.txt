@@ -103,6 +103,9 @@ www.caseking.de##.cc-window[aria-label="cookieconsent"]
 www.synology-forum.de##.samItem
 www.synology-forum.de##p:has-text(Adblock):upward(3)
 
+www.dns-shop.ru##.homepage-stories
+www.dns-shop.ru##.items-group__banner
+
 stackoverflow.com##.s-sidebarwidget
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
 superuser.com##.js-consent-banner
@@ -122,7 +125,6 @@ www.androidpolice.com##.widget:has(.adsbygoogle)
 www.xda-developers.com###xda_alert_bar
 www.materialui.co##.mui_logo_li
 www.nsfwyoutube.com##.sidebarright
-www.dns-shop.ru##.homepage-stories
 
 !-----Popups-----
 
