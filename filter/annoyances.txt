@@ -56,6 +56,7 @@ www.pcgameshardware.de##.e3TopTeaser
 www.pcgameshardware.de##.widget
 www.pcgameshardware.de##.fakeTripleTeaser
 www.pcgameshardware.de##.xPromo_PCG
+www.pcgameshardware.de##.static_banner
 ! PCGH ticker
 www.pcgameshardware.de##.ticker_item:has-text([Werbung])
 www.pcgameshardware.de##.item:has(a:has-text([Werbung]))
@@ -77,6 +78,7 @@ www.pcgameshardware.de##.productFactsModule
 www.pcgameshardware.de##.shopLinkButtonsWrapper
 www.pcgameshardware.de##.stickyParent
 www.pcgameshardware.de###supportNote
+www.pcgameshardware.de##.schnaeppchenScrollAd
 
 ! chip.de - start
 www.chip.de##.Portal:style(--topbanner-height-min: 0px!important)
