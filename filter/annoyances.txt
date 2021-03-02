@@ -127,6 +127,7 @@ www.androidpolice.com##.widget:has(.adsbygoogle)
 www.xda-developers.com###xda_alert_bar
 www.materialui.co##.mui_logo_li
 www.nsfwyoutube.com##.sidebarright
+www.sammobile.com##.container-fluid:has(.adsbygoogle)
 
 !-----Popups-----
 
