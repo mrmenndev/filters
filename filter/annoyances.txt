@@ -119,6 +119,7 @@ mega.nz##.fm-dialog-overlay
 proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
+developers.google.com##.devsite-banner-announcement
 
 www.anime-loads.org##footer 
 www.soeren-hentzschel.at##.tnemesitrevda
