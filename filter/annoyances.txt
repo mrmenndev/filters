@@ -95,6 +95,10 @@ www.computerbase.de##.js-promobar
 ! computerbase.de - ads in ticker
 www.computerbase.de##.article:has-text(/Anzeige/)
 
+www.pcwelt.de###leadfullWrapper
+www.pcwelt.de###sidebar
+www.pcwelt.de##.marketplace
+
 www.anisearch.de###top_outside
 www.anisearch.de##.highlightBox
 www.anisearch.de###content-sidebar
