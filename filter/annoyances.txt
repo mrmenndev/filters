@@ -99,12 +99,12 @@ www.pcwelt.de###leadfullWrapper
 www.pcwelt.de###sidebar
 www.pcwelt.de##.marketplace
 
+www.caseking.de###wallpaper
+www.caseking.de##.cc-window[aria-label="cookieconsent"]
+
 www.anisearch.de###top_outside
 www.anisearch.de##.highlightBox
 www.anisearch.de###content-sidebar
-
-www.caseking.de###wallpaper
-www.caseking.de##.cc-window[aria-label="cookieconsent"]
 
 www.synology-forum.de##.samItem
 www.synology-forum.de##p:has-text(Adblock):upward(3)
@@ -127,12 +127,12 @@ developers.google.com##.devsite-banner-announcement
 
 www.anime-loads.org##footer 
 www.soeren-hentzschel.at##.tnemesitrevda
-www.reddit.com###SearchDropdownContent
+www.materialui.co##.mui_logo_li
 www.androidpolice.com##.widget:has(.adsbygoogle)
 www.xda-developers.com###xda_alert_bar
-www.materialui.co##.mui_logo_li
-www.nsfwyoutube.com##.sidebarright
 www.sammobile.com##.container-fluid:has(.adsbygoogle)
+www.nsfwyoutube.com##.sidebarright
+www.reddit.com###SearchDropdownContent
 www.memedroid.com###mobile-ad-banner-container
 
 !-----Popups-----
