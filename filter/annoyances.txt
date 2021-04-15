@@ -95,6 +95,12 @@ www.computerbase.de##.js-promobar
 ! computerbase.de - ads in ticker
 www.computerbase.de##.article:has-text(/Anzeige/)
 
+knowyourmeme.com##.scroll
+knowyourmeme.com###leaderboard
+knowyourmeme.com##.top-entries
+knowyourmeme.com##.related-news
+knowyourmeme.com###news_feeds
+
 www.pcwelt.de###leadfullWrapper
 www.pcwelt.de###sidebar
 www.pcwelt.de##.marketplace
