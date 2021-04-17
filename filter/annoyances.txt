@@ -123,6 +123,7 @@ stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru
 superuser.com##.js-consent-banner
 
 fandom.com##.article-featured-video__player
+fandom.com##.ad-slot-wrapper
 fandom.com###mixed-content-footer
 
 mega.nz##.fm-dialog-overlay
