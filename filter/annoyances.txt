@@ -1,19 +1,7 @@
 ! Title: mrmenndev filters - annoyances
 
-!------------------------------------------------
-!-----------------Network------------------------
-!------------------------------------------------
-
-||www.google.com/shopping/customerreviews/badge$subdocument
-||www.computerbase.de/js/dialog-polyfill
-||www.synology-forum.de/js/wutime_adblocktracker/*$1p,important
-@@||api.nextdns.io
-
-!------------------------------------------------
-!-----------------annoyances---------------------
-!------------------------------------------------
-
 ! Google
+||www.google.com/shopping/customerreviews/badge$subdocument
 !#if env_chromium
 www.google.*##+js(aeld, , /CONSENT/)
 !#endif
@@ -87,6 +75,9 @@ www.chip.de##.Listing-Teaser--V02
 www.chip.de##.is-emphasized
 www.chip.de##.Grid__Row:has(div[data-endlessvideo])
 
+! computerbase.de - consent
+www.computerbase.de##+js(set, BaseCMS.initDialog, undefined)
+||www.computerbase.de/js/dialog-polyfill
 ! computerbase.de - anti adblock
 www.computerbase.de##+js(acis, document.createElement, onerror)
 www.computerbase.de##+js(rc, snigel-layout)
@@ -115,6 +106,7 @@ www.anisearch.de###content-sidebar
 
 www.synology-forum.de##.samItem
 www.synology-forum.de##p:has-text(Adblock):upward(3)
+||www.synology-forum.de/js/wutime_adblocktracker/*$1p,important
 
 www.dns-shop.ru##.homepage-stories
 www.dns-shop.ru##.items-group__banner
@@ -149,3 +141,6 @@ www.premiumize.org##.ulp-overlay
 www.premiumize.org##.ulp-content
 
 careerkarma.com##.wmpci-popup-wrp
+
+!----Whitelist----
+@@||api.nextdns.io
