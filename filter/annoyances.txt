@@ -9,6 +9,11 @@ www.google.*##+js(aeld, , /CONSENT/)
 www.google.*##^g-dialog
 !#endif
 
+! KDE Forum - posts
+!#if env_mobile
+forum.kde.org##.profile-info-area
+!#endif
+
 ! YT - video
 youtube.com###merch-shelf 
 youtube.com###clarify-box
