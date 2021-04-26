@@ -115,6 +115,7 @@ www.synology-forum.de##p:has-text(Adblock):upward(3)
 
 www.dns-shop.ru##.homepage-stories
 www.dns-shop.ru##.items-group__banner
+www.dns-shop.ru##.products-list__banner
 
 stackoverflow.com##.s-sidebarwidget
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
