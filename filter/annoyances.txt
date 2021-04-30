@@ -125,6 +125,9 @@ fandom.com##.article-featured-video__player
 fandom.com##.ad-slot-wrapper
 fandom.com###mixed-content-footer
 
+www.xda-developers.com###xda_alert_bar
+www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
+
 mega.nz##.fm-dialog-overlay
 proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
 wikipedia.org###siteNotice
@@ -135,7 +138,6 @@ www.anime-loads.org##footer
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
 www.androidpolice.com##.widget:has(.adsbygoogle)
-www.xda-developers.com###xda_alert_bar
 www.sammobile.com##.container-fluid:has(.adsbygoogle)
 www.nsfwyoutube.com##.sidebarright
 www.reddit.com###SearchDropdownContent
