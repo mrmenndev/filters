@@ -98,6 +98,9 @@ knowyourmeme.com##.top-entries
 knowyourmeme.com##.related-news
 knowyourmeme.com###news_feeds
 
+imgur.com##.BottomRecirc
+imgur.com##.Gallery-Sidebar
+
 www.pcwelt.de###leadfullWrapper
 www.pcwelt.de###sidebar
 www.pcwelt.de##.marketplace
