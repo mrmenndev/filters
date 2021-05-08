@@ -4,6 +4,10 @@
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer)
 
+! YT - remove consent dialog (but break comments)
+youtube.com##^responseheader(set-cookie)    
+youtube.com##+js(cookie-remover, CONSENT)
+
 ! chip - remove video
 ||cmp.chip.de
 ||videoplayer.chip.de
