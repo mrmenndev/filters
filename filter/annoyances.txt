@@ -1,14 +1,5 @@
 ! Title: mrmenndev filters - annoyances
 
-! Google
-||www.google.com/shopping/customerreviews/badge$subdocument
-!#if env_chromium
-www.google.*##+js(aeld, , /CONSENT/)
-!#endif
-!#if env_firefox
-www.google.*##^g-dialog
-!#endif
-
 ! KDE Forum - posts
 !#if env_mobile
 forum.kde.org##.profile-info-area
