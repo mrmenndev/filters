@@ -127,6 +127,7 @@ proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
 developers.google.com##.devsite-banner-announcement
+pypi.org##.notification-bar
 
 www.anime-loads.org##footer 
 www.soeren-hentzschel.at##.tnemesitrevda
