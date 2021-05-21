@@ -147,3 +147,4 @@ careerkarma.com##.wmpci-popup-wrp
 
 !----Whitelist----
 @@||api.nextdns.io
+@@||turkru.tv/static/pixel.png
