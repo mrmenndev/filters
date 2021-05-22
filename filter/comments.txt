@@ -1,25 +1,26 @@
 ! Title: mrmenndev filters - comments
 
-!Youtube
+! YT
 ||www.youtube.com/comment_service_ajax
 youtube.com##ytd-comments
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.conversationBar, undefined)
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.conversationBar)
 
-!Youtube - Mobile
+! YT - Mobile
 ||m.youtube.com/watch_comment
 m.youtube.com##ytm-comment-section-renderer
 
-!PCGH
+! PCGH
 www.pcgameshardware.de###comment
 www.pcgameshardware.de###article_comment_box
 
-!computerbase
+! computerbase.de
 www.computerbase.de##.article__meta-li:has(.article__comments-link)
 www.computerbase.de##.ticker__comment-link
 www.computerbase.de##.article-view__footer-links
 www.computerbase.de##.article__comments-link
 
 winfuture.de##.content_wrap:has(#comments_box)
+
 www.anisearch.de###comments
 www.deezer.com##.catalog-content:has(.user-comment)

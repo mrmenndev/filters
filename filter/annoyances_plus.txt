@@ -1,17 +1,16 @@
 ! Title: mrmenndev filters - annoyances plus
 
-! YT - remove homepage
+! YT - homepage
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer)
-
-! YT - remove consent dialog (breaks comments)
+! YT - consent
 youtube.com##^responseheader(set-cookie)    
 youtube.com##+js(cookie-remover, CONSENT)
 
-! google - remove consent dialog (breaks live search)
-www.google.*##div[role="dialog"]
+! google - consent
 www.google.*##body:style(overflow: auto !important)
+www.google.*##div[role="dialog"]
 
-! chip - remove video
+! chip - video
 ||cmp.chip.de
 ||videoplayer.chip.de

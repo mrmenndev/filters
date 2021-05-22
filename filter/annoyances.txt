@@ -20,43 +20,42 @@ youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsel
 youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
 
-! YT - Mobile
+! YT - mobile
 m.youtube.com##.upsell-dialog-lightbox
 m.youtube.com##.consent-bump-lightbox
 m.youtube.com##body:style(position: absolute !important;)
 
-! consent
-chocolatey.org,qastack.com.de##.fade
-chocolatey.org,qastack.com.de##body:style(overflow: auto !important;)
-
+! chocolatey.org - consent
+chocolatey.org##.fade
+chocolatey.org##body:style(overflow: auto !important;)
 ! chocolatey.org - notification
 chocolatey.org##.gitter-open-chat-button
 chocolatey.org##.btn-announcement-notifications
 chocolatey.org###announcementCarousel:upward(1)
 
-! PCGH start
+! PCGH - start
 www.pcgameshardware.de###topBannerWrapper
 www.pcgameshardware.de##.e3TopTeaser
 www.pcgameshardware.de##.widget
 www.pcgameshardware.de##.fakeTripleTeaser
 www.pcgameshardware.de##.xPromo_PCG
 www.pcgameshardware.de##.static_banner
-! PCGH ticker
+! PCGH - ticker
 www.pcgameshardware.de##.ticker_item:has-text([Werbung])
 www.pcgameshardware.de##.item:has(a:has-text([Werbung]))
 www.pcgameshardware.de##.at_sponsored
-! PCGH article - inside
+! PCGH - article inside
 www.pcgameshardware.de##p:has(>b):has(a[href])
 www.pcgameshardware.de##p > :has(b):has(a[href])
-! PCGH article - video
+! PCGH - article video
 www.pcgameshardware.de###articleTextBody .cbox_embedded 
 www.pcgameshardware.de##.article_text:has(>p).cbox_embedded
-! PCGH article - links
+! PCGH - article links
 www.pcgameshardware.de##.linkbox
 www.pcgameshardware.de##.affiliateBelowArticle
 www.pcgameshardware.de##.ghapi
 ||www.pcgameshardware.de/commoncfm/geizhals
-! PCGH article - outside
+! PCGH - article outside
 www.pcgameshardware.de##.plusTeaserModule
 www.pcgameshardware.de##.productFactsModule 
 www.pcgameshardware.de##.shopLinkButtonsWrapper
@@ -89,19 +88,26 @@ knowyourmeme.com##.top-entries
 knowyourmeme.com##.related-news
 knowyourmeme.com###news_feeds
 
+fandom.com##.article-featured-video__player
+fandom.com##.ad-slot-wrapper
+fandom.com###mixed-content-footer
+
 imgur.com##.BottomRecirc
 imgur.com##.Gallery-Sidebar
+
+qastack.com.de##body:style(overflow: auto !important;)
+qastack.com.de##.fade
 
 www.pcwelt.de###leadfullWrapper
 www.pcwelt.de###sidebar
 www.pcwelt.de##.marketplace
 
-www.caseking.de###wallpaper
-www.caseking.de##.cc-window[aria-label="cookieconsent"]
-
 www.anisearch.de###top_outside
 www.anisearch.de##.highlightBox
 www.anisearch.de###content-sidebar
+
+www.premiumize.org##.ulp-overlay
+www.premiumize.org##.ulp-content
 
 www.synology-forum.de##.samItem
 www.synology-forum.de##p:has-text(Adblock):upward(3)
@@ -111,13 +117,8 @@ www.dns-shop.ru##.homepage-stories
 www.dns-shop.ru##.items-group__banner
 www.dns-shop.ru##.products-list__banner
 
-stackoverflow.com##.s-sidebarwidget
-stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
-superuser.com##.js-consent-banner
-
-fandom.com##.article-featured-video__player
-fandom.com##.ad-slot-wrapper
-fandom.com###mixed-content-footer
+www.caseking.de###wallpaper
+www.caseking.de##.cc-window[aria-label="cookieconsent"]
 
 www.xda-developers.com###xda_alert_bar
 www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
@@ -125,28 +126,26 @@ www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
 www.deepl.com###dl_app_banner_popup
 www.deepl.com##.lmt__formalitySwitch_ad
 
-mega.nz##.fm-dialog-overlay
+stackoverflow.com##.s-sidebarwidget
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
+superuser.com##.js-consent-banner
+
+developers.google.com##.devsite-banner-announcement
 proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
+mega.nz##.fm-dialog-overlay
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
-developers.google.com##.devsite-banner-announcement
 pypi.org##.notification-bar
+careerkarma.com##.wmpci-popup-wrp
 
+www.androidpolice.com##.widget:has(.adsbygoogle)
+www.sammobile.com##.container-fluid:has(.adsbygoogle)
 www.anime-loads.org##footer 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
-www.androidpolice.com##.widget:has(.adsbygoogle)
-www.sammobile.com##.container-fluid:has(.adsbygoogle)
 www.nsfwyoutube.com##.sidebarright
 www.reddit.com###SearchDropdownContent
 www.memedroid.com###mobile-ad-banner-container
-
-!-----Popups-----
-
-www.premiumize.org##.ulp-overlay
-www.premiumize.org##.ulp-content
-
-careerkarma.com##.wmpci-popup-wrp
 
 !----Whitelist----
 @@||api.nextdns.io

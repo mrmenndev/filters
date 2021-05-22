@@ -1,14 +1,13 @@
 ! Title: mrmenndev filters - search
 
-! duckduckgo top-domains
-duckduckgo.com##.results__sitelink--organics:has([data-domain$='quora.com'])
-duckduckgo.com##.results__sitelink--organics:has([data-domain$='gutefrage.net'])
-
 ! duckduckgo
 duckduckgo.com##.result[data-domain$='quora.com']
 duckduckgo.com##.result[data-domain$='gutefrage.net']
 duckduckgo.com##.result[data-domain$='xspdf.com']
 duckduckgo.com##.result[data-domain$='experts-exchange.com']
+! duckduckgo - top-domains
+duckduckgo.com##.results__sitelink--organics:has([data-domain$='quora.com'])
+duckduckgo.com##.results__sitelink--organics:has([data-domain$='gutefrage.net'])
 
 ! google
 www.google.com##div[class='g']:has(a[href*='quora.com'])
