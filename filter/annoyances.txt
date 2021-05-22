@@ -11,14 +11,6 @@ youtube.com###clarify-box
 ! YT - channelpage
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer)
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer, undefined)
-! YT - consent
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
-youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
-youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
-! YT - login
-youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
-youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
-youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
 
 ! YT - mobile
 m.youtube.com##.upsell-dialog-lightbox
