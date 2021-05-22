@@ -4,7 +4,7 @@
 ||www.youtube.com/comment_service_ajax
 youtube.com##ytd-comments
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.conversationBar, undefined)
-youtube.com##+js(json-prune, [].response.contents.twoColumnWatchNextResults.conversationBar)
+youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.conversationBar)
 
 !Youtube - Mobile
 ||m.youtube.com/watch_comment
