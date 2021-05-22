@@ -129,6 +129,7 @@ wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
 pypi.org##.notification-bar
 careerkarma.com##.wmpci-popup-wrp
+gitlab.com##.js-autodevops-banner
 
 www.androidpolice.com##.widget:has(.adsbygoogle)
 www.sammobile.com##.container-fluid:has(.adsbygoogle)
