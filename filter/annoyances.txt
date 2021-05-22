@@ -122,6 +122,9 @@ fandom.com###mixed-content-footer
 www.xda-developers.com###xda_alert_bar
 www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
 
+www.deepl.com###dl_app_banner_popup
+www.deepl.com##.lmt__formalitySwitch_ad
+
 mega.nz##.fm-dialog-overlay
 proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
 wikipedia.org###siteNotice
