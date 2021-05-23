@@ -5,6 +5,10 @@
 forum.kde.org##.profile-info-area
 !#endif
 
+! google - consent
+google.*##^responseheader(set-cookie)    
+google.*##+js(cookie-remover, CONSENT)
+
 ! YT - video
 youtube.com###merch-shelf 
 youtube.com###clarify-box
