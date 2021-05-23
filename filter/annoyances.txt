@@ -112,8 +112,8 @@ www.premiumize.org##.ulp-overlay
 www.premiumize.org##.ulp-content
 
 www.synology-forum.de##.samItem
-www.synology-forum.de##p:has-text(Adblock):upward(3)
-||www.synology-forum.de/js/wutime_adblocktracker/*$1p,important
+www.synology-forum.de##.s2amBannerUnit
+www.synology-forum.de##+js(acis, $, div.p-body-inner)
 
 www.dns-shop.ru##.homepage-stories
 www.dns-shop.ru##.items-group__banner
