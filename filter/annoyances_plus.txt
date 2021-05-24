@@ -14,3 +14,9 @@ www.google.*##div[role="dialog"]
 ! chip - video
 ||cmp.chip.de
 ||videoplayer.chip.de
+
+! mail.ru - center login
+mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:translateX(-50%)!important)
+! mail.ru - news
+mail.ru##div[data-testid='news-tabs']:upward(1)
+mail.ru##.horoscope
