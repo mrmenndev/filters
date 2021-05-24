@@ -35,9 +35,10 @@ chocolatey.org###announcementCarousel:upward(1)
 
 ! PCGH - start
 www.pcgameshardware.de###topBannerWrapper
-www.pcgameshardware.de##.e3TopTeaser
 www.pcgameshardware.de##.widget
 www.pcgameshardware.de##.fakeTripleTeaser
+! PCGH - start event
+www.pcgameshardware.de##.e3TopTeaser
 www.pcgameshardware.de##.xPromo_PCG
 www.pcgameshardware.de##.static_banner
 ! PCGH - ticker
@@ -108,22 +109,22 @@ www.pcwelt.de###leadfullWrapper
 www.pcwelt.de###sidebar
 www.pcwelt.de##.marketplace
 
-www.anisearch.de###top_outside
-www.anisearch.de###content-sidebar
-
-www.premiumize.org##.ulp-overlay
-www.premiumize.org##.ulp-content
-
 www.synology-forum.de##.samItem
 www.synology-forum.de##.s2amBannerUnit
 www.synology-forum.de##+js(acis, $, div.p-body-inner)
+
+www.anisearch.de###top_outside
+www.anisearch.de###content-sidebar
+
+www.caseking.de###wallpaper
+www.caseking.de##.cc-window[aria-label="cookieconsent"]
 
 www.dns-shop.ru##.homepage-stories
 www.dns-shop.ru##.items-group__banner
 www.dns-shop.ru##.products-list__banner
 
-www.caseking.de###wallpaper
-www.caseking.de##.cc-window[aria-label="cookieconsent"]
+www.premiumize.org##.ulp-overlay
+www.premiumize.org##.ulp-content
 
 www.xda-developers.com###xda_alert_bar
 www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
@@ -140,8 +141,8 @@ proandroiddev.com##div:has(.branch-journeys-top)
 developers.google.com##.devsite-banner-announcement
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
-pypi.org##.notification-bar
 careerkarma.com##.wmpci-popup-wrp
+pypi.org##.notification-bar
 gitlab.com##.js-autodevops-banner
 
 www.androidpolice.com##.widget:has(.adsbygoogle)
