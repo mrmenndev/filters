@@ -5,6 +5,10 @@
 forum.kde.org##.profile-info-area
 !#endif
 
+! mega - consent
+mega.*##.fm-dialog-overlay
+mega.*##.mega-dialog
+
 ! google - consent
 google.*##^responseheader(set-cookie)    
 google.*##+js(cookie-remover, CONSENT)
@@ -134,7 +138,6 @@ superuser.com##.js-consent-banner
 
 developers.google.com##.devsite-banner-announcement
 proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
-mega.nz##.fm-dialog-overlay
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
 pypi.org##.notification-bar
