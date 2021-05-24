@@ -136,8 +136,10 @@ stackoverflow.com##.s-sidebarwidget
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
 superuser.com##.js-consent-banner
 
+proandroiddev.com##.butterBar--privacy
+proandroiddev.com##div:has(.branch-journeys-top)
+
 developers.google.com##.devsite-banner-announcement
-proandroiddev.com##div:has(div:matches-css(display: flex):has-text(cookie))
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
 pypi.org##.notification-bar
