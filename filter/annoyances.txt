@@ -109,7 +109,6 @@ www.pcwelt.de###sidebar
 www.pcwelt.de##.marketplace
 
 www.anisearch.de###top_outside
-www.anisearch.de##.highlightBox
 www.anisearch.de###content-sidebar
 
 www.premiumize.org##.ulp-overlay
