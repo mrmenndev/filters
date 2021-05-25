@@ -1,4 +1,6 @@
 ! Title: mrmenndev filters - comments
+! Homepage: https://github.com/mrmenndev/filters
+! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/comments.txt
 
 ! YT
 ||www.youtube.com/comment_service_ajax

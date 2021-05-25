@@ -1,4 +1,6 @@
-! Title: mrmenndev filters - annoyances plus
+! Title: mrmenndev filters - annoyances_plus
+! Homepage: https://github.com/mrmenndev/filters
+! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances_plus.txt
 
 ! YT - homepage
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)
