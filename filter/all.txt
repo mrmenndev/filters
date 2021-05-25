@@ -1,4 +1,4 @@
-! Title: mrmenndev filters
+! Title: mrmenndev filters - all
 
 !#include annoyances.txt
 !#include annoyances_plus.txt
