@@ -157,5 +157,13 @@ www.reddit.com###SearchDropdownContent
 www.memedroid.com###mobile-ad-banner-container
 
 !----Whitelist----
+
+! nextdns.io- Unbreak loading
 @@||api.nextdns.io
+
+! turkru.tv - Unbreak preview
 @@||turkru.tv/static/pixel.png
+
+! xcom-shop.ru - Unbreak search
+@@||cdn.diginetica.net^$domain=xcom-shop.ru
+@@||autocomplete.diginetica.net^$domain=xcom-shop.ru
