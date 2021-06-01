@@ -100,6 +100,12 @@ ittweak.de##.s_stk
 ittweak.de##.socials
 ittweak.de##.shariff-button
 
+! cdek.ru - consent
+www.cdek.ru##.cookie-alert
+! cdek.ru - chat
+www.cdek.ru###chat
+www.cdek.ru##.help-customer-wrapper--loaded
+
 knowyourmeme.com##.scroll
 knowyourmeme.com###leaderboard
 knowyourmeme.com##.top-entries
