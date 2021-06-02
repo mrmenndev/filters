@@ -153,7 +153,7 @@ stackoverflow.com##.s-sidebarwidget
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
 
 proandroiddev.com##.butterBar--privacy
-proandroiddev.com##div:has(.branch-journeys-top)
+proandroiddev.com##body > div:not(#root)
 
 developers.google.com##.devsite-banner-announcement
 wikipedia.org###siteNotice
