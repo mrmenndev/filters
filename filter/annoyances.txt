@@ -106,6 +106,22 @@ www.cdek.ru##.cookie-alert
 www.cdek.ru###chat
 www.cdek.ru##.help-customer-wrapper--loaded
 
+! imdb.com - search
+imdb.com##+js(json-prune, d.[].v)
+! imdb.com - result news
+imdb.com##.ipc-page-grid__item--span-1
+imdb.com##div[data-testid="title-news-header"]:upward(1)
+! imdb.com - result videos
+imdb.com##div[class^="Media__SlateContainer"]
+imdb.com##section[data-testid="videos-section"]
+
+! old imdb.com - result news
+imdb.com###related-news
+imdb.com##.ab_widget
+! old imdb.com - result videos
+imdb.com##.mdot-video-hero
+imdb.com###video-strip
+
 knowyourmeme.com##.scroll
 knowyourmeme.com###leaderboard
 knowyourmeme.com##.top-entries
