@@ -106,6 +106,8 @@ www.cdek.ru##.cookie-alert
 www.cdek.ru###chat
 www.cdek.ru##.help-customer-wrapper--loaded
 
+! imdb.com - ad
+imdb.com##section[class*="AppUpsell"]
 ! imdb.com - search
 imdb.com##+js(json-prune, d.[].v)
 ! imdb.com - result news
@@ -114,6 +116,9 @@ imdb.com##div[data-testid="title-news-header"]:upward(1)
 ! imdb.com - result videos
 imdb.com##div[class^="Media__SlateContainer"]
 imdb.com##section[data-testid="videos-section"]
+! imdb.com - fix poster
+imdb.com##div[class^=SubNav]
+imdb.com##div[class^="Media__PosterContainer"]:style(position:relative!important;bottom:0!important)
 
 ! old imdb.com - result news
 imdb.com###related-news
