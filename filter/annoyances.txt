@@ -24,7 +24,7 @@ youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs
 
 ! YT - mobile
 m.youtube.com##.upsell-dialog-lightbox
-m.youtube.com##.consent-bump-lightbox
+m.youtube.com##.consent-bump-v2-lightbox
 m.youtube.com##body:style(position: absolute !important;)
 
 ! chocolatey.org - consent
