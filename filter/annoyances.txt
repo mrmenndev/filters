@@ -117,7 +117,7 @@ imdb.com##div[data-testid="title-news-header"]:upward(1)
 imdb.com##div[class^="Media__SlateContainer"]
 imdb.com##section[data-testid="videos-section"]
 ! imdb.com - fix poster
-imdb.com##div[class^=SubNav]
+imdb.com##div[class^="SubNav"]
 imdb.com##div[class^="Media__PosterContainer"]:style(position:relative!important;bottom:0!important)
 
 ! old imdb.com - result news
@@ -126,6 +126,13 @@ imdb.com##.ab_widget
 ! old imdb.com - result videos
 imdb.com##.mdot-video-hero
 imdb.com###video-strip
+
+! yandex.ru - ads
+yandex.ru##div[class*="ad-block"]
+yandex.ru##div[class*="yandex-direct"]
+! yandex.ru - dialogs
+yandex.ru##.hint-eula
+yandex.ru##.desktop-interview-modal
 
 knowyourmeme.com##.scroll
 knowyourmeme.com###leaderboard
