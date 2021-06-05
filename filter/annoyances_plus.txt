@@ -25,3 +25,10 @@ mail.ru##.horoscope
 
 ! imdb.com - homepage
 imdb.com##[class*="HomePageGrid"]
+
+! yandex.ru - desktop news
+yandex.ru##.media-grid__media-content
+yandex.ru##.news__header
+yandex.ru##.desk-notif
+yandex.ru##.region
+yandex.ru##.touch-feed
