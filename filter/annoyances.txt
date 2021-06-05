@@ -130,9 +130,16 @@ imdb.com###video-strip
 ! yandex.ru - ads
 yandex.ru##div[class*="ad-block"]
 yandex.ru##div[class*="yandex-direct"]
+yandex.ru##.mg-layout-item:not(:has(span))
 ! yandex.ru - dialogs
 yandex.ru##.hint-eula
 yandex.ru##.desktop-interview-modal
+! yandex.ru - banner
+yandex.ru##[data-apiary-widget-id="/fullScreenAppDistributionPopup"]
+yandex.ru##[data-apiary-widget-id="/appDistributionBanner"]
+yandex.ru##[data-zone-name="Banner"]
+yandex.ru##a[href*="geotouch.banner"]
+yandex.ru##div[class*="banner_top"]
 
 knowyourmeme.com##.scroll
 knowyourmeme.com###leaderboard
