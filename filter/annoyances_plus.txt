@@ -23,12 +23,34 @@ mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:transla
 mail.ru##div[data-testid='news-tabs']:upward(1)
 mail.ru##.horoscope
 
-! imdb.com - homepage
-imdb.com##[class*="HomePageGrid"]
-
 ! yandex.ru - desktop news
 yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
 yandex.ru##.desk-notif
 yandex.ru##.region
 yandex.ru##.touch-feed
+
+! imdb.com - homepage
+imdb.com##[class*="HomePageGrid"]
+! imdb.com - result news
+imdb.com##.ipc-page-grid__item--span-1
+imdb.com##div[data-testid="title-news-header"]:upward(1)
+imdb.com##div[data-testid="faq-content"]:upward(1)
+imdb.com##.ipc-page-section:has-text(Did you know)
+! imdb.com - result videos
+imdb.com##div[class^="Media__SlateContainer"]
+imdb.com##section[data-testid="videos-section"]
+! imdb.com - fix poster
+imdb.com##div[class^="SubNav"]
+imdb.com##div[class^="Media__PosterContainer"]:style(position:relative!important;bottom:0!important)
+
+! old imdb.com - result news
+imdb.com###related-news
+imdb.com##.ab_widget
+imdb.com###titleDidYouKnow
+imdb.com###titleFAQ
+imdb.com###sidebar
+! old imdb.com - result videos
+imdb.com##.mdot-video-hero
+imdb.com##.videoPreview 
+imdb.com###titleVideoStrip
