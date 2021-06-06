@@ -23,12 +23,13 @@ mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:transla
 mail.ru##div[data-testid='news-tabs']:upward(1)
 mail.ru##.horoscope
 
-! yandex.ru - desktop news
+! yandex.ru - search news
 yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
 yandex.ru##.desk-notif
 yandex.ru##.region
-yandex.ru##.touch-feed
+yandex.ru##.news
+yandex.ru##.infinity-zen
 
 ! imdb.com - homepage
 imdb.com##[class*="HomePageGrid"]
