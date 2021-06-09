@@ -2,11 +2,6 @@
 ! Homepage: https://github.com/mrmenndev/filters
 ! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
 
-! KDE Forum - posts
-!#if env_mobile
-forum.kde.org##.profile-info-area
-!#endif
-
 ! mega - consent
 mega.*##.fm-dialog-overlay
 mega.*##.mega-dialog
@@ -168,6 +163,9 @@ www.xda-developers.com###xda_alert_bar
 www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
 
 www.deepl.com###dl_app_banner_popup
+www.deepl.com##.dl_footer__socials
+www.deepl.com###lmt_quotes_article
+www.deepl.com###lmt_pro_ad_container_1
 www.deepl.com##.lmt__formalitySwitch_ad
 
 stackoverflow.com##.s-sidebarwidget
@@ -193,6 +191,11 @@ www.reddit.com###SearchDropdownContent
 www.memedroid.com###mobile-ad-banner-container
 
 !----Whitelist----
+
+! KDE Forum - posts
+!#if env_mobile
+forum.kde.org##.profile-info-area
+!#endif
 
 ! nextdns.io- Unbreak loading
 @@||api.nextdns.io
