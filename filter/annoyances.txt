@@ -12,8 +12,8 @@ mega.*##.fm-dialog-overlay
 mega.*##.mega-dialog
 
 ! google - consent
-google.*##^responseheader(set-cookie)    
-google.*##+js(cookie-remover, CONSENT)
+www.google.*##^responseheader(set-cookie)    
+www.google.*##+js(cookie-remover, CONSENT)
 
 ! YT - video
 youtube.com###merch-shelf 
