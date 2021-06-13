@@ -169,6 +169,7 @@ www.deepl.com###lmt_pro_ad_container_1
 www.deepl.com##.lmt__formalitySwitch_ad
 
 stackoverflow.com##.s-sidebarwidget
+stackoverflow.com##.js-stacks-managed-popup
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
 
 proandroiddev.com##.butterBar--privacy
