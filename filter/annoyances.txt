@@ -180,6 +180,7 @@ threadreaderapp.com##.sharingfooter
 careerkarma.com##.wmpci-popup-wrp
 pypi.org##.notification-bar
 gitlab.com##.js-autodevops-banner
+dongknows.com##+js(aopr, adsBlocked)
 
 www.androidpolice.com##.widget:has(.adsbygoogle)
 www.sammobile.com##.container-fluid:has(.adsbygoogle)
