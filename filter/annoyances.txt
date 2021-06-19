@@ -176,6 +176,7 @@ proandroiddev.com##.butterBar--privacy
 proandroiddev.com##body > div:not(#root)
 
 developers.google.com##.devsite-banner-announcement
+golang.org##.Header-banner
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
 careerkarma.com##.wmpci-popup-wrp
