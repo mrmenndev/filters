@@ -100,6 +100,11 @@ www.cdek.ru##.cookie-alert
 ! cdek.ru - chat
 www.cdek.ru###chat
 www.cdek.ru##.help-customer-wrapper--loaded
+
+! udemy.com - pride
+||www.udemy.com/staticx/udemy/js/webpack/udemy-pride-logo
+www.udemy.com##.js-pride-month-gradient
+
 ! imdb.com - ad
 imdb.com##section[class*="AppUpsell"]
 imdb.com##.banner
