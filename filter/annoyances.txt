@@ -178,7 +178,7 @@ stackoverflow.com##.js-stacks-managed-popup
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
 
 proandroiddev.com##.butterBar--privacy
-proandroiddev.com##body > div:last-of-type
+proandroiddev.com##body > div:nth-of-type(2)
 
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
