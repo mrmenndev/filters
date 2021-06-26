@@ -188,7 +188,6 @@ careerkarma.com##.wmpci-popup-wrp
 pypi.org##.notification-bar
 gitlab.com##.js-autodevops-banner
 dongknows.com##+js(aopr, adsBlocked)
-apkmirror.com##+js(acis, jQuery, downloadCountdown)
 
 www.androidpolice.com##.widget:has(.adsbygoogle)
 www.sammobile.com##.container-fluid:has(.adsbygoogle)
