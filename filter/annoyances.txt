@@ -178,6 +178,12 @@ www.deepl.com###lmt_quotes_article
 www.deepl.com###lmt_pro_ad_container_1
 www.deepl.com##.lmt__formalitySwitch_ad
 
+! eurogamer.de - ads
+www.eurogamer.de##.promotion
+www.eurogamer.de##.internal-link
+! eurogamer.de - footer
+www.eurogamer.de##.below
+
 stackoverflow.com##.s-sidebarwidget
 stackoverflow.com##.js-stacks-managed-popup
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
