@@ -184,6 +184,13 @@ www.eurogamer.de##.internal-link
 ! eurogamer.de - footer
 www.eurogamer.de##.below
 
+! raywenderlich.com - ads
+www.raywenderlich.com##.c-banner-advert
+www.raywenderlich.com##.c-banner-related
+www.raywenderlich.com##.l-newsletter-article
+! raywenderlich.com - footer
+www.raywenderlich.com##.c-banner-draper-sticky
+
 stackoverflow.com##.s-sidebarwidget
 stackoverflow.com##.js-stacks-managed-popup
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
