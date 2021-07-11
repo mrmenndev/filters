@@ -206,6 +206,7 @@ careerkarma.com##.wmpci-popup-wrp
 pypi.org##.notification-bar
 gitlab.com##.js-autodevops-banner
 dongknows.com##+js(aopr, adsBlocked)
+antonioleiva.com##.tve-leads-conversion-object
 
 www.androidpolice.com##.widget:has(.adsbygoogle)
 www.sammobile.com##.container-fluid:has(.adsbygoogle)
