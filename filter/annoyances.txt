@@ -7,7 +7,6 @@ mega.*##.fm-dialog-overlay
 mega.*##.mega-dialog
 
 ! google - consent
-www.google.*##^responseheader(set-cookie)    
 www.google.*##+js(cookie-remover, CONSENT)
 
 ! YT - video
