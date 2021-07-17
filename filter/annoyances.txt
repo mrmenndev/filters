@@ -190,6 +190,9 @@ www.raywenderlich.com##.l-newsletter-article
 ! raywenderlich.com - footer
 www.raywenderlich.com##.c-banner-draper-sticky
 
+www.seimaxim.com##.siq_bR
+www.seimaxim.com###cookie-law-info-bar
+
 stackoverflow.com##.s-sidebarwidget
 stackoverflow.com##.js-stacks-managed-popup
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
