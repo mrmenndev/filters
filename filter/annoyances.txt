@@ -200,6 +200,9 @@ stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru
 proandroiddev.com##.butterBar--privacy
 proandroiddev.com##body > div:nth-of-type(2)
 
+steamcommunity.com##.adult_content_age_gate
+steamcommunity.com##.responsive_page_template_content:style(display: block !important;)
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
