@@ -17,9 +17,11 @@ m.youtube.com##ytm-comments-entry-point-header-renderer
 www.pcgameshardware.de###comment
 www.pcgameshardware.de###article_comment_box
 
-! computerbase.de
+! computerbase.de - start
+www.computerbase.de##.box--blue
 www.computerbase.de##.article__meta-li:has(.article__comments-link)
 www.computerbase.de##.ticker__comment-link
+! computerbase.de - article
 www.computerbase.de##.article-view__footer-links
 www.computerbase.de##.article__comments-link
 
