@@ -8,9 +8,9 @@ youtube.com##ytd-comments
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.conversationBar, undefined)
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.conversationBar)
 
-! YT - Mobile
-||m.youtube.com/watch_comment
-m.youtube.com##ytm-comment-section-renderer
+! YT - mobile
+||m.youtube.com/youtubei/v1/next
+m.youtube.com##ytm-comments-entry-point-header-renderer
 
 ! PCGH
 www.pcgameshardware.de###comment
