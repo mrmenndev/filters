@@ -212,6 +212,7 @@ pypi.org##.notification-bar
 gitlab.com##.js-autodevops-banner
 dongknows.com##+js(aopr, adsBlocked)
 antonioleiva.com##.tve-leads-conversion-object
+dev.to##.authentication-feed__card
 
 www.androidpolice.com##.widget:has(.adsbygoogle)
 www.sammobile.com##.container-fluid:has(.adsbygoogle)
@@ -232,7 +233,7 @@ www.tabnine.com##.AdWrapper
 forum.kde.org##.profile-info-area
 !#endif
 
-! nextdns.io- Unbreak loading
+! nextdns.io - Unbreak loading
 @@||api.nextdns.io
 
 ! turkru.tv - Unbreak preview
