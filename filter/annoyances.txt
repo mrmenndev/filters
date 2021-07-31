@@ -225,6 +225,7 @@ www.memedroid.com###mobile-ad-banner-container
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
 www.tabnine.com##.AdWrapper
+www.asustor.com###gdpr_wrap
 
 !----Whitelist----
 
