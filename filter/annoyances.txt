@@ -9,6 +9,9 @@ mega.*##.mega-dialog
 ! google - consent
 www.google.*##+js(cookie-remover, CONSENT)
 
+! YT - consent
+www.youtube.com##tp-yt-iron-overlay-backdrop
+www.youtube.com##ytd-consent-bump-v2-lightbox
 ! YT - video
 youtube.com###merch-shelf 
 youtube.com###clarify-box
