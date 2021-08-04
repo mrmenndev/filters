@@ -171,8 +171,11 @@ www.dns-shop.ru##.products-list__banner
 www.premiumize.org##.ulp-overlay
 www.premiumize.org##.ulp-content
 
+! xda-developers.com - start
 www.xda-developers.com###xda_alert_bar
 www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
+! xda-developers.com - article
+www.xda-developers.com##.xda_nanobox
 
 www.deepl.com###dl_app_banner_popup
 www.deepl.com##.dl_footer__socials
