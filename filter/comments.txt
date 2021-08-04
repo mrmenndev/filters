@@ -2,9 +2,11 @@
 ! Homepage: https://github.com/mrmenndev/filters
 ! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/comments.txt
 
-! YT - comment
-youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer, undefined)
+! YT - comments
+youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.2, [])
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer)
+youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.3, [])
+youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.results.results.contents.3.itemSectionRenderer)
 ! YT - chat
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.conversationBar, undefined)
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.conversationBar)
