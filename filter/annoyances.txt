@@ -99,6 +99,8 @@ ittweak.de##.shariff-button
 
 ! cdek.ru - consent
 www.cdek.ru##.cookie-alert
+! cdek.ru - ad
+www.cdek.ru##.banner-carousel
 ! cdek.ru - chat
 www.cdek.ru###chat
 www.cdek.ru##.help-customer-wrapper--loaded
