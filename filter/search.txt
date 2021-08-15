@@ -8,6 +8,7 @@ duckduckgo.com##.result[data-domain$='gutefrage.net']
 duckduckgo.com##.result[data-domain$='xspdf.com']
 duckduckgo.com##.result[data-domain$='experts-exchange.com']
 duckduckgo.com##.result[data-domain$='ringingliberty.com']
+duckduckgo.com##.result[data-domain$='bleepcoder.com']
 
 ! duckduckgo - top-domains
 duckduckgo.com##.results__sitelink--organics:has([data-domain$='quora.com'])
@@ -21,3 +22,4 @@ www.google.com##div[class='g']:has(a[href*='gutefrage.net'])
 www.google.com##div[class='g']:has(a[href*='xspdf.com'])
 www.google.com##div[class='g']:has(a[href*='experts-exchange.com'])
 www.google.com##div[class='g']:has(a[href*='ringingliberty.com'])
+www.google.com##div[class='g']:has(a[href*='bleepcoder.com'])
