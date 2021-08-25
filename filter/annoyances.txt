@@ -201,9 +201,12 @@ www.raywenderlich.com##.c-banner-draper-sticky
 www.seimaxim.com##.siq_bR
 www.seimaxim.com###cookie-law-info-bar
 
+! stackexchange - sidebar
 stackoverflow.com##.s-sidebarwidget
-stackoverflow.com##.js-stacks-managed-popup
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
+! stackexchange - consent
+stackoverflow.com##.js-stacks-managed-popup
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com##.js-consent-banner
 
 proandroiddev.com##.butterBar--privacy
 proandroiddev.com##body > div:nth-of-type(2)
