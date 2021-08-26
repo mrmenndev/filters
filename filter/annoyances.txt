@@ -214,6 +214,26 @@ proandroiddev.com##body > div:nth-of-type(2)
 steamcommunity.com##.adult_content_age_gate
 steamcommunity.com##.responsive_page_template_content:style(display: block !important;)
 
+! islamicfinder.org - consent
+www.islamicfinder.org##.gdpr-Popup
+www.islamicfinder.org##.gdpr-popup
+! islamicfinder.org - app
+www.islamicfinder.org##.athan-card
+www.islamicfinder.org##.banner
+www.islamicfinder.org##.banner-box
+www.islamicfinder.org###athan-playstore-card
+! islamicfinder.org - ad
+www.islamicfinder.org##._ap_apex_ad
+www.islamicfinder.org##.ad-leaderboard
+www.islamicfinder.org##.columns > :has(div[id^="div-gpt-ad"])
+www.islamicfinder.org##.columns > :has-text(Social Media)
+www.islamicfinder.org##.subscription-form
+! islamicfinder.org - article
+www.islamicfinder.org##.iqra-article-tile
+www.islamicfinder.org##.latest-gallery-cards
+! islamicfinder.org - feedback
+www.islamicfinder.org###feedbackbtn
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
