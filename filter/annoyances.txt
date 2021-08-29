@@ -208,8 +208,9 @@ stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru
 stackoverflow.com##.js-stacks-managed-popup
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com##.js-consent-banner
 
-proandroiddev.com##.butterBar--privacy
-proandroiddev.com##body > div:nth-of-type(2)
+! medium - consent
+proandroiddev.com,codeburst.io##.butterBar--privacy
+proandroiddev.com,codeburst.io##body > div:nth-of-type(2)
 
 steamcommunity.com##.adult_content_age_gate
 steamcommunity.com##.responsive_page_template_content:style(display: block !important;)
