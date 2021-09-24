@@ -53,10 +53,11 @@ www.pcgameshardware.de###supportNote
 
 ! chip.de - start
 www.chip.de##.Portal:style(--topbanner-height-min: 0px!important)
+www.chip.de###hp-violett
 ! chip.de - article
-www.chip.de##.Listing-Teaser--V02
-www.chip.de##.is-emphasized
-www.chip.de##.Grid__Row:has(div[data-endlessvideo])
+www.chip.de##.News:style(--topbanner-height-min: 0px!important)
+www.chip.de##.wrapper-safe > aside
+www.chip.de##.BC-Content
 
 ! computerbase.de - consent
 www.computerbase.de##+js(set, BaseCMS.initDialog, noopFunc)
