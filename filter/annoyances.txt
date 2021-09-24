@@ -103,6 +103,9 @@ imdb.com##section[class*="AppUpsell"]
 imdb.com##.banner
 ! imdb.com - search
 imdb.com##+js(json-prune, d.[].v)
+! imdb.com - result
+imdb.com##div[class*="Hero__WatchContainer"]
+imdb.com##section[data-testid="videos-section"]
 
 ! yandex.ru - ads
 yandex.ru##div[class*="ad-block"]
