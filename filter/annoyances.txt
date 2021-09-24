@@ -234,6 +234,7 @@ dongknows.com##+js(aopr, adsBlocked)
 antonioleiva.com##.tve-leads-conversion-object
 dev.to##.authentication-feed__card
 weather.com##.appWrapper:not(:has(div[class*="gradients--default"])) section[data-testid="ContentMediaModule"]
+theregister.com##.adun
 
 www.androidpolice.com##.widget:has(.adsbygoogle)
 www.sammobile.com##.container-fluid:has(.adsbygoogle)
