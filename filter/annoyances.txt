@@ -106,7 +106,6 @@ imdb.com##+js(json-prune, d.[].v)
 ! yandex.ru - ads
 yandex.ru##div[class*="ad-block"]
 yandex.ru##div[class*="yandex-direct"]
-yandex.ru##.mg-layout-item:not(:has(span))
 ! yandex.ru - dialogs
 yandex.ru##.hint-eula
 yandex.ru##.hint-eula-mobile
