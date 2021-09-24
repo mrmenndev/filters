@@ -24,7 +24,6 @@ mail.ru##div[data-testid='news-tabs']:upward(1)
 mail.ru##.horoscope
 
 ! yandex.ru - search news
-yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
 yandex.ru##.desk-notif
 yandex.ru##.region
