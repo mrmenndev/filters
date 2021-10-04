@@ -240,7 +240,6 @@ weather.com##.appWrapper:not(:has(div[class*="gradients--default"])) section[dat
 theregister.com##.adun
 4k-monitor.ru##.is-bg1:upward(1)
 
-www.androidpolice.com##.widget:has(.adsbygoogle)
 www.sammobile.com##.container-fluid:has(.adsbygoogle)
 www.anime-loads.org##footer 
 www.soeren-hentzschel.at##.tnemesitrevda
