@@ -109,7 +109,6 @@ imdb.com##section[data-testid="videos-section"]
 
 ! yandex.ru - ads
 yandex.ru##div[class*="ad-block"]
-yandex.ru##div[class*="yandex-direct"]
 ! yandex.ru - dialogs
 yandex.ru##.hint-eula
 yandex.ru##.hint-eula-mobile
