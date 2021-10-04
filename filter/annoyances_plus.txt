@@ -37,10 +37,3 @@ imdb.com##.ipc-page-grid__item--span-1
 imdb.com##div[data-testid="title-news-header"]:upward(1)
 imdb.com##div[data-testid="faq-content"]:upward(1)
 imdb.com##.ipc-page-section:has-text(Did you know)
-
-! old imdb.com - result news
-imdb.com###related-news
-imdb.com##.ab_widget
-imdb.com###titleDidYouKnow
-imdb.com###titleFAQ
-imdb.com###sidebar
