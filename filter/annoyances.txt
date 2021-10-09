@@ -156,7 +156,10 @@ www.anisearch.de###content-sidebar
 www.caseking.de###wallpaper
 www.caseking.de##.cc-window[aria-label="cookieconsent"]
 
+! dns-shop.ru - stories
 www.dns-shop.ru##.homepage-stories
+www.dns-shop.ru##.category-stories
+! dns-shop.ru - banner 
 www.dns-shop.ru##.items-group__banner
 www.dns-shop.ru##.products-list__banner
 
