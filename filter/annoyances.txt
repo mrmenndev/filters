@@ -268,3 +268,7 @@ forum.kde.org##.profile-info-area
 ! xcom-shop.ru - Unbreak search
 @@||cdn.diginetica.net^$domain=xcom-shop.ru
 @@||autocomplete.diginetica.net^$domain=xcom-shop.ru
+
+! Unbreak JDownloader Click'n'Loader
+@@||127.0.0.1^*/jdcheck.js
+@@||127.0.0.1^*/flash/addcrypted2
