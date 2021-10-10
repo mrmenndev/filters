@@ -274,4 +274,4 @@ forum.kde.org##.profile-info-area
 
 ! Unbreak JDownloader Click'n'Loader
 @@||127.0.0.1^*/jdcheck.js
-@@||127.0.0.1^*/flash/addcrypted2
+@@||127.0.0.1^*/flash/add*
