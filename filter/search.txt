@@ -11,8 +11,8 @@ duckduckgo.com##.result[data-domain$='ringingliberty.com']
 duckduckgo.com##.result[data-domain$='bleepcoder.com']
 
 ! duckduckgo - top-domains
-duckduckgo.com##.results__sitelink--organics:has([data-domain$='quora.com'])
-duckduckgo.com##.results__sitelink--organics:has([data-domain$='gutefrage.net'])
+duckduckgo.com##.result__sitelinks:has([data-domain$='quora.com'])
+duckduckgo.com##.result__sitelinks:has([data-domain$='gutefrage.net'])
 ! duckduckgo - news
 duckduckgo.com##.js-module--news
 
