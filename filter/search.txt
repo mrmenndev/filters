@@ -32,3 +32,13 @@ search.brave.com##.snippet:has(.result-header[href*='ringingliberty.com'])
 search.brave.com##.snippet:has(.result-header[href*='bleepcoder.com'])
 ! brave search - news
 search.brave.com###news-carousel
+
+! yandex
+yandex.*##.serp-item:has(a[href*='quora.com']):not(:has(.entity-search))
+yandex.*##.serp-item:has(a[href*='gutefrage.net']):not(:has(.entity-search))
+yandex.*##.serp-item:has(a[href*='xspdf.com'])
+yandex.*##.serp-item:has(a[href*='experts-exchange.com'])
+yandex.*##.serp-item:has(a[href*='ringingliberty.com'])
+yandex.*##.serp-item:has(a[href*='bleepcoder.com'])
+! yandex - related
+yandex.*##.RelatedAbove
