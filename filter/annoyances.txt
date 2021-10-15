@@ -228,6 +228,11 @@ www.islamicfinder.org##.latest-gallery-cards
 ! islamicfinder.org - feedback
 www.islamicfinder.org###feedbackbtn
 
+! timeanddate.com - header
+www.timeanddate.com###ad-wrap
+www.timeanddate.com##.header__wrapper:style(height: 1rem !important)
+www.timeanddate.com##.bn-header--timepage:style(padding-top: 2rem !important;)
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
