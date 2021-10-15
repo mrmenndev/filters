@@ -28,7 +28,7 @@ Block `comments` of a website.
 ## mrmenndev filters - search
 
 Filter stupid or dangerous websites from search-engines.
-Right now `duckduckgo` and `google` are supported.
+Right now `duckduckgo`, `google` and `brave search` are supported.
 
 -   [URL](https://raw.githubusercontent.com/mrmenndev/filters/master/filter/search.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/mrmenndev/filters/master/filter/search.txt&title=mrmenndev%20filters%20-%20search)

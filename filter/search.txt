@@ -9,7 +9,6 @@ duckduckgo.com##.result[data-domain$='xspdf.com']
 duckduckgo.com##.result[data-domain$='experts-exchange.com']
 duckduckgo.com##.result[data-domain$='ringingliberty.com']
 duckduckgo.com##.result[data-domain$='bleepcoder.com']
-
 ! duckduckgo - top-domains
 duckduckgo.com##.result__sitelinks:has([data-domain$='quora.com'])
 duckduckgo.com##.result__sitelinks:has([data-domain$='gutefrage.net'])
@@ -23,3 +22,13 @@ www.google.com##div[class='g']:has(a[href*='xspdf.com'])
 www.google.com##div[class='g']:has(a[href*='experts-exchange.com'])
 www.google.com##div[class='g']:has(a[href*='ringingliberty.com'])
 www.google.com##div[class='g']:has(a[href*='bleepcoder.com'])
+
+! brave search
+search.brave.com##.snippet:has(.result-header[href*='quora.com'])
+search.brave.com##.snippet:has(.result-header[href*='gutefrage.net'])
+search.brave.com##.snippet:has(.result-header[href*='xspdf.com'])
+search.brave.com##.snippet:has(.result-header[href*='experts-exchange.com'])
+search.brave.com##.snippet:has(.result-header[href*='ringingliberty.com'])
+search.brave.com##.snippet:has(.result-header[href*='bleepcoder.com'])
+! brave search - news
+search.brave.com###news-carousel
