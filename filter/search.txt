@@ -16,12 +16,12 @@ duckduckgo.com##.result__sitelinks:has([data-domain$='gutefrage.net'])
 duckduckgo.com##.js-module--news
 
 ! google
-www.google.com##div[class='g']:has(a[href*='quora.com'])
-www.google.com##div[class='g']:has(a[href*='gutefrage.net'])
-www.google.com##div[class='g']:has(a[href*='xspdf.com'])
-www.google.com##div[class='g']:has(a[href*='experts-exchange.com'])
-www.google.com##div[class='g']:has(a[href*='ringingliberty.com'])
-www.google.com##div[class='g']:has(a[href*='bleepcoder.com'])
+www.google.*##div[data-hveid]:not(>h1):has(a[href*='quora.com'])
+www.google.*##div[data-hveid]:not(>h1):has(a[href*='gutefrage.net'])
+www.google.*##div[data-hveid]:not(>h1):has(a[href*='xspdf.com'])
+www.google.*##div[data-hveid]:not(>h1):has(a[href*='experts-exchange.com'])
+www.google.*##div[data-hveid]:not(>h1):has(a[href*='ringingliberty.com'])
+www.google.*##div[data-hveid]:not(>h1):has(a[href*='bleepcoder.com'])
 
 ! brave search
 search.brave.com##.snippet:has(.result-header[href*='quora.com'])
