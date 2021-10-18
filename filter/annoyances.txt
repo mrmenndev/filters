@@ -101,6 +101,7 @@ www.udemy.com##.js-pride-month-gradient
 ! imdb.com - ad
 imdb.com##section[class*="AppUpsell"]
 imdb.com##.banner
+imdb.com###ipc-wrap-background-id
 ! imdb.com - search
 imdb.com##+js(json-prune, d.[].v)
 ! imdb.com - result
