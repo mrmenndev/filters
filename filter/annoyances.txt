@@ -234,6 +234,9 @@ www.timeanddate.com###ad-wrap
 www.timeanddate.com##.banner
 www.timeanddate.com##.header__wrapper:style(height: 2.5rem !important)
 
+! deezer.com - consent
+||dzcdn.net/common/js/gdpr-appliance.js
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
