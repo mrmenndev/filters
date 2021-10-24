@@ -266,6 +266,7 @@ www.tabnine.com##.AdWrapper
 www.asustor.com###gdpr_wrap
 www.debugpoint.com###wpd-bubble-wrapper
 www.snbforums.com##.notice--primary
+www.androidpolice.com##article:has-text(sponsored by)
 
 !----Whitelist----
 
