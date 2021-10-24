@@ -172,6 +172,9 @@ www.xda-developers.com###xda_alert_bar
 www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
 ! xda-developers.com - article
 www.xda-developers.com##.xda_nanobox
+! xda-developers.com - forum
+forum.xda-developers.com##.xda-alertbar-huawei
+forum.xda-developers.com##[data-freestar-ad]
 
 www.deepl.com###dl_app_banner_popup
 www.deepl.com##.dl_footer__socials
