@@ -212,6 +212,11 @@ proandroiddev.com,codeburst.io##body > div:nth-of-type(2)
 steamcommunity.com##.adult_content_age_gate
 steamcommunity.com##.responsive_page_template_content:style(display: block !important;)
 
+! tele-ru.ru - browser menu
+tele-ru.ru##+js(acis, document.oncontextmenu)
+tele-ru.ru##+js(acis, document.onkeydown)
+tele-ru.ru##+js(acis, document.onmousedown)
+
 ! islamicfinder.org - consent
 www.islamicfinder.org##.gdpr-Popup
 www.islamicfinder.org##.gdpr-popup
