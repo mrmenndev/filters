@@ -77,10 +77,6 @@ www.allround-pc.com##.apcTrackingModal
 ! allround-pc.com - ad
 www.allround-pc.com##.infoHeadWrap1
 
-! ittweak.de - consent
-ittweak.de##+js(set, window.realCookieBanner, undefined)
-! ittweak.de - ad
-ittweak.de###branding
 ! ittweak.de - share
 ittweak.de##.s_stk
 ittweak.de##.socials
