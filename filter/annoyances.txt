@@ -154,9 +154,6 @@ www.synology-forum.de##+js(acis, $, div.p-body-inner)
 www.anisearch.de###top_outside
 www.anisearch.de###content-sidebar
 
-www.caseking.de###wallpaper
-www.caseking.de##.cc-window[aria-label="cookieconsent"]
-
 ! dns-shop.ru - stories
 www.dns-shop.ru##.homepage-stories
 www.dns-shop.ru##.category-stories
@@ -273,6 +270,7 @@ www.asustor.com###gdpr_wrap
 www.debugpoint.com###wpd-bubble-wrapper
 www.snbforums.com##.notice--primary
 www.androidpolice.com##article:has-text(sponsored by)
+www.caseking.de###wallpaper
 
 !----Whitelist----
 
