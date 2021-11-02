@@ -74,8 +74,6 @@ www.computerbase.de##.article:has-text(/Anzeige/)
 ! allround-pc.com - consent
 www.allround-pc.com##html:style(overflow:auto !important)
 www.allround-pc.com##.apcTrackingModal
-! allround-pc.com - ad
-www.allround-pc.com##.infoHeadWrap1
 
 ! ittweak.de - share
 ittweak.de##.s_stk
