@@ -68,6 +68,7 @@ www.computerbase.de##+js(rc, snigel-layout)
 ! computerbase.de - ads
 www.computerbase.de##.adbox
 www.computerbase.de##.js-promobar
+www.computerbase.de##.text-ad
 ! computerbase.de - ads in ticker
 www.computerbase.de##.article:has-text(/Anzeige/)
 
