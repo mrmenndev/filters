@@ -27,7 +27,7 @@ m.youtube.com##body:style(position: absolute !important;)
 ! chocolatey.org - consent
 chocolatey.org##.fade
 chocolatey.org##body:style(overflow: auto !important;)
-! chocolatey.org - notification
+! chocolatey.org - popups
 chocolatey.org##.gitter-open-chat-button
 chocolatey.org##.btn-announcement-notifications
 chocolatey.org###announcementCarousel:upward(1)
@@ -83,7 +83,7 @@ ittweak.de##.shariff-button
 
 ! cdek.ru - consent
 www.cdek.ru##.cookie-alert
-! cdek.ru - ad
+! cdek.ru - ads
 www.cdek.ru##.banner-carousel
 ! cdek.ru - chat
 www.cdek.ru###chat
@@ -93,7 +93,7 @@ www.cdek.ru##.help-customer-wrapper--loaded
 ||www.udemy.com/staticx/udemy/js/webpack/udemy-pride-logo
 www.udemy.com##.js-pride-month-gradient
 
-! imdb.com - ad
+! imdb.com - ads
 imdb.com##section[class*="AppUpsell"]
 imdb.com##.banner
 imdb.com###ipc-wrap-background-id
@@ -107,7 +107,7 @@ imdb.com##section[data-testid="videos-section"]
 
 ! yandex.ru - ads
 yandex.ru##div[class*="ad-block"]
-! yandex.ru - dialogs
+! yandex.ru - popups
 yandex.ru##.hint-eula
 yandex.ru##.hint-eula-mobile
 yandex.ru##.desktop-interview-modal
@@ -125,7 +125,7 @@ knowyourmeme.com##.top-entries
 knowyourmeme.com##.related-news
 knowyourmeme.com###news_feeds
 
-! fandom.com - ad
+! fandom.com - ads
 fandom.com##.ad-slot-wrapper
 fandom.com##.ad-slot-placeholder
 ! fandom.com - footer
@@ -189,8 +189,10 @@ www.raywenderlich.com##.l-newsletter-article
 ! raywenderlich.com - footer
 www.raywenderlich.com##.c-banner-draper-sticky
 
-www.seimaxim.com##.siq_bR
+! seimaxim.com - consent
 www.seimaxim.com###cookie-law-info-bar
+! seimaxim.com - popups
+www.seimaxim.com##.siq_bR
 
 ! stackexchange - sidebar
 stackoverflow.com##.s-sidebarwidget
@@ -203,6 +205,7 @@ stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru
 proandroiddev.com,codeburst.io##.butterBar--privacy
 proandroiddev.com,codeburst.io##body > div:nth-of-type(2)
 
+! steamcommunity.com - age gate
 steamcommunity.com##.adult_content_age_gate
 steamcommunity.com##.responsive_page_template_content:style(display: block !important;)
 
@@ -219,7 +222,7 @@ www.islamicfinder.org##.athan-card
 www.islamicfinder.org##.banner
 www.islamicfinder.org##.banner-box
 www.islamicfinder.org###athan-playstore-card
-! islamicfinder.org - ad
+! islamicfinder.org - ads
 www.islamicfinder.org##._ap_apex_ad
 www.islamicfinder.org##.ad-leaderboard
 www.islamicfinder.org##.columns > :has(div[id^="div-gpt-ad"])
