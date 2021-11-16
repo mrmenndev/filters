@@ -239,6 +239,13 @@ www.timeanddate.com##.header__wrapper:style(height: 2.5rem !important)
 ! deezer.com - consent
 ||dzcdn.net/common/js/gdpr-appliance.js
 
+! geeksforgeeks.org - popups
+www.geeksforgeeks.org##.login-modal-div
+! geeksforgeeks.org - ads
+www.geeksforgeeks.org##.textBasedMannualAds
+! geeksforgeeks.org - translate
+||translate.googleapis.com^$domain=geeksforgeeks.org
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
