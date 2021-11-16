@@ -158,9 +158,6 @@ www.dns-shop.ru##.category-stories
 www.dns-shop.ru##.items-group__banner
 www.dns-shop.ru##.products-list__banner
 
-www.premiumize.org##.ulp-overlay
-www.premiumize.org##.ulp-content
-
 ! xda-developers.com - start
 www.xda-developers.com###xda_alert_bar
 www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
