@@ -69,6 +69,7 @@ www.computerbase.de##+js(rc, snigel-layout)
 www.computerbase.de##.adbox
 www.computerbase.de##.js-promobar
 www.computerbase.de##.text-ad
+www.computerbase.de##.blackfriday
 ! computerbase.de - ads in ticker
 www.computerbase.de##.article:has-text(/Anzeige/)
 
