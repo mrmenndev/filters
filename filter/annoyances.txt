@@ -112,11 +112,8 @@ yandex.ru##.hint-eula
 yandex.ru##.hint-eula-mobile
 yandex.ru##.desktop-interview-modal
 ! yandex.ru - banner
-yandex.ru##[data-apiary-widget-id="/fullScreenAppDistributionPopup"]
-yandex.ru##[data-apiary-widget-id="/appDistributionBanner"]
-yandex.ru##[data-zone-name="Banner"]
-yandex.ru##a[href*="geotouch.banner"]
-yandex.ru##div[class*="banner_top"]
+yandex.ru##body:style(overflow: auto !important;)
+yandex.ru##div[data-apiary-widget-id*="Popup"]
 yandex.ru##.notification-promo
 
 knowyourmeme.com##.scroll
