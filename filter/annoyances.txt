@@ -68,9 +68,10 @@ www.computerbase.de##+js(rc, snigel-layout)
 ! computerbase.de - ads
 www.computerbase.de##.adbox
 www.computerbase.de##.js-promobar
-www.computerbase.de##.text-asset:has(a[rel*="sponsored"])
-! computerbase.de - ads in ticker
+www.computerbase.de##.shoutbox.box
+! computerbase.de - ads in text
 www.computerbase.de##li:has-text([Anzeige])
+www.computerbase.de##.text-asset:has(a[rel*="sponsored"])
 
 ! allround-pc.com - consent
 www.allround-pc.com##html:style(overflow:auto !important)
