@@ -114,7 +114,7 @@ yandex.ru##.hint-eula-mobile
 yandex.ru##.desktop-interview-modal
 ! yandex.ru - banner
 yandex.ru##body:style(overflow: auto !important;)
-yandex.ru##div[data-apiary-widget-id*="Popup"]
+yandex.ru##div[data-apiary-widget-id="/content/fashionOnboardingPopup"]
 yandex.ru##.notification-promo
 
 knowyourmeme.com##.scroll
