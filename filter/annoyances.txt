@@ -244,6 +244,10 @@ www.geeksforgeeks.org##.textBasedMannualAds
 ! geeksforgeeks.org - translate
 ||translate.googleapis.com^$domain=geeksforgeeks.org
 
+! omg.de - consent
+www.omg.de##.control-fade
+www.omg.de##.fade
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
@@ -274,7 +278,6 @@ www.snbforums.com##.notice--primary
 www.androidpolice.com##article:has-text(sponsored by)
 www.caseking.de###wallpaper
 www.camp-firefox.de##.cookiePolicyNotice
-www.omg.de##.control-fade
 
 !----Whitelist----
 
