@@ -248,6 +248,13 @@ www.geeksforgeeks.org##.textBasedMannualAds
 www.omg.de##.control-fade
 www.omg.de##.fade
 
+! turkru.tv - popups
+turkru.tv##.in
+! turkru.tv - ads
+turkru.tv##.new-serials-notification
+! turkru.tv - unbreak
+@@||turkru.tv/static/pixel.png
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
@@ -288,9 +295,6 @@ forum.kde.org##.profile-info-area
 
 ! nextdns.io - Unbreak loading
 @@||api.nextdns.io
-
-! turkru.tv - Unbreak preview
-@@||turkru.tv/static/pixel.png
 
 ! xcom-shop.ru - Unbreak search
 @@||cdn.diginetica.net^$domain=xcom-shop.ru
