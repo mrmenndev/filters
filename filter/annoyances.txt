@@ -267,7 +267,6 @@ www.reddit.com###SearchDropdownContent
 www.memedroid.com###mobile-ad-banner-container
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
-www.tabnine.com##.AdWrapper
 www.asustor.com###gdpr_wrap
 www.debugpoint.com###wpd-bubble-wrapper
 www.snbforums.com##.notice--primary
