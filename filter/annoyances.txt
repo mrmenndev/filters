@@ -80,7 +80,6 @@ www.allround-pc.com##.apcTrackingModal
 ! ittweak.de - share
 ittweak.de##.s_stk
 ittweak.de##.socials
-ittweak.de##.shariff-button
 
 ! cdek.ru - ads
 www.cdek.ru##.banner-carousel
