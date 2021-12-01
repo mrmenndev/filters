@@ -284,7 +284,6 @@ www.debugpoint.com###wpd-bubble-wrapper
 www.snbforums.com##.notice--primary
 www.androidpolice.com##article:has-text(sponsored by)
 www.caseking.de###wallpaper
-www.camp-firefox.de##.cookiePolicyNotice
 
 !----Whitelist----
 
