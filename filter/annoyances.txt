@@ -82,8 +82,6 @@ ittweak.de##.s_stk
 ittweak.de##.socials
 ittweak.de##.shariff-button
 
-! cdek.ru - consent
-www.cdek.ru##.cookie-alert
 ! cdek.ru - ads
 www.cdek.ru##.banner-carousel
 ! cdek.ru - chat
