@@ -201,9 +201,6 @@ tele-ru.ru##+js(acis, document.oncontextmenu)
 tele-ru.ru##+js(acis, document.onkeydown)
 tele-ru.ru##+js(acis, document.onmousedown)
 
-! islamicfinder.org - consent
-www.islamicfinder.org##.gdpr-Popup
-www.islamicfinder.org##.gdpr-popup
 ! islamicfinder.org - app
 www.islamicfinder.org##.athan-card
 www.islamicfinder.org##.banner
