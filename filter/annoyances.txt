@@ -257,6 +257,7 @@ weather.com##.appWrapper:not(:has(div[class*="gradients--default"])) section[dat
 theregister.com##.adun
 4k-monitor.ru##.is-bg1:upward(1)
 namingconvention.org##.producthunt
+averagelinuxuser.com##.alertbar
 
 www.anime-loads.org##footer 
 www.soeren-hentzschel.at##.tnemesitrevda
