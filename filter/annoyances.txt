@@ -140,10 +140,6 @@ www.pcwelt.de###leadfullWrapper
 www.pcwelt.de###sidebar
 www.pcwelt.de##.marketplace
 
-www.synology-forum.de##.samItem
-www.synology-forum.de##.s2amBannerUnit
-www.synology-forum.de##+js(acis, $, div.p-body-inner)
-
 www.anisearch.de###top_outside
 www.anisearch.de###content-sidebar
 
@@ -286,6 +282,7 @@ www.snbforums.com##.notice--primary
 www.androidpolice.com##article:has-text(sponsored by)
 www.caseking.de###wallpaper
 www.seimaxim.com##.siq_bR
+www.synology-forum.de##.s2amBannerUnit
 
 !----Whitelist----
 
