@@ -13,7 +13,7 @@ Block everything that can be annoying, like `ads`, any kind of distracting `dial
 
 ## mrmenndev filters - annoyances_plus
 
-The more aggressive version of `annoyances`, might break a function of a site.
+The more aggressive version of `annoyances`, can break a site.
 
 -   [URL](https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances_plus.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances_plus.txt&title=mrmenndev%20filters%20-%20annoyances_plus)
@@ -28,7 +28,7 @@ Block `comments` of a website.
 ## mrmenndev filters - search
 
 Filter stupid or dangerous websites from search-engines.
-Right now `duckduckgo`, `google` , `yandex` and `brave search` are supported.
+Right now `duckduckgo`, `brave search` and `yandex` are supported.
 
 -   [URL](https://raw.githubusercontent.com/mrmenndev/filters/master/filter/search.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/mrmenndev/filters/master/filter/search.txt&title=mrmenndev%20filters%20-%20search)
