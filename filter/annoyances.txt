@@ -245,6 +245,9 @@ turkru.tv##.new-serials-notification
 ! turkru.tv - unbreak
 @@||turkru.tv/static/pixel.png
 
+! speedtest.net - center
+www.speedtest.net##.pure-u-custom-speedtest:style(margin: auto !important)
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
