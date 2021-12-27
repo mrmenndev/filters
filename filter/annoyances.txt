@@ -159,11 +159,11 @@ www.xda-developers.com##.xda_nanobox
 forum.xda-developers.com##.xda-alertbar-huawei
 forum.xda-developers.com##[data-freestar-ad]
 
+! deepl.com - ads
 www.deepl.com###dl_app_banner_popup
-www.deepl.com##.dl_footer__socials
-www.deepl.com###lmt_quotes_article
-www.deepl.com###lmt_pro_ad_container_1
-www.deepl.com##.lmt__formalitySwitch_ad
+! deepl.com - footer
+www.deepl.com###dl_quotes_container
+www.deepl.com###lmt_pro_ad_container
 
 ! eurogamer.de - ads
 www.eurogamer.de##.promotion
