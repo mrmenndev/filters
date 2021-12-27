@@ -262,7 +262,6 @@ developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
-careerkarma.com##.wmpci-popup-wrp
 pypi.org##.notification-bar
 gitlab.com##.js-autodevops-banner
 dongknows.com##+js(aopr, adsBlocked)
