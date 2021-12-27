@@ -254,13 +254,17 @@ weather.com##section[data-testid="upsellCardModule"]
 ! weather.com - video 
 weather.com##div[data-testid="videoLink"]
 
+! dongknows.com - popup
+dongknows.com##.floatingchat-container-wrap
+! dongknows.com - sidebar
+dongknows.com##.sidebar.widget-area
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
 pypi.org##.notification-bar
 gitlab.com##.js-autodevops-banner
-dongknows.com##+js(aopr, adsBlocked)
 antonioleiva.com##.tve-leads-conversion-object
 dev.to##.authentication-feed__card
 theregister.com##.adun
