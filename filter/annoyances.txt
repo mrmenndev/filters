@@ -248,6 +248,16 @@ turkru.tv##.new-serials-notification
 ! speedtest.net - center
 www.speedtest.net##.pure-u-custom-speedtest:style(margin: auto !important)
 
+! weather.com - sidebar
+weather.com##.region-sidebar
+! weather.com - news
+weather.com##section[data-testid="ContentMediaModule"]
+weather.com##section[data-testid="SmartMessageInPageModule"]
+weather.com##section[data-testid="promoDriverModule"]
+weather.com##section[data-testid="upsellCardModule"]
+! weather.com - video 
+weather.com##div[data-testid="videoLink"]
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
@@ -258,7 +268,6 @@ gitlab.com##.js-autodevops-banner
 dongknows.com##+js(aopr, adsBlocked)
 antonioleiva.com##.tve-leads-conversion-object
 dev.to##.authentication-feed__card
-weather.com##.appWrapper:not(:has(div[class*="gradients--default"])) section[data-testid="ContentMediaModule"]
 theregister.com##.adun
 4k-monitor.ru##.is-bg1:upward(1)
 namingconvention.org##.producthunt
