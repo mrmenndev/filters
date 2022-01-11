@@ -172,11 +172,8 @@ www.raywenderlich.com##.l-newsletter-article
 www.raywenderlich.com##.c-banner-draper-sticky
 
 ! stackexchange - sidebar
-stackoverflow.com##.s-sidebarwidget
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com###hot-network-questions
-! stackexchange - consent
-stackoverflow.com##.js-stacks-managed-popup
-stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru,askubuntu.com##.js-consent-banner
+stackoverflow.com##.s-sidebarwidget
 
 ! medium - consent
 proandroiddev.com,codeburst.io##.butterBar--privacy
