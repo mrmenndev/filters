@@ -2,10 +2,6 @@
 ! Homepage: https://github.com/mrmenndev/filters
 ! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
 
-! mega - consent
-mega.*##.fm-dialog-overlay
-mega.*##.mega-dialog
-
 ! google - consent
 www.google.*##+js(cookie-remover, CONSENT)
 
