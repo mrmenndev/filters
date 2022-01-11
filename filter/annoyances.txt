@@ -295,6 +295,9 @@ www.synology-forum.de##.s2amBannerUnit
 forum.kde.org##.profile-info-area
 !#endif
 
+! nextdns.io - Unbreak loading
+@@||api.nextdns.io
+
 ! xcom-shop.ru - Unbreak search
 @@||cdn.diginetica.net^$domain=xcom-shop.ru
 @@||autocomplete.diginetica.net^$domain=xcom-shop.ru
