@@ -126,9 +126,6 @@ fandom.com##.wikia-bar
 ! fandom.com - video
 fandom.com##.article-featured-video__player
 
-imgur.com##.BottomRecirc
-imgur.com##.Gallery-Sidebar
-
 qastack.com.de##body:style(overflow: auto !important;)
 qastack.com.de##.fade
 
