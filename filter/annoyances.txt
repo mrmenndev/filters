@@ -255,6 +255,10 @@ www.anime-loads.org##body:style(overflow: auto !important)
 ! anime-loads.org - footer
 www.anime-loads.org##footer
 
+! kodi-guide.com - ads
+www.kodi-guide.com##.privacy-box
+www.kodi-guide.com##.inside-right-sidebar
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
