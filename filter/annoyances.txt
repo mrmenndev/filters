@@ -231,9 +231,6 @@ turkru.tv##.new-serials-notification
 ! turkru.tv - unbreak
 @@||turkru.tv/static/pixel.png
 
-! speedtest.net - center
-www.speedtest.net##.pure-u-custom-speedtest:style(margin: auto !important)
-
 ! weather.com - sidebar
 weather.com##.region-sidebar
 ! weather.com - news
