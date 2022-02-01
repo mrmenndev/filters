@@ -87,7 +87,6 @@ imdb.com##+js(json-prune, d.[].v)
 ||imdb.com/embeddable/
 imdb.com##section[data-testid="embeddable-section"]
 imdb.com##div[data-testid="delayed-loader"]
-imdb.com##div[class*="TitleMainBelowTheFoldGroup__SidebarContainer"]
 ! imdb.com - prime
 ||imdb.com/watch/_ajax/option
 
