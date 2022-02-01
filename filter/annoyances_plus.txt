@@ -9,10 +9,6 @@ youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabR
 youtube.com##^responseheader(set-cookie)    
 youtube.com##+js(cookie-remover, CONSENT)
 
-! google - consent
-www.google.*##body:style(overflow: auto !important)
-www.google.*##div[role="dialog"]
-
 ! chip - video
 ||cmp.chip.de
 ||videoplayer.chip.de
