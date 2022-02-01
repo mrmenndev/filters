@@ -51,8 +51,7 @@ www.chip.de##.BC-Content
 www.computerbase.de##+js(set, BaseCMS.initDialog, noopFunc)
 ||www.computerbase.de/js/dialog-polyfill
 ! computerbase.de - anti adblock
-www.computerbase.de##+js(acis, document.createElement, onerror)
-www.computerbase.de##+js(rc, snigel-layout)
+www.computerbase.de##.adblock-plea:remove()
 ! computerbase.de - ads
 www.computerbase.de##.adbox
 www.computerbase.de##.js-promobar
