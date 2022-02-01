@@ -117,9 +117,6 @@ fandom.com##.wikia-bar
 ! fandom.com - video
 fandom.com##.article-featured-video__player
 
-qastack.com.de##body:style(overflow: auto !important;)
-qastack.com.de##.fade
-
 www.pcwelt.de###leadfullWrapper
 www.pcwelt.de###sidebar
 www.pcwelt.de##.marketplace
