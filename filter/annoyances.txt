@@ -284,6 +284,9 @@ www.caseking.de###wallpaper
 www.seimaxim.com##.siq_bR
 www.synology-forum.de##.s2amBannerUnit
 
+!---SmartBanner---
+protonmail.com,wevpn.com##+js(set, SmartBanner, noopFunc)
+
 !----Whitelist----
 
 ! KDE Forum - posts
