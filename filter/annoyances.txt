@@ -2,17 +2,13 @@
 ! Homepage: https://github.com/mrmenndev/filters
 ! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
 
-! YT - consent
-www.youtube.com##tp-yt-iron-overlay-backdrop
-www.youtube.com##ytd-consent-bump-v2-lightbox
-! YT - video
+! youtube.com - video
 youtube.com###merch-shelf 
 youtube.com###clarify-box
-! YT - channelpage
+! youtube.com - channelpage
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer)
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer, undefined)
-
-! YT - mobile
+! youtube.com - mobile
 m.youtube.com##.upsell-dialog-lightbox
 m.youtube.com##.consent-bump-v2-lightbox
 m.youtube.com##body:style(position: absolute !important;)
