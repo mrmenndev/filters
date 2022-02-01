@@ -2,9 +2,6 @@
 ! Homepage: https://github.com/mrmenndev/filters
 ! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
 
-! google - consent
-www.google.*##+js(cookie-remover, CONSENT)
-
 ! YT - consent
 www.youtube.com##tp-yt-iron-overlay-backdrop
 www.youtube.com##ytd-consent-bump-v2-lightbox
