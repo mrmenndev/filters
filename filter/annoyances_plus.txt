@@ -2,14 +2,11 @@
 ! Homepage: https://github.com/mrmenndev/filters
 ! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances_plus.txt
 
-! YT - homepage
+! youtube.com - homepage
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer)
-! YT - consent
-youtube.com##^responseheader(set-cookie)    
-youtube.com##+js(cookie-remover, CONSENT)
 
-! chip - video
+! chip.de - video
 ||cmp.chip.de
 ||videoplayer.chip.de
 
