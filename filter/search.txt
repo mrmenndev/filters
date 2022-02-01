@@ -9,6 +9,7 @@ duckduckgo.com##.result[data-domain$='xspdf.com']
 duckduckgo.com##.result[data-domain$='experts-exchange.com']
 duckduckgo.com##.result[data-domain$='ringingliberty.com']
 duckduckgo.com##.result[data-domain$='bleepcoder.com']
+duckduckgo.com##.result[data-domain$='qastack.com']
 ! duckduckgo - top-domains
 duckduckgo.com##.result__sitelinks:has([data-domain$='quora.com'])
 duckduckgo.com##.result__sitelinks:has([data-domain$='gutefrage.net'])
@@ -22,6 +23,7 @@ search.brave.com##.snippet:has(.result-header[href*='xspdf.com'])
 search.brave.com##.snippet:has(.result-header[href*='experts-exchange.com'])
 search.brave.com##.snippet:has(.result-header[href*='ringingliberty.com'])
 search.brave.com##.snippet:has(.result-header[href*='bleepcoder.com'])
+search.brave.com##.snippet:has(.result-header[href*='qastack.com'])
 ! brave search - news
 search.brave.com###news-carousel
 
@@ -32,5 +34,6 @@ yandex.*##.serp-item:has(a[href*='xspdf.com'])
 yandex.*##.serp-item:has(a[href*='experts-exchange.com'])
 yandex.*##.serp-item:has(a[href*='ringingliberty.com'])
 yandex.*##.serp-item:has(a[href*='bleepcoder.com'])
+yandex.*##.serp-item:has(a[href*='qastack.com'])
 ! yandex - related
 yandex.*##.RelatedAbove
