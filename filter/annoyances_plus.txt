@@ -24,8 +24,9 @@ yandex.ru##.news
 yandex.ru##.infinity-zen
 
 ! imdb.com - homepage
-imdb.com##[class*="HomePageGrid"]
+imdb.com##div[class*="HomePageGrid"]
 ! imdb.com - result
+imdb.com##div[class*="BTFWrapper__SidebarContainer"]
 imdb.com##section[data-testid="videos-section"]
 imdb.com##section[data-testid="News"]
 imdb.com##section[data-testid="MoreLikeThis"]
