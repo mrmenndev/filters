@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/mrmenndev/filters
 ! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
 
+!-----General-----
+
 ! youtube.com - video
 youtube.com###merch-shelf 
 youtube.com###clarify-box
@@ -74,8 +76,8 @@ www.cdek.ru###chat
 www.cdek.ru##.help-customer-wrapper--loaded
 
 ! udemy.com - pride
-||www.udemy.com/staticx/udemy/js/webpack/udemy-pride-logo
 www.udemy.com##.js-pride-month-gradient
+||www.udemy.com/staticx/udemy/js/webpack/udemy-pride-logo
 
 ! imdb.com - ads
 imdb.com##section[class*="AppUpsell"]
@@ -206,8 +208,6 @@ www.timeanddate.com##.header__wrapper:style(height: 2.5rem !important)
 www.geeksforgeeks.org##.login-modal-div
 ! geeksforgeeks.org - ads
 www.geeksforgeeks.org##.textBasedMannualAds
-! geeksforgeeks.org - translate
-||translate.googleapis.com^$domain=geeksforgeeks.org
 
 ! omg.de - consent
 www.omg.de##.control-fade
@@ -258,6 +258,8 @@ www.flightradar24.com##.upgrade-button
 flightradar24.com##.airport-info-wrapper:style(top: 10% !important)
 !#endif
 
+!------Simple-----
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
@@ -287,7 +289,13 @@ www.seimaxim.com##.siq_bR
 www.synology-forum.de##.s2amBannerUnit
 
 !---SmartBanner---
+
 protonmail.com,wevpn.com##+js(set, SmartBanner, noopFunc)
+
+
+!---Translate---
+
+||translate.googleapis.com^$domain=geeksforgeeks.org
 
 !----Whitelist----
 
