@@ -245,6 +245,19 @@ www.anime-loads.org##footer
 www.kodi-guide.com##.privacy-box
 www.kodi-guide.com##.inside-right-sidebar
 
+! forum.kde.org - posts
+!#if env_mobile
+forum.kde.org##.profile-info-area
+!#endif
+
+! flightradar24.com - ads
+www.flightradar24.com##.applink-container
+www.flightradar24.com##.upgrade-button
+! flightradar24.com - unbreak
+!#if !env_mobile
+flightradar24.com##.airport-info-wrapper:style(top: 10% !important)
+!#endif
+
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
 wikipedia.org###siteNotice
@@ -277,11 +290,6 @@ www.synology-forum.de##.s2amBannerUnit
 protonmail.com,wevpn.com##+js(set, SmartBanner, noopFunc)
 
 !----Whitelist----
-
-! KDE Forum - posts
-!#if env_mobile
-forum.kde.org##.profile-info-area
-!#endif
 
 ! nextdns.io - Unbreak loading
 @@||api.nextdns.io
