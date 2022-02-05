@@ -267,6 +267,7 @@ theregister.com##.adun
 4k-monitor.ru##.is-bg1:upward(1)
 namingconvention.org##.producthunt
 averagelinuxuser.com##.alertbar
+olympics.com##.onetrust-pc-dark-filter
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
