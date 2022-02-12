@@ -108,6 +108,7 @@ knowyourmeme.com###news_feeds
 
 ! fandom.com - ads
 fandom.com##.ad-slot-placeholder
+fandom.com###SurveyModule
 ! fandom.com - footer
 fandom.com###mixed-content-footer
 fandom.com##.wikia-bar
