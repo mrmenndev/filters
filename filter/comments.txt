@@ -27,6 +27,12 @@ www.computerbase.de##.ticker__comment-link
 www.computerbase.de##.article-view__footer-links
 www.computerbase.de##.article__comments-link
 
+! phoronix.com - start
+www.phoronix.com##.comments
+! phoronix.com - article
+www.phoronix.com##.foot
+www.phoronix.com##.author > [href*="forums"]
+
 winfuture.de##.content_wrap:has(#comments_box)
 
 www.anisearch.de###comments
