@@ -254,6 +254,11 @@ www.flightradar24.com##.open-in-app-button
 flightradar24.com##.airport-info-wrapper:style(top: 10% !important)
 !#endif
 
+! phoronix.com - ads
+www.phoronix.com##article::after
+! phoronix.com - sidebar
+www.phoronix.com###sidebar-wrap
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
