@@ -31,7 +31,7 @@ www.computerbase.de##.article__comments-link
 www.phoronix.com##.comments
 ! phoronix.com - article
 www.phoronix.com##.foot
-www.phoronix.com##.author > [href*="forums"]
+www.phoronix.com##[href*="forums"]
 
 winfuture.de##.content_wrap:has(#comments_box)
 apkpure.com###comment
