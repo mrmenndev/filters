@@ -191,10 +191,10 @@ www.islamicfinder.org##.latest-gallery-cards
 ! islamicfinder.org - feedback
 www.islamicfinder.org###feedbackbtn
 
-! timeanddate.com - header
-www.timeanddate.com###ad-wrap
-www.timeanddate.com##.banner
-www.timeanddate.com##.header__wrapper:style(height: 2.5rem !important)
+! timeanddate.* - header
+www.timeanddate.*###ad-wrap
+www.timeanddate.*##.banner
+www.timeanddate.*##.header__wrapper:style(height: 2.5rem !important)
 
 ! deezer.com - consent
 ||dzcdn.net/common/js/gdpr-appliance.js
