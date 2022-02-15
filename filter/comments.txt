@@ -34,6 +34,7 @@ www.phoronix.com##.foot
 www.phoronix.com##.author > [href*="forums"]
 
 winfuture.de##.content_wrap:has(#comments_box)
+apkpure.com###comment
 
 www.anisearch.de###comments
 www.deezer.com##.catalog-content:has(.user-comment)
