@@ -274,6 +274,7 @@ theregister.com##.adun
 namingconvention.org##.producthunt
 averagelinuxuser.com##.alertbar
 olympics.com##.onetrust-pc-dark-filter
+cmovies.online##.notice
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
