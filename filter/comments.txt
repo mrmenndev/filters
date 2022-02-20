@@ -33,6 +33,11 @@ www.phoronix.com##.comments
 www.phoronix.com##.foot
 www.phoronix.com##[href*="forums"]
 
+! xda-developers - start
+www.xda-developers.com##.comments
+! xda-developers - article
+www.xda-developers.com##.comments-block
+
 winfuture.de##.content_wrap:has(#comments_box)
 apkpure.com###comment
 
