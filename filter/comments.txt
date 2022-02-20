@@ -43,3 +43,4 @@ apkpure.com###comment
 
 www.anisearch.de###comments
 www.deezer.com##.catalog-content:has(.user-comment)
+www.apkmirror.com##.listWidget:has(#disqus_thread)
