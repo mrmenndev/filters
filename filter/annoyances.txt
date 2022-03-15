@@ -48,8 +48,9 @@ www.chip.de##.wrapper-safe > aside
 www.chip.de##.BC-Content
 
 ! computerbase.de - consent
-www.computerbase.de##+js(set, BaseCMS.initDialog, noopFunc)
+www.computerbase.de##dialog:remove()
 ||www.computerbase.de/js/dialog-polyfill
+||www.computerbase.de/js/onetrust$1p,important
 ! computerbase.de - anti adblock
 www.computerbase.de##.adblock-plea:remove()
 ! computerbase.de - ads
