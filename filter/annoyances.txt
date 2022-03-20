@@ -69,10 +69,6 @@ www.computerbase.de##.text-asset:has(a[rel*="sponsored"])
 www.allround-pc.com##html:style(overflow:auto !important)
 www.allround-pc.com##.apcTrackingModal
 
-! ittweak.de - share
-ittweak.de##.s_stk
-ittweak.de##.socials
-
 ! cdek.ru - ads
 www.cdek.ru##.banner-carousel
 ! cdek.ru - chat
