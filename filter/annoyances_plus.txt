@@ -6,10 +6,6 @@
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer)
 
-! chip.de - video
-||cmp.chip.de
-||videoplayer.chip.de
-
 ! mail.ru - center login
 mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:translateX(-50%)!important)
 ! mail.ru - news
