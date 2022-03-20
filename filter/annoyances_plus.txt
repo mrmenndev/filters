@@ -24,9 +24,11 @@ yandex.ru##.news
 yandex.ru##.infinity-zen
 
 ! imdb.com - homepage
-imdb.com##div[class*="HomePageGrid"]
-! imdb.com - result
-imdb.com##div[class*="BTFWrapper__SidebarContainer"]
+imdb.com##.ipc-page-wrapper--baseAlt
+! imdb.com - result sidebar
+||caching.graphql.imdb.com
+imdb.com##.ipc-page-grid__item--span-1
+! imdb.com - result inner
 imdb.com##section[data-testid="videos-section"]
 imdb.com##section[data-testid="News"]
 imdb.com##section[data-testid="MoreLikeThis"]
