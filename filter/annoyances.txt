@@ -39,14 +39,6 @@ www.pcgameshardware.de##.productFactsModule
 www.pcgameshardware.de##.shopLinkButtonsWrapper
 www.pcgameshardware.de###supportNote
 
-! chip.de - start
-www.chip.de##.Portal:style(--topbanner-height-min: 0px!important)
-www.chip.de###hp-violett
-! chip.de - article
-www.chip.de##.News:style(--topbanner-height-min: 0px!important)
-www.chip.de##.wrapper-safe > aside
-www.chip.de##.BC-Content
-
 ! computerbase.de - consent
 www.computerbase.de##dialog:remove()
 www.computerbase.de##+js(rc, consent-dialog-open, body)
