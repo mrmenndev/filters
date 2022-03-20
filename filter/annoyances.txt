@@ -274,6 +274,7 @@ averagelinuxuser.com##.alertbar
 olympics.com##.onetrust-pc-dark-filter
 cmovies.online##.notice
 regex101.com##div > div> div > :has-text(Sponsors)
+reactjs.org##div[style="position:relative"]
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
