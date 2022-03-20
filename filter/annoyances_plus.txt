@@ -33,8 +33,3 @@ imdb.com##section[data-testid="MoreLikeThis"]
 imdb.com##section[data-testid="Photos"]
 imdb.com##section[data-testid="DidYouKnow"]
 imdb.com##section[data-testid="contribution"]
-
-! imgur.com - posts
-imgur.com##.BottomRecirc
-imgur.com##.Gallery-Sidebar
-||api.imgur.com/post/v1/posts$domain=m.imgur.com
