@@ -60,6 +60,8 @@ www.computerbase.de##.text-asset:has(a[rel*="sponsored"])
 ! allround-pc.com - consent
 www.allround-pc.com##html:style(overflow:auto !important)
 www.allround-pc.com##.apcTrackingModal
+! allround-pc.com - ads
+www.allround-pc.com##a[href*="bit.ly"]
 
 ! cdek.ru - ads
 www.cdek.ru##.banner-carousel
