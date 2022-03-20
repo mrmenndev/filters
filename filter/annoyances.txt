@@ -206,10 +206,6 @@ www.geeksforgeeks.org##.login-modal-div
 ! geeksforgeeks.org - ads
 www.geeksforgeeks.org##.textBasedMannualAds
 
-! omg.de - consent
-www.omg.de##.control-fade
-www.omg.de##.fade
-
 ! turkru.tv - popups
 turkru.tv##.in
 ! turkru.tv - ads
