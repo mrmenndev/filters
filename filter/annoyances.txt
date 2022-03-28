@@ -251,6 +251,11 @@ www.phoronix.com##article::after
 ! phoronix.com - sidebar
 www.phoronix.com###sidebar-wrap
 
+! boxberry.ru - app
+boxberry.ru##.block-mobile-apps
+boxberry.ru##.mobile-store-upper
+boxberry.ru##.track-details-helper
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
