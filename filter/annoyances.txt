@@ -252,6 +252,13 @@ boxberry.ru##.block-mobile-apps
 boxberry.ru##.mobile-store-upper
 boxberry.ru##.track-details-helper
 
+! vg247.com - consent
+www.vg247.com##.ot-fade-in:upward(1)
+! vg247.com - ads
+www.vg247.com##.advert_container
+www.vg247.com##.disclaimer
+www.vg247.com##.supporters_promo
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
