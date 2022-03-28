@@ -241,10 +241,6 @@ forum.kde.org##.profile-info-area
 www.flightradar24.com##.upgrade-button
 www.flightradar24.com##.applink-container
 www.flightradar24.com##.open-in-app-button
-! flightradar24.com - unbreak
-!#if !env_mobile
-flightradar24.com##.airport-info-wrapper:style(top: 10% !important)
-!#endif
 
 ! phoronix.com - ads
 www.phoronix.com##article::after
@@ -296,7 +292,6 @@ www.bytelab.codes###ghost-portal-root
 !---SmartBanner---
 
 protonmail.com,wevpn.com##+js(set, SmartBanner, noopFunc)
-
 
 !---Translate---
 
