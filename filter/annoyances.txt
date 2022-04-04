@@ -87,8 +87,6 @@ imdb.com##div[data-testid="delayed-loader"]
 ! imdb.com - prime
 ||imdb.com/watch/_ajax/option
 
-! yandex.ru - ads
-yandex.ru##div[class*="ad-block"]
 ! yandex.ru - popups
 yandex.ru##.hint-eula
 yandex.ru##.hint-eula-mobile
