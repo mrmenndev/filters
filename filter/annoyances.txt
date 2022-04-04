@@ -273,7 +273,6 @@ theregister.com##.adun
 4k-monitor.ru##.is-bg1:upward(1)
 namingconvention.org##.producthunt
 averagelinuxuser.com##.alertbar
-olympics.com##.onetrust-pc-dark-filter
 cmovies.online##.notice
 regex101.com##div > div> div > :has-text(Sponsors)
 reactjs.org##div[style="position:relative"]
