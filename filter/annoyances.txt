@@ -253,7 +253,7 @@ boxberry.ru##.mobile-store-upper
 boxberry.ru##.track-details-helper
 
 ! vg247.com - consent
-www.vg247.com##.ot-fade-in:upward(1)
+www.vg247.com###onetrust-consent-sdk
 ! vg247.com - ads
 www.vg247.com##.advert_container
 www.vg247.com##.disclaimer
