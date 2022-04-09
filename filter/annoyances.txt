@@ -265,6 +265,10 @@ www.vg247.com##.advert_container
 www.vg247.com##.disclaimer
 www.vg247.com##.supporters_promo
 
+! mapgenie.io - login
+mapgenie.io##.tooltip
+mapgenie.io##.newor.text-center
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
