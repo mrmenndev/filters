@@ -287,6 +287,7 @@ cmovies.online##.notice
 regex101.com##div > div> div > :has-text(Sponsors)
 reactjs.org##div[style="position:relative"]
 minerstat.com##.software_banner
+apkpure.com###ad-aegon-side
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
