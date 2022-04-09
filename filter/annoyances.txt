@@ -276,6 +276,10 @@ www.rockpapershotgun.com##.merch_component
 www.rockpapershotgun.com##.supporters_promo
 www.rockpapershotgun.com##.disclaimer
 
+! apkpure.com - app
+apkpure.com###ad-aegon-side
+apkpure.com##.aegon-link
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -294,7 +298,6 @@ cmovies.online##.notice
 regex101.com##div > div> div > :has-text(Sponsors)
 reactjs.org##div[style="position:relative"]
 minerstat.com##.software_banner
-apkpure.com###ad-aegon-side
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
