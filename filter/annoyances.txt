@@ -269,6 +269,13 @@ www.vg247.com##.supporters_promo
 mapgenie.io##.tooltip
 mapgenie.io##.newor.text-center
 
+! rockpapershotgun.com - consent
+www.rockpapershotgun.com##.otCenterRounded
+! rockpapershotgun.com - ads
+www.rockpapershotgun.com##.merch_component
+www.rockpapershotgun.com##.supporters_promo
+www.rockpapershotgun.com##.disclaimer
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
