@@ -12,7 +12,6 @@ youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.conversat
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.conversationBar)
 
 ! YT - mobile
-||m.youtube.com/youtubei/v1/next
 m.youtube.com##ytm-comments-entry-point-header-renderer
 
 ! PCGH
