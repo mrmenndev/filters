@@ -164,7 +164,6 @@ stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,poweruser.guru
 stackoverflow.com##.s-sidebarwidget
 
 ! medium - consent
-proandroiddev.com,codeburst.io##.butterBar--privacy
 proandroiddev.com,codeburst.io##body > div:nth-of-type(2)
 
 ! steamcommunity.com - age gate
