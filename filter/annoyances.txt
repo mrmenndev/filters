@@ -176,21 +176,17 @@ tele-ru.ru##+js(acis, document.oncontextmenu)
 tele-ru.ru##+js(acis, document.onkeydown)
 tele-ru.ru##+js(acis, document.onmousedown)
 
-! islamicfinder.org - app
-www.islamicfinder.org##.athan-card
-www.islamicfinder.org##.banner
-www.islamicfinder.org##.banner-box
-www.islamicfinder.org###athan-playstore-card
 ! islamicfinder.org - ads
-www.islamicfinder.org##._ap_apex_ad
-www.islamicfinder.org##.ad-leaderboard
-www.islamicfinder.org##.columns > :has(div[id^="div-gpt-ad"])
-www.islamicfinder.org##.columns > :has-text(Social Media)
-www.islamicfinder.org##.subscription-form
-! islamicfinder.org - article
-www.islamicfinder.org##.iqra-article-tile
+www.islamicfinder.org##.columns >:has(a[href^="/islamic-calendar/"])
+www.islamicfinder.org##.columns >:has(img[alt="instagram-logo"])
 www.islamicfinder.org##.latest-gallery-cards
+www.islamicfinder.org##.iqra-article-tile
+! islamicfinder.org - app
+www.islamicfinder.org##.columns >:has(img[src*="ramadanBanner"])
+www.islamicfinder.org##.bottom-section
+www.islamicfinder.org##.athan-card
 ! islamicfinder.org - feedback
+www.islamicfinder.org##.surveybg
 www.islamicfinder.org###feedbackbtn
 
 ! timeanddate.* - header
