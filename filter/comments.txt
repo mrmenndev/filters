@@ -2,16 +2,15 @@
 ! Homepage: https://github.com/mrmenndev/filters
 ! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/comments.txt
 
-! YT - comments
+! youtube.com - comments
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.2, [])
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer)
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.3, [])
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.results.results.contents.3.itemSectionRenderer)
-! YT - chat
+! youtube.com - chat
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.conversationBar, undefined)
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.conversationBar)
-
-! YT - mobile
+! youtube.com - mobile
 m.youtube.com##ytm-comments-entry-point-header-renderer
 
 ! PCGH
@@ -32,10 +31,14 @@ www.phoronix.com##.comments
 www.phoronix.com##.foot
 www.phoronix.com##[href*="forums"]
 
-! xda-developers - start
+! xda-developers.com - start
 www.xda-developers.com##.comments
-! xda-developers - article
+! xda-developers.com - article
 www.xda-developers.com##.comments-block
+
+! animekaizoku.com
+animekaizoku.com##.post-content-slideshow-outer
+animekaizoku.com###disqus_thread
 
 winfuture.de##.content_wrap:has(#comments_box)
 apkpure.com###comment
