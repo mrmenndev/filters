@@ -176,11 +176,11 @@ tele-ru.ru##+js(acis, document.onkeydown)
 tele-ru.ru##+js(acis, document.onmousedown)
 
 ! islamicfinder.org - ads
-www.islamicfinder.org##.columns >:has(a[href^="/islamic-calendar/"])
 www.islamicfinder.org##.columns >:has(img[alt="instagram-logo"])
 www.islamicfinder.org##.latest-gallery-cards
 www.islamicfinder.org##.iqra-article-tile
 ! islamicfinder.org - app
+www.islamicfinder.org##.columns >:has(a[href="/athan/"])
 www.islamicfinder.org##.columns >:has(img[src*="ramadanBanner"])
 www.islamicfinder.org##.bottom-section
 www.islamicfinder.org##.athan-card
