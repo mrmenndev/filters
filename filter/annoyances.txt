@@ -312,7 +312,6 @@ www.androidpolice.com##article:has-text(sponsored by)
 www.caseking.de###wallpaper
 www.seimaxim.com##.siq_bR
 www.synology-forum.de##.s2amBannerUnit
-www.namecheap.com##[style="background-color:#5474c9"]
 www.bytelab.codes###ghost-portal-root
 
 !---SmartBanner---
