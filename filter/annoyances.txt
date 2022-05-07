@@ -91,6 +91,7 @@ imdb.com##div[data-testid="delayed-loader"]
 yandex.ru##.hint-eula
 yandex.ru##.hint-eula-mobile
 yandex.ru##.desktop-interview-modal
+yandex.ru##div[data-apiary-widget-id="/fullScreenAppDistributionPopup"]
 ! yandex.ru - banner
 yandex.ru##.notification-promo
 
