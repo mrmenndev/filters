@@ -42,6 +42,7 @@ animekaizoku.com###disqus_thread
 
 winfuture.de##.content_wrap:has(#comments_box)
 apkpure.com###comment
+turkru.tv##.comments-container
 
 www.anisearch.de###comments
 www.deezer.com##.catalog-content:has(.user-comment)
