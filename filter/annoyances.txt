@@ -206,6 +206,8 @@ www.geeksforgeeks.org##.textBasedMannualAds
 turkru.tv##.in
 ! turkru.tv - ads
 turkru.tv##.new-serials-notification
+turkru.tv##.blockreclam
+turkru.tv##.adpower-item
 ! turkru.tv - unbreak
 @@||turkru.tv/static/pixel.png
 
