@@ -307,6 +307,7 @@ search.brave.com###searchCTA
 animekaizoku.com###related-post
 i-teh.com##.b24-widget-button-wrapper
 opensource.com##.subscribe-float
+apkmirror.com##.apkm-timed-slider
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
