@@ -7,6 +7,8 @@ youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.r
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.results.results.contents.2.itemSectionRenderer)
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.3, [])
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.results.results.contents.3.itemSectionRenderer)
+youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.results.results.contents.4, [])
+youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.results.results.contents.4.itemSectionRenderer)
 ! youtube.com - chat
 youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.conversationBar, undefined)
 youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.conversationBar)
