@@ -20,24 +20,19 @@ chocolatey.org##.gitter-open-chat-button
 chocolatey.org##.btn-announcement-notifications
 chocolatey.org###announcementCarousel:upward(1)
 
-! PCGH - start
+! pcgameshardware.de - start
+www.pcgameshardware.de###row_1
 www.pcgameshardware.de##.static_banner
+! pcgameshardware.de - ticker
+www.pcgameshardware.de##.at_premium
+www.pcgameshardware.de##.pcghPlus
+! pcgameshardware.de - article
+www.pcgameshardware.de##.productFactsModule
+www.pcgameshardware.de##.rgTable
+www.pcgameshardware.de##.footer2
+! pcgameshardware.de - article mobile
 www.pcgameshardware.de##.wadtag
-! PCGH - ticker
-www.pcgameshardware.de##article.pcghPlus
-www.pcgameshardware.de##article:has-text([Werbung])
-www.pcgameshardware.de##.item:has-text([Werbung])
-! PCGH - article 
-www.pcgameshardware.de##.sidebar
-www.pcgameshardware.de##.ratgeberWrapper
-www.pcgameshardware.de##.affbtnContainer
-www.pcgameshardware.de##.shopLinkButtonsWrapper
-www.pcgameshardware.de##.amazon_link_man
-www.pcgameshardware.de##.affiliateBelowArticle
-www.pcgameshardware.de##.schnaeppchenScrollAd
-www.pcgameshardware.de##.productFactsModule 
-www.pcgameshardware.de##.shopLinkButtonsWrapper
-www.pcgameshardware.de###supportNote
+www.pcgameshardware.de##.innerArticleModule
 
 ! computerbase.de - consent
 www.computerbase.de##dialog:remove()
