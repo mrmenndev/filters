@@ -319,7 +319,6 @@ www.asustor.com###gdpr_wrap
 www.debugpoint.com###wpd-bubble-wrapper
 www.snbforums.com##.notice--primary
 www.caseking.de###wallpaper
-www.seimaxim.com##.siq_bR
 www.synology-forum.de##.s2amBannerUnit
 www.bytelab.codes###ghost-portal-root
 
