@@ -284,6 +284,10 @@ apkpure.com##.aegon-link
 www.raspberrypistarterkits.com##.fancybox-wrap
 www.raspberrypistarterkits.com##.fancybox-overlay
 
+! gitlab.com - banner 
+gitlab.com##.js-minute-limit-banner
+gitlab.com##.js-autodevops-banner
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -291,7 +295,6 @@ golang.org##.Header-banner
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
 pypi.org##.notification-bar
-gitlab.com##.js-autodevops-banner
 antonioleiva.com##.tve-leads-conversion-object
 dev.to##.authentication-feed__card
 theregister.com##.adun
