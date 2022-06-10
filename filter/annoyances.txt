@@ -115,12 +115,16 @@ www.pcwelt.de##.marketplace
 www.anisearch.de###top_outside
 www.anisearch.de###content-sidebar
 
-! dns-shop.ru - stories
-www.dns-shop.ru##.homepage-stories
-www.dns-shop.ru##.category-stories
 ! dns-shop.ru - banner 
-www.dns-shop.ru##.items-group__banner
+www.dns-shop.ru##.single-banner-container
+www.dns-shop.ru##.banner-header
+www.dns-shop.ru##.category-stories
 www.dns-shop.ru##.products-list__banner
+! dns-shop.ru - chat
+www.dns-shop.ru##.chat-btn
+! dns-shop.ru - blog
+www.dns-shop.ru##.homepage-blogs
+www.dns-shop.ru##.homepage-stories
 
 ! xda-developers.com - start
 www.xda-developers.com###xda_alert_bar
