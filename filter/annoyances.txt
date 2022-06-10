@@ -318,7 +318,6 @@ www.rockandnull.com##div[id*="kofi-widget"]
 www.asustor.com###gdpr_wrap
 www.debugpoint.com###wpd-bubble-wrapper
 www.snbforums.com##.notice--primary
-www.androidpolice.com##article:has-text(sponsored by)
 www.caseking.de###wallpaper
 www.seimaxim.com##.siq_bR
 www.synology-forum.de##.s2amBannerUnit
