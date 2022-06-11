@@ -21,13 +21,11 @@ yandex.ru##.infinity-zen
 
 ! imdb.com - homepage
 imdb.com##.ipc-page-wrapper--baseAlt
-! imdb.com - result sidebar
-||caching.graphql.imdb.com
-imdb.com##.ipc-page-grid__item--span-1
-! imdb.com - result inner
+! imdb.com - result
 imdb.com##section[data-testid="videos-section"]
 imdb.com##section[data-testid="News"]
 imdb.com##section[data-testid="MoreLikeThis"]
 imdb.com##section[data-testid="Photos"]
 imdb.com##section[data-testid="DidYouKnow"]
 imdb.com##section[data-testid="contribution"]
+imdb.com##section[data-testid="Storyline"]
