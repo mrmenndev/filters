@@ -68,17 +68,10 @@ www.cdek.ru##.help-customer-wrapper--loaded
 www.udemy.com##.js-pride-month-gradient
 ||www.udemy.com/staticx/udemy/js/webpack/udemy-pride-logo
 
-! imdb.com - ads
-imdb.com##section[class*="AppUpsell"]
-imdb.com##.footer__app
-imdb.com##.banner
-imdb.com###ipc-wrap-background-id
 ! imdb.com - search
 imdb.com##+js(json-prune, d.[].v)
 ! imdb.com - result
-||imdb.com/embeddable/
-imdb.com##section[data-testid="embeddable-section"]
-imdb.com##div[data-testid="delayed-loader"]
+imdb.com##div[data-testid="feature-title-news__loader"]
 ! imdb.com - prime
 ||imdb.com/watch/_ajax/option
 
