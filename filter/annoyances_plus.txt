@@ -6,11 +6,15 @@
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer)
 
+! mail.ru - start
+mail.ru##[data-testid='news-tabs']:upward(1)
+mail.ru##.tab-switcher:upward(1)
+mail.ru##.covid:upward(1)
+mail.ru##.horoscope
+mail.ru##[data-click-pixel]
+mail.ru##[data-show-on-scroll-counter]
 ! mail.ru - center login
 mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:translateX(-50%)!important)
-! mail.ru - news
-mail.ru##div[data-testid='news-tabs']:upward(1)
-mail.ru##.horoscope
 
 ! yandex.ru - search news
 yandex.ru##.news__header
