@@ -21,18 +21,19 @@ chocolatey.org##.btn-announcement-notifications
 chocolatey.org###announcementCarousel:upward(1)
 
 ! pcgameshardware.de - start
-www.pcgameshardware.de###row_1
-www.pcgameshardware.de##.static_banner
+www.pcgameshardware.de###row_5
+www.pcgameshardware.de##.widget 
 ! pcgameshardware.de - ticker
 www.pcgameshardware.de##.at_premium
 www.pcgameshardware.de##.pcghPlus
+www.pcgameshardware.de##.hdVideoTeaser
 ! pcgameshardware.de - article
 www.pcgameshardware.de##.productFactsModule
 www.pcgameshardware.de##.rgTable
 www.pcgameshardware.de##.footer2
 ! pcgameshardware.de - article mobile
+www.pcgameshardware.de##.static_banner
 www.pcgameshardware.de##.wadtag
-www.pcgameshardware.de##.innerArticleModule
 
 ! computerbase.de - consent
 www.computerbase.de##dialog:remove()
