@@ -131,16 +131,9 @@ forum.xda-developers.com##[data-freestar-ad]
 
 ! deepl.com - consent
 www.deepl.com##div[class^="cookieBanner"]
-! deepl.com - ads
-www.deepl.com##div[class*="ad_container"]
-www.deepl.com###lmt__ad_container_app
 ! deepl.com - quotes
-www.deepl.com##article
 www.deepl.com###dl_quotes_container
-www.deepl.com###dl_career_container
 ! deepl.com - pro
-www.deepl.com##aside[class*="dl_pro__banner"]
-www.deepl.com##aside[class^="ProAdSection"]
 www.deepl.com###lmt_pro_ad_container
 
 ! eurogamer.de - ads
