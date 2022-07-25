@@ -185,6 +185,8 @@ www.timeanddate.*##.header__wrapper:style(height: 2.5rem !important)
 
 ! deezer.com - consent
 ||dzcdn.net/common/js/gdpr-appliance.js
+! deezer.com - popups
+www.deezer.com##.modal
 
 ! geeksforgeeks.org - popups
 www.geeksforgeeks.org##.login-modal-div
