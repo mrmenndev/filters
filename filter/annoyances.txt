@@ -84,11 +84,20 @@ yandex.ru##div[data-apiary-widget-id="/fullScreenAppDistributionPopup"]
 ! yandex.ru - banner
 yandex.ru##.notification-promo
 
-knowyourmeme.com##.scroll
+! knowyourmeme.com - start
+knowyourmeme.com##article:has(.ad-container-div)
+! knowyourmeme.com - article
 knowyourmeme.com###leaderboard
 knowyourmeme.com##.top-entries
-knowyourmeme.com##.related-news
+! knowyourmeme.com - article related
+knowyourmeme.com##details#videos
+knowyourmeme.com##details#photos
+knowyourmeme.com##.related_memes
+! knowyourmeme.com - article news
+||knowyourmeme.com/memes/*&page$xhr
 knowyourmeme.com###news_feeds
+knowyourmeme.com##.related-news
+knowyourmeme.com##.loader
 
 ! fandom.com - ads
 fandom.com##.ad-slot-placeholder
