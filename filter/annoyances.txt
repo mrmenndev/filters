@@ -139,8 +139,10 @@ forum.xda-developers.com##[data-freestar-ad]
 www.deepl.com##div[class^="cookieBanner"]
 ! deepl.com - quotes
 www.deepl.com###dl_quotes_container
+www.deepl.com##[aria-labelledby="customer-quotes-heading"]
 ! deepl.com - pro
 www.deepl.com###lmt_pro_ad_container
+www.deepl.com##[aria-labelledby="pro-ad-banner-heading"]
 
 ! eurogamer.de - ads
 www.eurogamer.de##.promotion
