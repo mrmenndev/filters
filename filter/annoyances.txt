@@ -102,9 +102,9 @@ fandom.com##.wikia-bar
 ! fandom.com - video
 fandom.com##.article-featured-video__player
 
-www.pcwelt.de###leadfullWrapper
-www.pcwelt.de###sidebar
-www.pcwelt.de##.marketplace
+! pcwelt.de - start
+www.pcwelt.de##[data-ga-event-category="billiger_de_box_right_column"]
+www.pcwelt.de##[data-ga-event-category="right_column_artikel_slider"]
 
 ! dns-shop.ru - banner 
 www.dns-shop.ru##.single-banner-container
