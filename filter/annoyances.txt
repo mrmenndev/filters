@@ -285,6 +285,17 @@ www.raspberrypistarterkits.com##.fancybox-overlay
 gitlab.com##.js-minute-limit-banner
 gitlab.com##.js-autodevops-banner
 
+! ebay-kleinanzeigen.de - start
+www.ebay-kleinanzeigen.de###liberty-home-above-header
+! ebay-kleinanzeigen.de - search
+www.ebay-kleinanzeigen.de###brws_banner-supersize
+www.ebay-kleinanzeigen.de##.ad-listitem:not(.lazyload-item):not(>article)
+! ebay-kleinanzeigen.de - article
+www.ebay-kleinanzeigen.de###liberty-vip-billboard
+www.ebay-kleinanzeigen.de###vap-smlrads
+www.ebay-kleinanzeigen.de###viewad-sidebar-banner
+www.ebay-kleinanzeigen.de##.tinytabs
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
