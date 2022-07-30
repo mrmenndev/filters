@@ -217,8 +217,8 @@ weather.com##section[data-testid="upsellCardModule"]
 ! weather.com - video 
 weather.com##div[data-testid="videoLink"]
 
-! dongknows.com - popup
-dongknows.com##.floatingchat-container-wrap
+! dongknows.com - ads
+dongknows.com##.dkt-amz-deals
 ! dongknows.com - sidebar
 dongknows.com##.sidebar.widget-area
 
