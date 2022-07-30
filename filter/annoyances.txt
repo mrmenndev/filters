@@ -61,9 +61,13 @@ www.allround-pc.com##a[href*="bit.ly"]
 
 ! cdek.ru - ads
 www.cdek.ru##.banner-carousel
+www.cdek.ru##.alerts
+www.cdek.ru##.get-cdek-id
+! cdek.ru - app
+www.cdek.ru##.tracking-applications
+www.cdek.ru##+js(rc, smartbanner-show, html, stay)
 ! cdek.ru - chat
-www.cdek.ru###chat
-www.cdek.ru##.help-customer-wrapper--loaded
+www.cdek.ru##.help-customer-trigger
 
 ! udemy.com - pride
 www.udemy.com##.js-pride-month-gradient
