@@ -81,12 +81,8 @@ imdb.com##div[data-testid="feature-title-news__loader"]
 ||imdb.com/watch/_ajax/option
 
 ! yandex.ru - popups
-yandex.ru##.hint-eula
-yandex.ru##.hint-eula-mobile
-yandex.ru##.desktop-interview-modal
-yandex.ru##div[data-apiary-widget-id="/fullScreenAppDistributionPopup"]
-! yandex.ru - banner
-yandex.ru##.notification-promo
+yandex.ru##[data-apiary-widget-id="/fullScreenAppDistributionPopup"]
+yandex.ru##[data-apiary-widget-name="@marketfront/DistributionInCut"]
 
 ! knowyourmeme.com - start
 knowyourmeme.com##article:has(.ad-container-div)
