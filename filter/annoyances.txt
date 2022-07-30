@@ -239,6 +239,7 @@ forum.kde.org##.profile-info-area
 
 ! flightradar24.com - ads
 www.flightradar24.com##.upgrade-button
+! flightradar24.com - app
 www.flightradar24.com##.applink-container
 www.flightradar24.com##.open-in-app-button
 
