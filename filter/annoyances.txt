@@ -161,9 +161,6 @@ www.raywenderlich.com##.c-banner-draper-sticky
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com###hot-network-questions
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.s-sidebarwidget
 
-! medium - consent
-proandroiddev.com,codeburst.io##body > div:nth-of-type(2)
-
 ! steamcommunity.com - age gate
 steamcommunity.com##.adult_content_age_gate
 steamcommunity.com##.responsive_page_template_content:style(display: block !important;)
