@@ -339,10 +339,6 @@ www.synology-forum.de##.s2amBannerUnit
 www.bytelab.codes###ghost-portal-root
 www.omg.de##.fade
 
-!---SmartBanner---
-
-protonmail.com,wevpn.com##+js(set, SmartBanner, noopFunc)
-
 !---Translate---
 
 ||translate.googleapis.com^$domain=geeksforgeeks.org
