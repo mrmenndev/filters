@@ -207,16 +207,6 @@ turkru.tv##.adpower-item
 ! turkru.tv - unbreak
 @@||turkru.tv/static/pixel.png
 
-! weather.com - sidebar
-weather.com##.region-sidebar
-! weather.com - news
-weather.com##section[data-testid="ContentMediaModule"]
-weather.com##section[data-testid="SmartMessageInPageModule"]
-weather.com##section[data-testid="promoDriverModule"]
-weather.com##section[data-testid="upsellCardModule"]
-! weather.com - video 
-weather.com##div[data-testid="videoLink"]
-
 ! dongknows.com - ads
 dongknows.com##.dkt-amz-deals
 ! dongknows.com - sidebar
@@ -317,6 +307,7 @@ i-teh.com##.b24-widget-button-wrapper
 opensource.com##.subscribe-float
 apkmirror.com##.apkm-timed-slider
 odysee.com##.claim-preview--premium-plus:remove()
+weather.com##[id^="WxuContentMedia"]
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
