@@ -42,7 +42,7 @@ www.computerbase.de##+js(set, BaseCMS.initDialog, noopFunc)
 ||www.computerbase.de/js/dialog-polyfill
 ||www.computerbase.de/js/onetrust$1p,important
 ! computerbase.de - anti adblock
-www.computerbase.de##.adblock-plea:remove()
+www.computerbase.de##.support-plea:remove()
 ! computerbase.de - ads
 www.computerbase.de##.adbox
 www.computerbase.de##.js-promobar
