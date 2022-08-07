@@ -24,12 +24,11 @@ yandex.ru##.news
 yandex.ru##.infinity-zen
 
 ! imdb.com - homepage
-imdb.com##.ipc-page-wrapper--baseAlt
+imdb.com##main:has(.video-hero)
 ! imdb.com - result
-imdb.com##section[data-testid="videos-section"]
-imdb.com##section[data-testid="News"]
-imdb.com##section[data-testid="MoreLikeThis"]
 imdb.com##section[data-testid="Photos"]
 imdb.com##section[data-testid="DidYouKnow"]
-imdb.com##section[data-testid="contribution"]
+imdb.com##section[data-testid="FAQ"]
 imdb.com##section[data-testid="Storyline"]
+imdb.com##[data-testid="storyline-header"]
+imdb.com##[data-testid="storyline-loader"]
