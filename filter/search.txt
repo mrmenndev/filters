@@ -3,18 +3,13 @@
 ! RAW: https://raw.githubusercontent.com/mrmenndev/filters/master/filter/search.txt
 
 ! duckduckgo
-duckduckgo.com##.result[data-domain$='quora.com']
-duckduckgo.com##.result[data-domain$='gutefrage.net']
-duckduckgo.com##.result[data-domain$='xspdf.com']
-duckduckgo.com##.result[data-domain$='experts-exchange.com']
-duckduckgo.com##.result[data-domain$='ringingliberty.com']
-duckduckgo.com##.result[data-domain$='bleepcoder.com']
-duckduckgo.com##.result[data-domain$='qastack.com']
-! duckduckgo - top-domains
-duckduckgo.com##.result__sitelinks:has([data-domain$='quora.com'])
-duckduckgo.com##.result__sitelinks:has([data-domain$='gutefrage.net'])
-! duckduckgo - news
-duckduckgo.com##.js-module--news
+duckduckgo.com##article:has(a[href*='quora.com'])
+duckduckgo.com##article:has(a[href*='gutefrage.net'])
+duckduckgo.com##article:has(a[href*='xspdf.com'])
+duckduckgo.com##article:has(a[href*='experts-exchange.com'])
+duckduckgo.com##article:has(a[href*='ringingliberty.com'])
+duckduckgo.com##article:has(a[href*='bleepcoder.com'])
+duckduckgo.com##article:has(a[href*='qastack.com'])
 
 ! brave search
 search.brave.com##.snippet:has(.result-header[href*='quora.com'])
