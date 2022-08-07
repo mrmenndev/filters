@@ -76,7 +76,13 @@ www.udemy.com##.js-pride-month-gradient
 ! imdb.com - search
 imdb.com##+js(json-prune, d.[].v)
 ! imdb.com - result
-imdb.com##div[data-testid="feature-title-news__loader"]
+imdb.com##.ipc-page-grid__item--span-1
+imdb.com##section[data-testid="contribution"]
+imdb.com##section[data-testid="videos-section"]
+imdb.com##section[data-testid="MoreLikeThis"]
+imdb.com##section[data-testid="News"]
+imdb.com##[data-testid="feature-title-news__loader"]
+imdb.com##.ipc-title__wrapper:has(a[href="news-section-header"])
 ! imdb.com - prime
 ||imdb.com/watch/_ajax/option
 
