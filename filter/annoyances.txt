@@ -290,6 +290,12 @@ www.ebay-kleinanzeigen.de###vap-smlrads
 www.ebay-kleinanzeigen.de###viewad-sidebar-banner
 www.ebay-kleinanzeigen.de##.tinytabs
 
+! hashrate.no - banner 
+hashrate.no##.hr-border-infobar
+! hashrate.no - ads
+hashrate.no##a[target="ad_gpu_top"]
+hashrate.no##.w3-row:has(a[href="/knowhow"])
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
