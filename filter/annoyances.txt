@@ -202,7 +202,7 @@ www.deezer.com##.modal
 ! geeksforgeeks.org - popups
 www.geeksforgeeks.org##.login-modal-div
 ! geeksforgeeks.org - ads
-www.geeksforgeeks.org##.textBasedMannualAds
+www.geeksforgeeks.org##[class^="textBasedMannualAds"]
 
 ! turkru.tv - popups
 turkru.tv##.in
