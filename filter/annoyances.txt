@@ -80,6 +80,7 @@ imdb.com##.ipc-page-grid__item--span-1
 imdb.com##section[data-testid="contribution"]
 imdb.com##section[data-testid="videos-section"]
 imdb.com##section[data-testid="MoreLikeThis"]
+imdb.com##section[data-testid="main-column-editorial-single"]
 imdb.com##section[data-testid="News"]
 imdb.com##[data-testid="feature-title-news__loader"]
 imdb.com##.ipc-title__wrapper:has(a[href="news-section-header"])
