@@ -297,6 +297,10 @@ hashrate.no##.hr-border-infobar
 hashrate.no##a[target="ad_gpu_top"]
 hashrate.no##.w3-row:has(a[href="/knowhow"])
 
+! sammobile.com - infinite
+www.sammobile.com##.infinite
+||www.sammobile.com/news/*$xhr
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
