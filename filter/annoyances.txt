@@ -88,7 +88,7 @@ imdb.com##.ipc-title__wrapper:has(a[href="news-section-header"])
 ||imdb.com/watch/_ajax/option
 
 ! yandex.ru - popups
-yandex.ru##[data-apiary-widget-id="/fullScreenAppDistributionPopup"]
+yandex.ru##[data-apiary-widget-id*="AppDistributionPopup"]
 yandex.ru##[data-apiary-widget-name="@marketfront/DistributionInCut"]
 
 ! knowyourmeme.com - start
