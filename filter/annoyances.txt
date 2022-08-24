@@ -16,8 +16,8 @@ m.youtube.com##.consent-bump-v2-lightbox
 m.youtube.com##body:style(position: absolute !important;)
 
 ! chocolatey.org - popups
-chocolatey.org##.gitter-open-chat-button
 chocolatey.org##.btn-announcement-notifications
+! chocolatey.org - sidebar
 chocolatey.org###announcementCarousel:upward(1)
 
 ! pcgameshardware.de - start
