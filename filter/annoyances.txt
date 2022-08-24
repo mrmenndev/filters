@@ -344,7 +344,7 @@ www.omg.de##.fade
 
 !---Translate---
 
-||translate.googleapis.com^$domain=geeksforgeeks.org
+||translate.googleapis.com
 
 !----Whitelist----
 
