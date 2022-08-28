@@ -83,6 +83,7 @@ imdb.com##section[data-testid="MoreLikeThis"]
 imdb.com##section[data-testid="main-column-editorial-single"]
 imdb.com##section[data-testid="News"]
 imdb.com##[data-testid="feature-title-news__loader"]
+imdb.com##div[data-testid="delayed-loader"]
 imdb.com##.ipc-title__wrapper:has(a[href="news-section-header"])
 ! imdb.com - prime
 ||imdb.com/watch/_ajax/option
