@@ -302,6 +302,11 @@ hashrate.no##.w3-row:has(a[href="/knowhow"])
 www.sammobile.com##.infinite
 ||www.sammobile.com/news/*$xhr
 
+! ethermine.org - ads
+ethermine.org###ems-banner
+! ethermine.org - popups
+ethermine.org##.open:has(a[href^="https://blog.ethereum.org"])
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -326,7 +331,6 @@ opensource.com##.subscribe-float
 apkmirror.com##.apkm-timed-slider
 odysee.com##.claim-preview--premium-plus:remove()
 weather.com##[id^="WxuContentMedia"]
-ethermine.org###ems-banner
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
