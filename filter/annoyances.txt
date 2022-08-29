@@ -179,17 +179,11 @@ tele-ru.ru##+js(acis, document.onkeydown)
 tele-ru.ru##+js(acis, document.onmousedown)
 
 ! islamicfinder.org - ads
-www.islamicfinder.org##.columns >:has(img[alt="instagram-logo"])
-www.islamicfinder.org##.latest-gallery-cards
-www.islamicfinder.org##.iqra-article-tile
+www.islamicfinder.org##[src^="/static/"]:not(.menuClosebtn)
+www.islamicfinder.org##.columns > :has([href*="print"])
+www.islamicfinder.org###otherFeatures-card > :has(._ap_apex_ad)
 ! islamicfinder.org - app
-www.islamicfinder.org##.columns >:has(a[href="/athan/"])
-www.islamicfinder.org##.columns >:has(img[src*="ramadanBanner"])
-www.islamicfinder.org##.bottom-section
-www.islamicfinder.org##.athan-card
-! islamicfinder.org - feedback
-www.islamicfinder.org##.surveybg
-www.islamicfinder.org###feedbackbtn
+www.islamicfinder.org###athan-playstore-card
 
 ! timeanddate.* - header
 www.timeanddate.*###ad-wrap
