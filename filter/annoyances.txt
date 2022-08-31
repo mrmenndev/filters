@@ -304,7 +304,6 @@ ethermine.org##.open:has(a[href^="https://blog.ethereum.org"])
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
-golang.org##.Header-banner
 reactjs.org##div[style="position:relative"]
 pypi.org##.notification-bar
 namingconvention.org##.producthunt
