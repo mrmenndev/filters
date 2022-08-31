@@ -305,18 +305,17 @@ ethermine.org##.open:has(a[href^="https://blog.ethereum.org"])
 
 developers.google.com##.devsite-banner-announcement
 golang.org##.Header-banner
+reactjs.org##div[style="position:relative"]
+pypi.org##.notification-bar
+namingconvention.org##.producthunt
+regex101.com##div > div> div > :has-text(Sponsors)
+dev.to##.authentication-feed__card
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
-pypi.org##.notification-bar
-antonioleiva.com##.tve-leads-conversion-object
-dev.to##.authentication-feed__card
 theregister.com##.adun
 4k-monitor.ru##.is-bg1:upward(1)
-namingconvention.org##.producthunt
 averagelinuxuser.com##.alertbar
 cmovies.online##.notice
-regex101.com##div > div> div > :has-text(Sponsors)
-reactjs.org##div[style="position:relative"]
 minerstat.com##.software_banner
 search.brave.com###searchCTA
 animekaizoku.com###related-post
