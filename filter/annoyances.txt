@@ -329,7 +329,6 @@ www.soeren-hentzschel.at##.tnemesitrevda
 www.materialui.co##.mui_logo_li
 www.nsfwyoutube.com##.sidebarright
 www.reddit.com###SearchDropdownContent
-www.memedroid.com###mobile-ad-banner-container
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
 www.asustor.com###gdpr_wrap
