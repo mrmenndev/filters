@@ -340,7 +340,6 @@ www.caseking.de###wallpaper
 www.synology-forum.de##.s2amBannerUnit
 www.bytelab.codes###ghost-portal-root
 www.omg.de##.fade
-www.amazon.de###percolate-ui-ilm_div
 
 !---Translate---
 
