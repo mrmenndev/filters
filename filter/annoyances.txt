@@ -132,6 +132,7 @@ www.dns-shop.ru##.category-stories
 www.dns-shop.ru##.products-list__banner
 ! dns-shop.ru - chat
 www.dns-shop.ru##.chat-btn
+www.dns-shop.ru##.left-filters__consult-wrap
 ! dns-shop.ru - blog
 www.dns-shop.ru##.homepage-blogs
 www.dns-shop.ru##.homepage-stories
