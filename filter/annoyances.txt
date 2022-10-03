@@ -212,11 +212,6 @@ turkru.tv##.adpower-item
 ! turkru.tv - unbreak
 @@||turkru.tv/static/pixel.png
 
-! dongknows.com - ads
-dongknows.com##.dkt-amz-deals
-! dongknows.com - sidebar
-dongknows.com##.sidebar.widget-area
-
 ! anime-loads.org - ads
 www.anime-loads.org###mediawidget
 ! anime-loads.org - footer
