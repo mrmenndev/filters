@@ -217,9 +217,8 @@ dongknows.com##.dkt-amz-deals
 ! dongknows.com - sidebar
 dongknows.com##.sidebar.widget-area
 
-! anime-loads.org - consent
-www.anime-loads.org###alnotice
-www.anime-loads.org##body:style(overflow: auto !important)
+! anime-loads.org - ads
+www.anime-loads.org###mediawidget
 ! anime-loads.org - footer
 www.anime-loads.org##footer
 
