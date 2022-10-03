@@ -328,7 +328,6 @@ odysee.com##.claim-preview--premium-plus:remove()
 weather.com##[id^="WxuContentMedia"]
 
 www.soeren-hentzschel.at##.tnemesitrevda
-www.materialui.co##.mui_logo_li
 www.nsfwyoutube.com##.sidebarright
 www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
