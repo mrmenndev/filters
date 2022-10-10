@@ -16,13 +16,6 @@ mail.ru##[data-show-on-scroll-counter]
 ! mail.ru - center login
 mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:translateX(-50%)!important)
 
-! yandex.ru - search news
-yandex.ru##.news__header
-yandex.ru##.desk-notif
-yandex.ru##.region
-yandex.ru##.news
-yandex.ru##.infinity-zen
-
 ! imdb.com - homepage
 imdb.com##main:has(.video-hero)
 ! imdb.com - result
