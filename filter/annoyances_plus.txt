@@ -25,3 +25,8 @@ imdb.com##section[data-testid="FAQ"]
 imdb.com##section[data-testid="Storyline"]
 imdb.com##[data-testid="storyline-header"]
 imdb.com##[data-testid="storyline-loader"]
+
+! dzen.ru - news
+dzen.ru##.feed
+dzen.ru##.touch-feed
+dzen.ru##[class*="channels-list-sidebar__container"]
