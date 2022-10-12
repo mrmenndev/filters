@@ -94,20 +94,13 @@ imdb.com##.ipc-title__wrapper:has(a[href="news-section-header"])
 yandex.ru##[data-apiary-widget-id*="AppDistributionPopup"]
 yandex.ru##[data-apiary-widget-name="@marketfront/DistributionInCut"]
 
-! knowyourmeme.com - start
-knowyourmeme.com##article:has(.ad-container-div)
 ! knowyourmeme.com - article
 knowyourmeme.com###leaderboard
-knowyourmeme.com##.top-entries
-! knowyourmeme.com - article related
-knowyourmeme.com##details#videos
-knowyourmeme.com##details#photos
-knowyourmeme.com##.related_memes
-! knowyourmeme.com - article news
-||knowyourmeme.com/memes/*&page$xhr
-knowyourmeme.com###news_feeds
-knowyourmeme.com##.related-news
-knowyourmeme.com##.loader
+knowyourmeme.com###spp-gallery
+knowyourmeme.com###videos
+! knowyourmeme.com - article mobile
+knowyourmeme.com##.shemedia-ad-wrapper
+knowyourmeme.com##.content-unit-refresh-wrapper
 
 ! fandom.com - ads
 fandom.com##.ad-slot-placeholder
