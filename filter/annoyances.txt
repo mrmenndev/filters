@@ -102,15 +102,9 @@ knowyourmeme.com###videos
 knowyourmeme.com##.shemedia-ad-wrapper
 knowyourmeme.com##.content-unit-refresh-wrapper
 
-! fandom.com - ads
-fandom.com##.ad-slot-placeholder
-fandom.com###SurveyModule
-! fandom.com - popups
-fandom.com##.wds-banner-notification
-fandom.com##.sitenotice
 ! fandom.com - footer
 fandom.com###mixed-content-footer
-fandom.com##.wikia-bar
+fandom.com##.global-navigation
 ! fandom.com - video
 fandom.com##.article-featured-video__player
 
