@@ -66,7 +66,7 @@ www.cdek.ru##.banner-carousel
 www.cdek.ru##.alerts
 www.cdek.ru##.get-cdek-id
 ! cdek.ru - app
-www.cdek.ru##.tracking-applications
+www.cdek.ru##.mobile-applications
 www.cdek.ru##+js(rc, smartbanner-show, html, stay)
 ! cdek.ru - chat
 www.cdek.ru##.help-customer-trigger
