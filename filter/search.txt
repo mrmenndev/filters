@@ -10,6 +10,8 @@ duckduckgo.com##article:has(a[href*='experts-exchange.com'])
 duckduckgo.com##article:has(a[href*='ringingliberty.com'])
 duckduckgo.com##article:has(a[href*='bleepcoder.com'])
 duckduckgo.com##article:has(a[href*='qastack.com'])
+! duckduckgo - news
+duckduckgo.com##.js-module--news
 
 ! brave search
 search.brave.com##.snippet:has(.result-header[href*='quora.com'])
