@@ -50,6 +50,10 @@ www.debugpoint.com##.post-comments
 ! debugpoint.com - article
 www.debugpoint.com##.bb-comments
 
+! debugpointnews.com - article
+debugpointnews.com##.comments-area
+debugpointnews.com##.post-comments
+
 winfuture.de##.content_wrap:has(#comments_box)
 apkpure.com###comment
 turkru.tv##.comments-container
