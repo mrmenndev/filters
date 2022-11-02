@@ -286,6 +286,10 @@ ethermine.org###ems-banner
 ! ethermine.org - popups
 ethermine.org##.open:has(a[href^="https://blog.ethereum.org"])
 
+! debugpoint.com - social
+www.debugpoint.com##.dp-gnews-link
+www.debugpoint.com##[href="https://t.me/debugpoint"]
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -315,7 +319,6 @@ www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
 www.asustor.com###gdpr_wrap
-www.debugpoint.com###wpd-bubble-wrapper
 www.snbforums.com##.notice--primary
 www.caseking.de###wallpaper
 www.synology-forum.de##.s2amBannerUnit
