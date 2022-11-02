@@ -44,6 +44,12 @@ www.xda-developers.com##.comments-block
 animekaizoku.com##.post-content-slideshow-outer
 animekaizoku.com###disqus_thread
 
+! debugpoint.com - start
+www.debugpoint.com##.widget_recent_comments
+www.debugpoint.com##.post-comments
+! debugpoint.com - article
+www.debugpoint.com##.bb-comments
+
 winfuture.de##.content_wrap:has(#comments_box)
 apkpure.com###comment
 turkru.tv##.comments-container
