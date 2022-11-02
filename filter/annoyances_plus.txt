@@ -5,6 +5,8 @@
 ! youtube.com - homepage
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer)
+! youtube.com - fix return-yt-dislike
+www.youtube.com##.ryd-tooltip
 
 ! mail.ru - start
 mail.ru##[data-testid='news-tabs']:upward(1)
