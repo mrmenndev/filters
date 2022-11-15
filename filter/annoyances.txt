@@ -51,6 +51,7 @@ www.computerbase.de##.support-plea:remove()
 www.computerbase.de##.adbox
 www.computerbase.de##.js-promobar
 www.computerbase.de##.shoutbox.box
+www.computerbase.de##.forum-teaser
 ! computerbase.de - ads in text
 www.computerbase.de##li:has-text([Anzeige])
 www.computerbase.de##.text-asset:has(a[rel*="sponsored"])
