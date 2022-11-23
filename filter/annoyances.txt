@@ -319,7 +319,6 @@ apkmirror.com##.apkm-timed-slider
 weather.com##[id^="WxuContentMedia"]
 
 www.soeren-hentzschel.at##.tnemesitrevda
-www.nsfwyoutube.com##.sidebarright
 www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
