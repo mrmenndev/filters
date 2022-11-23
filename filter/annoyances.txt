@@ -302,7 +302,6 @@ regex101.com##div > div> div > :has-text(Sponsors)
 dev.to##.authentication-feed__card
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
-theregister.com##.adun
 4k-monitor.ru##.is-bg1:upward(1)
 averagelinuxuser.com##.alertbar
 cmovies.online##.notice
