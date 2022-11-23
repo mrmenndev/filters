@@ -249,10 +249,6 @@ www.rockpapershotgun.com##.merch_component
 www.rockpapershotgun.com##.supporters_promo
 www.rockpapershotgun.com##.disclaimer
 
-! apkpure.com - app
-apkpure.com###ad-aegon-side
-apkpure.com##.aegon-link
-
 ! raspberrypistarterkits.com - popup
 www.raspberrypistarterkits.com##.fancybox-wrap
 www.raspberrypistarterkits.com##.fancybox-overlay
