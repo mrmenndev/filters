@@ -128,13 +128,8 @@ www.dns-shop.ru##.homepage-blogs
 www.dns-shop.ru##.homepage-stories
 
 ! xda-developers.com - start
-www.xda-developers.com###xda_alert_bar
-www.xda-developers.com##.latest-news-2 .col:has(.meta_author:has-text(Sponsors))
-! xda-developers.com - article
-www.xda-developers.com##.xda_nanobox
-! xda-developers.com - forum
-forum.xda-developers.com##.xda-alertbar-huawei
-forum.xda-developers.com##[data-freestar-ad]
+www.xda-developers.com##.w-pencil-banner
+www.xda-developers.com##.w-listing-featured-category
 
 ! deepl.com - consent
 www.deepl.com##div[class^="cookieBanner"]
