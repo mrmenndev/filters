@@ -9,8 +9,8 @@ youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabR
 ! mail.ru - start
 mail.ru##[data-testid='news-tabs']:upward(1)
 mail.ru##.tab-switcher:upward(1)
-mail.ru##.covid:upward(1)
 mail.ru##.horoscope
+mail.ru##.sport
 mail.ru##[data-click-pixel]
 mail.ru##[data-show-on-scroll-counter]
 ! mail.ru - center login
