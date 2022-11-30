@@ -307,6 +307,7 @@ i-teh.com##.b24-widget-button-wrapper
 opensource.com##.subscribe-float
 apkmirror.com##.apkm-timed-slider
 weather.com##[id^="WxuContentMedia"]
+apkpure.com##.aegon-down-item
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.reddit.com###SearchDropdownContent
