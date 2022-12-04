@@ -115,17 +115,15 @@ fandom.com##.article-featured-video__player
 www.pcwelt.de##[data-ga-event-category="billiger_de_box_right_column"]
 www.pcwelt.de##[data-ga-event-category="right_column_artikel_slider"]
 
-! dns-shop.ru - banner 
-www.dns-shop.ru##.single-banner-container
-www.dns-shop.ru##.banner-header
-www.dns-shop.ru##.category-stories
-www.dns-shop.ru##.products-list__banner
+! dns-shop.ru - blog
+www.dns-shop.ru##.homepage-blogs
+www.dns-shop.ru##.stories
 ! dns-shop.ru - chat
 www.dns-shop.ru##.chat-btn
 www.dns-shop.ru##.left-filters__consult-wrap
-! dns-shop.ru - blog
-www.dns-shop.ru##.homepage-blogs
-www.dns-shop.ru##.homepage-stories
+! dns-shop.ru - banner 
+www.dns-shop.ru##.configurator-links-block
+www.dns-shop.ru##.category-stories
 
 ! xda-developers.com - start
 www.xda-developers.com##.w-pencil-banner
