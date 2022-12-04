@@ -285,6 +285,10 @@ debugpointnews.com##.dp-gnews-link
 debugpointnews.com##.dp-telegram-link
 debugpointnews.com##.widget:not(.widget_search)
 
+! search.brave.com - banner
+search.brave.com##.carousel-snippet
+search.brave.com###news-carousel
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -299,7 +303,6 @@ threadreaderapp.com##.sharingfooter
 averagelinuxuser.com##.alertbar
 cmovies.online##.notice
 minerstat.com##.software_banner
-search.brave.com###searchCTA
 animekaizoku.com###related-post
 i-teh.com##.b24-widget-button-wrapper
 opensource.com##.subscribe-float
