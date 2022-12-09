@@ -39,24 +39,15 @@ www.pcgameshardware.de##.static_banner
 www.pcgameshardware.de##.wadtag
 www.pcgameshardware.de##aside.innerArticleModule
 
-! computerbase.de - consent
-www.computerbase.de##dialog:remove()
-www.computerbase.de##+js(rc, consent-dialog-open, body)
-www.computerbase.de##+js(set, BaseCMS.initDialog, noopFunc)
-||www.computerbase.de/js/dialog-polyfill
-||www.computerbase.de/js/onetrust$1p,important
 ! computerbase.de - anti adblock
 www.computerbase.de##.support-plea:remove()
 ! computerbase.de - ads
-www.computerbase.de##.adbox
 www.computerbase.de##.js-promobar
 www.computerbase.de##.shoutbox.box
 www.computerbase.de##.forum-teaser
 ! computerbase.de - ads in text
 www.computerbase.de##li:has-text([Anzeige])
 www.computerbase.de##.text-asset:has(a[rel*="sponsored"])
-! computerbase.de - tracking
-||www.computerbase.de/api2/nlytcy
 
 ! allround-pc.com - consent
 www.allround-pc.com##html:style(overflow:auto !important)
