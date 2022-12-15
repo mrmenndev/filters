@@ -181,9 +181,9 @@ www.timeanddate.*##.header__wrapper:style(height: 2.5rem !important)
 www.deezer.com##.modal
 
 ! geeksforgeeks.org - popups
-www.geeksforgeeks.org##.login-modal-div
-! geeksforgeeks.org - ads
-www.geeksforgeeks.org##[class^="textBasedMannualAds"]
+www.geeksforgeeks.org##.shell
+! geeksforgeeks.org - sidebar
+www.geeksforgeeks.org##.rightBar
 
 ! turkru.tv - popups
 turkru.tv##.in
