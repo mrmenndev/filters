@@ -25,7 +25,7 @@ www.pcgameshardware.de##.at_premium
 www.pcgameshardware.de##.item:has-text([Werbung])
 ! pcgameshardware.de - ticker mobile
 www.pcgameshardware.de##.pcghPlus
-www.pcgameshardware.de##article:has-text([Werbung])
+www.pcgameshardware.de##.teaserItem:has-text([Werbung])
 ! pcgameshardware.de - article
 www.pcgameshardware.de##.sidebar
 www.pcgameshardware.de##.stickyParent
