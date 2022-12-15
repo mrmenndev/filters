@@ -30,3 +30,9 @@ imdb.com##[data-testid="storyline-loader"]
 dzen.ru##.feed
 dzen.ru##.touch-feed
 dzen.ru##[class*="channels-list-sidebar__container"]
+
+! imgur.com - sidebar
+imgur.com##.Gallery-Sidebar-Wrapper
+! imgur.com - infinity
+imgur.com##.BottomRecirc
+||api.imgur.com/post/v1/posts$xhr,domain=imgur.io
