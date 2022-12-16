@@ -20,6 +20,8 @@ chocolatey.org##.btn-announcement-notifications
 ! chocolatey.org - sidebar
 chocolatey.org###announcementCarousel:upward(1)
 
+! pcgameshardware.de - start
+www.pcgameshardware.de###topBannerWrapper
 ! pcgameshardware.de - ticker
 www.pcgameshardware.de##.at_premium
 www.pcgameshardware.de##.item:has-text([Werbung])
