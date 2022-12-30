@@ -132,12 +132,6 @@ www.deepl.com##[aria-labelledby*="ad-banner"]
 www.deepl.com###dl_quotes_container
 www.deepl.com##[aria-labelledby="customer-quotes-heading"]
 
-! eurogamer.de - ads
-www.eurogamer.de##.promotion
-www.eurogamer.de##.internal-link
-! eurogamer.de - footer
-www.eurogamer.de##.below
-
 ! raywenderlich.com - ads
 www.raywenderlich.com##.c-banner-advert
 www.raywenderlich.com##.c-banner-related
