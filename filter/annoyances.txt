@@ -304,6 +304,12 @@ www.smarthomeassistent.de##.aawp
 www.smarthomeassistent.de##.kaufberatungtitle
 www.smarthomeassistent.de##.grid_kaufberatung
 
+! notebooksbilliger.de - ads
+www.notebooksbilliger.de##.vue-cherry
+www.notebooksbilliger.de###dy-hero-banners-slider
+! notebooksbilliger.de - article
+www.notebooksbilliger.de###pineberry-content
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
