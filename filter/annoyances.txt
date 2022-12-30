@@ -304,6 +304,12 @@ www.notebooksbilliger.de###dy-hero-banners-slider
 ! notebooksbilliger.de - article
 www.notebooksbilliger.de###pineberry-content
 
+! eurogamer.net - consent
+www.eurogamer.net##.ot-sdk-container
+! eurogamer.net - article
+www.eurogamer.net##.article .supporter_promo
+www.eurogamer.net##.article ul
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
