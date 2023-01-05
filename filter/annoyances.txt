@@ -310,6 +310,10 @@ www.eurogamer.net##.ot-sdk-container
 www.eurogamer.net##.article .supporter_promo
 www.eurogamer.net##.article ul
 
+! duckduckgo.com - search
+duckduckgo.com##.module--carousel-videos
+duckduckgo.com##.js-module--news
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -330,7 +334,6 @@ opensource.com##.subscribe-float
 apkmirror.com##.apkm-timed-slider
 weather.com##[id^="WxuContentMedia"]
 apkpure.com##.aegon-down-item
-duckduckgo.com##.module--carousel-videos
 
 www.soeren-hentzschel.at##.tnemesitrevda
 www.reddit.com###SearchDropdownContent
