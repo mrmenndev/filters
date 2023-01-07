@@ -35,4 +35,4 @@ dzen.ru##[class*="channels-list-sidebar__container"]
 imgur.com##.Gallery-Sidebar-Wrapper
 ! imgur.com - infinity
 imgur.com##.BottomRecirc
-||api.imgur.com/post/v1/posts$xhr,domain=imgur.io
+||api.imgur.io/post/v1/posts$xhr
