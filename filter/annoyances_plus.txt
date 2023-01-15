@@ -5,6 +5,12 @@
 ! youtube.com - homepage
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer, undefined)
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.richGridRenderer)
+! youtube.com - search (shorts)
+youtube.com##+js(json-prune, contents.twoColumnSearchResultsRenderer.primaryContents.sectionListRenderer.contents.0.itemSectionRenderer.contents.*.reelShelfRenderer)
+youtube.com##+js(json-prune, onResponseReceivedCommands.0.appendContinuationItemsAction.continuationItems.0.itemSectionRenderer.contents.*.reelShelfRenderer)
+! youtube.com - search (for me)
+youtube.com##+js(json-prune, contents.twoColumnSearchResultsRenderer.primaryContents.sectionListRenderer.contents.0.itemSectionRenderer.contents.*.shelfRenderer)
+youtube.com##+js(json-prune, onResponseReceivedCommands.0.appendContinuationItemsAction.continuationItems.0.itemSectionRenderer.contents.*.shelfRenderer)
 
 ! mail.ru - start
 mail.ru##[data-testid='news-tabs']:upward(1)
