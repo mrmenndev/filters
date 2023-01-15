@@ -4,14 +4,10 @@
 
 !-----General-----
 
-! youtube.com - video
-youtube.com###merch-shelf 
-youtube.com###clarify-box
 ! youtube.com - channelpage
 youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer)
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer, undefined)
 ! youtube.com - mobile
-m.youtube.com##.upsell-dialog-lightbox
 m.youtube.com##.consent-bump-v2-lightbox
 m.youtube.com##body:style(position: absolute !important;)
 
