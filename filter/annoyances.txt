@@ -128,6 +128,8 @@ www.xda-developers.com##.w-listing-featured-category
 www.deepl.com##div[class^="cookieBanner"]
 ! deepl.com - ads
 www.deepl.com##[aria-labelledby*="ad-banner"]
+! deepl.com - popups
+www.deepl.com##[aria-labelledby*="recommendation-banner"]
 ! deepl.com - quotes
 www.deepl.com###dl_quotes_container
 www.deepl.com##[aria-labelledby="customer-quotes-heading"]
