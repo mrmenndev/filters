@@ -314,6 +314,14 @@ www.eurogamer.net##.article ul
 duckduckgo.com##.module--carousel-videos
 duckduckgo.com##.js-module--news
 
+! hardwareluxx.de - ads
+www.hardwareluxx.de##.ad-large
+www.hardwareluxx.de##.header-com
+www.hardwareluxx.de##.px-3:has(div[id^="div-gpt-ad"])
+www.hardwareluxx.de##body:style(margin-top: 0px !important;)
+! hardwareluxx.de - article
+www.hardwareluxx.de##.hwi-product-prices
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
