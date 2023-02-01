@@ -128,7 +128,6 @@ www.deepl.com##[aria-labelledby*="ad-banner"]
 www.deepl.com##[aria-labelledby*="recommendation-banner"]
 ! deepl.com - quotes
 www.deepl.com###dl_quotes_container
-www.deepl.com##[aria-labelledby="customer-quotes-heading"]
 
 ! raywenderlich.com - ads
 www.raywenderlich.com##.c-banner-advert
@@ -343,6 +342,10 @@ www.ui.com###dwnBanWrapper
 
 !----Whitelist----
 
+! Unbreak JDownloader Click'n'Loader
+@@||127.0.0.1^*/jdcheck.js
+@@||127.0.0.1^*/flash/add*
+
 ! nextdns.io - Unbreak loading
 @@||api.nextdns.io
 
@@ -350,6 +353,5 @@ www.ui.com###dwnBanWrapper
 @@||cdn.diginetica.net^$domain=xcom-shop.ru
 @@||autocomplete.diginetica.net^$domain=xcom-shop.ru
 
-! Unbreak JDownloader Click'n'Loader
-@@||127.0.0.1^*/jdcheck.js
-@@||127.0.0.1^*/flash/add*
+! deepl.com - Unbreak language picker
+www.deepl.com#@##headlessui-portal-root
