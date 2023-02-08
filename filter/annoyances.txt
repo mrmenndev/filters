@@ -94,6 +94,8 @@ knowyourmeme.com###videos
 knowyourmeme.com##.shemedia-ad-wrapper
 knowyourmeme.com##.content-unit-refresh-wrapper
 
+! fandom.com - consent
+fandom.com##[data-tracking-opt-in-overlay]:remove()
 ! fandom.com - footer
 fandom.com###mixed-content-footer
 fandom.com##.global-navigation
