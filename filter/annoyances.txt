@@ -264,6 +264,8 @@ www.debugpoint.com##[href="https://t.me/debugpoint"]
 debugpointnews.com##.dp-gnews-link
 debugpointnews.com##.dp-telegram-link
 debugpointnews.com##.widget:not(.widget_search)
+! debugpointnews.com - popups
+debugpointnews.com##.sliding-box
 
 ! search.brave.com - banner
 search.brave.com##.carousel-snippet
