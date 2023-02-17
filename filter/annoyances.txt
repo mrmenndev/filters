@@ -17,7 +17,7 @@ chocolatey.org##.btn-announcement-notifications
 chocolatey.org###announcementCarousel:upward(1)
 
 ! pcgameshardware.de - start
-www.pcgameshardware.de###topBannerWrapper
+www.pcgameshardware.de##.jobfeedWidget
 ! pcgameshardware.de - ticker
 www.pcgameshardware.de##.at_premium
 www.pcgameshardware.de##.item:has-text([Werbung])
@@ -26,15 +26,10 @@ www.pcgameshardware.de##.pcghPlus
 www.pcgameshardware.de##.teaserItem:has-text([Werbung])
 ! pcgameshardware.de - article
 www.pcgameshardware.de##.sidebar
-www.pcgameshardware.de##.stickyParent
-www.pcgameshardware.de##.rgTable
-www.pcgameshardware.de##.linkbox
+www.pcgameshardware.de##.shopLinkFrameWrapper
 www.pcgameshardware.de##.affbtnContainer
-www.pcgameshardware.de##.pvg-widget
-www.pcgameshardware.de##p:has(> b)
+www.pcgameshardware.de##p:has(> strong)
 ! pcgameshardware.de - article mobile
-www.pcgameshardware.de##.static_banner
-www.pcgameshardware.de##.wadtag
 www.pcgameshardware.de##aside.innerArticleModule
 
 ! computerbase.de - anti adblock
