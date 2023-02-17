@@ -292,6 +292,12 @@ www.hardwareluxx.de##body:style(margin-top: 0px !important;)
 ! hardwareluxx.de - article
 www.hardwareluxx.de##.hwi-product-prices
 
+! soeren-hentzschel.at - ads
+www.soeren-hentzschel.at##.textlinks
+www.soeren-hentzschel.at##footer small
+! soeren-hentzschel.at - article
+www.soeren-hentzschel.at###sharing
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -313,7 +319,6 @@ apkmirror.com##.apkm-timed-slider
 weather.com##[id^="WxuContentMedia"]
 apkpure.com##.aegon-down-item
 
-www.soeren-hentzschel.at##.tnemesitrevda
 www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
