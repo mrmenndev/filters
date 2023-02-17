@@ -254,12 +254,10 @@ search.brave.com###news-carousel
 
 ! smarthomeassistent.de - ads
 www.smarthomeassistent.de##.adslot_header
-www.smarthomeassistent.de##.SABox
 www.smarthomeassistent.de##.affcoups
-! smarthomeassistent.de - amazon
-www.smarthomeassistent.de##.sponsored2
-www.smarthomeassistent.de##.aawp
 ! smarthomeassistent.de - article
+www.smarthomeassistent.de##.aawp
+www.smarthomeassistent.de##.SABox
 www.smarthomeassistent.de##.kaufberatungtitle
 www.smarthomeassistent.de##.grid_kaufberatung
 
