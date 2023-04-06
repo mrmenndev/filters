@@ -17,6 +17,7 @@ chocolatey.org##.btn-announcement-notifications
 chocolatey.org###announcementCarousel:upward(1)
 
 ! pcgameshardware.de - start
+www.pcgameshardware.de##.tickerBobble
 www.pcgameshardware.de##.jobfeedWidget
 ! pcgameshardware.de - ticker
 www.pcgameshardware.de##.at_premium
