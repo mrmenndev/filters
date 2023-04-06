@@ -23,7 +23,7 @@ mail.ru##[data-show-on-scroll-counter]
 mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:translateX(-50%)!important)
 
 ! imdb.com - homepage
-imdb.com##main:has(.video-hero)
+imdb.com###featured-today:upward(main)
 ! imdb.com - result
 imdb.com##section[data-testid="Photos"]
 imdb.com##section[data-testid="DidYouKnow"]
@@ -31,6 +31,7 @@ imdb.com##section[data-testid="FAQ"]
 imdb.com##section[data-testid="Storyline"]
 imdb.com##[data-testid="storyline-header"]
 imdb.com##[data-testid="storyline-loader"]
+imdb.com###sidebar
 
 ! dzen.ru - news
 dzen.ru##.feed
