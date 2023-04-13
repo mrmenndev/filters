@@ -232,6 +232,8 @@ hashrate.no##.w3-row:has(a[href="/knowhow"])
 ! sammobile.com - infinite
 www.sammobile.com##.infinite
 ||www.sammobile.com/news/*$xhr
+! sammobile.com - popups
+www.sammobile.com##[aria-controls="notificationsPanel"]
 
 ! ethermine.org - ads
 ethermine.org###ems-banner
