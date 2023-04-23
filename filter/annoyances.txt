@@ -315,6 +315,7 @@ apkmirror.com##.apkm-timed-slider
 weather.com##[id^="WxuContentMedia"]
 apkpure.com##.aegon-down-item
 asus.com###cookie-policy-info:remove()
+bitrefill.com##[id="radix-:r0:"]
 
 www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
@@ -347,3 +348,7 @@ www.binarytides.com##.display-ad-unit
 
 ! deepl.com - Unbreak language picker
 www.deepl.com#@##headlessui-portal-root
+
+! bitrefill.com - Unbreak dialog
+bitrefill.com#@#.b-vsrR8W
+bitrefill.com#@#div[data-contentwrapper="true"][tabindex="-1"]
