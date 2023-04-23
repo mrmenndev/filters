@@ -127,6 +127,7 @@ www.raywenderlich.com##.c-banner-draper-sticky
 
 ! stackexchange - banner
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.js-announcement-banner
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com###notice-sidebar-popover
 ! stackexchange - sidebar
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com###hot-network-questions
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.s-sidebarwidget
