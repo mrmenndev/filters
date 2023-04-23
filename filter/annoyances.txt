@@ -166,13 +166,9 @@ www.geeksforgeeks.org##.shell
 www.geeksforgeeks.org##.rightBar
 
 ! turkru.tv - popups
-turkru.tv##.in
-! turkru.tv - ads
-turkru.tv##.new-serials-notification
-turkru.tv##.blockreclam
-turkru.tv##.adpower-item
-! turkru.tv - unbreak
-@@||turkru.tv/static/pixel.png
+turkru.tv##.notification-live
+! turkru.tv - social
+turkru.tv##.promo-wrap2
 
 ! anime-loads.org - ads
 www.anime-loads.org###mediawidget
