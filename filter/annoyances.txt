@@ -314,6 +314,7 @@ apkpure.com##.aegon-down-item
 asus.com###cookie-policy-info:remove()
 bitrefill.com##[id="radix-:r0:"]
 genius.com##[class^="RightSidebar"]
+unogs.com,uno.gs##.alert
 
 www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
