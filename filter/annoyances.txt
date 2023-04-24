@@ -312,6 +312,7 @@ weather.com##[id^="WxuContentMedia"]
 apkpure.com##.aegon-down-item
 asus.com###cookie-policy-info:remove()
 bitrefill.com##[id="radix-:r0:"]
+genius.com##[class^="RightSidebar"]
 
 www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
