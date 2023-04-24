@@ -99,6 +99,7 @@ www.dns-shop.ru##.stories
 www.dns-shop.ru##.category-stories
 ! dns-shop.ru - chat
 www.dns-shop.ru###js-chatik-container
+www.dns-shop.ru##.left-filters__consult-wrap
 ! dns-shop.ru - banner 
 www.dns-shop.ru##.products-list__banner
 www.dns-shop.ru##.configurator-links-block
