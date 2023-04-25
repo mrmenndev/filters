@@ -104,6 +104,7 @@ www.dns-shop.ru##.left-filters__consult-wrap
 www.dns-shop.ru##.products-list__banner
 www.dns-shop.ru##.configurator-links-block
 www.dns-shop.ru##.order-by-check
+www.dns-shop.ru##.catalog-rsu-switch__new-tip
 
 ! xda-developers.com - start
 www.xda-developers.com##.w-pencil-banner
