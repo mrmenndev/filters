@@ -13,10 +13,10 @@ youtube.com##+js(json-prune, contents.twoColumnSearchResultsRenderer.primaryCont
 youtube.com##+js(json-prune, onResponseReceivedCommands.0.appendContinuationItemsAction.continuationItems.0.itemSectionRenderer.contents.*.shelfRenderer)
 
 ! mail.ru - start
-mail.ru##[data-testid='news-tabs']:upward(1)
-mail.ru##.tab-switcher:upward(1)
-mail.ru##.horoscope
-mail.ru##.sport
+mail.ru##[data-testid='news-tabs']:upward(1):remove()
+! mail.ru - start mobile
+mail.ru##.promo-point
+mail.ru##.news:remove()
 mail.ru##[data-click-pixel]
 mail.ru##[data-show-on-scroll-counter]
 ! mail.ru - center login
