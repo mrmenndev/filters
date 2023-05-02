@@ -292,6 +292,14 @@ www.soeren-hentzschel.at##footer small
 ! soeren-hentzschel.at - article
 www.soeren-hentzschel.at###sharing
 
+! blockchair.com - ads
+blockchair.com##[class*="adv"]
+blockchair.com##[class*="sponsored"]:upward(1)
+blockchair.com##.md-hide
+blockchair.com##.md-plus-hide
+! blockchair.com - news
+blockchair.com##.transaction__news-wrap
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
