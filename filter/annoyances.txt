@@ -300,6 +300,11 @@ blockchair.com##.md-plus-hide
 ! blockchair.com - news
 blockchair.com##.transaction__news-wrap
 
+asus.com - consent
+asus.com###cookie-policy-info:remove()
+asus.com - banner 
+asus.com###headerBanners
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -320,7 +325,6 @@ opensource.com##.subscribe-float
 apkmirror.com##.apkm-timed-slider
 weather.com##[id^="WxuContentMedia"]
 apkpure.com##.aegon-down-item
-asus.com###cookie-policy-info:remove()
 bitrefill.com##[id="radix-:r0:"]
 genius.com##[class^="RightSidebar"]
 unogs.com,uno.gs##.alert
