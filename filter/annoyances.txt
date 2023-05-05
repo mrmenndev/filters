@@ -50,9 +50,9 @@ www.allround-pc.com##.apcTrackingModal
 www.allround-pc.com##a[href*="bit.ly"]
 
 ! cdek.ru - ads
-www.cdek.ru##.banner-carousel
-www.cdek.ru##.alerts
 www.cdek.ru##.get-cdek-id
+www.cdek.ru##.banner-carousel
+www.cdek.ru##.cdek-shopping
 ! cdek.ru - app
 www.cdek.ru##.mobile-applications
 www.cdek.ru##+js(rc, smartbanner-show, html, stay)
