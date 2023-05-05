@@ -306,6 +306,11 @@ asus.com###cookie-policy-info:remove()
 asus.com###locationReminder
 asus.com###headerBanners
 
+! asrock.com - social
+asrock.com##.cursor
+! asrock.com - mouse
+asrock.com###container-floating
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
