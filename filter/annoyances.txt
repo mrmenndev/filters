@@ -300,9 +300,10 @@ blockchair.com##.md-plus-hide
 ! blockchair.com - news
 blockchair.com##.transaction__news-wrap
 
-asus.com - consent
+! asus.com - consent
 asus.com###cookie-policy-info:remove()
-asus.com - banner 
+! asus.com - banner 
+asus.com###locationReminder
 asus.com###headerBanners
 
 !------Simple-----
