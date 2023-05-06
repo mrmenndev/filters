@@ -228,9 +228,11 @@ hashrate.no##.hr-border-infobar
 hashrate.no##a[target="ad_gpu_top"]
 hashrate.no##.w3-row:has(a[href="/knowhow"])
 
-! sammobile.com - infinite
-www.sammobile.com##.infinite
+! sammobile.com - start
+www.sammobile.com###news-for-you-wrapper
 ||www.sammobile.com/news/*$xhr
+! sammobile.com - article
+www.sammobile.com##.infinite
 ! sammobile.com - popups
 www.sammobile.com##[aria-controls="notificationsPanel"]
 
