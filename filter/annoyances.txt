@@ -168,6 +168,8 @@ www.geeksforgeeks.org##.shell
 ! geeksforgeeks.org - sidebar
 www.geeksforgeeks.org##.rightBar
 
+! turkru.tv - ads
+turkru.tv##.fragment
 ! turkru.tv - popups
 turkru.tv##.notification-live
 ! turkru.tv - social
