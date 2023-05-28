@@ -315,6 +315,11 @@ asrock.com##.cursor
 ! asrock.com - mouse
 asrock.com###container-floating
 
+! ozon.ru - ads
+ozon.ru##[data-widget="skuGrid"]
+! ozon.ru - search
+ozon.ru##[data-widget="skuShelfGoods"]
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -374,3 +379,6 @@ www.deepl.com#@##headlessui-portal-root
 ! bitrefill.com - Unbreak dialog
 bitrefill.com#@#.b-vsrR8W
 bitrefill.com#@#div[data-contentwrapper="true"][tabindex="-1"]
+
+! ozon.ru - Unbreak login
+ozon.ru#@#[data-widget="blockVertical"][style="width: auto;"]
