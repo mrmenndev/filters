@@ -39,10 +39,12 @@ imdb.com##[data-testid="storyline-header"]
 imdb.com##[data-testid="storyline-loader"]
 imdb.com###sidebar
 
-! dzen.ru - news
-dzen.ru##.feed
+! dzen.ru - start
+dzen.ru##[class*="feedContent"]
+! dzen.ru - start (mobile)
 dzen.ru##.touch-feed
-dzen.ru##[class*="channels-list-sidebar__container"]
+dzen.ru##[class^="punch-feed"]
+dzen.ru##[aria-label="Новости"]
 
 ! imgur.com - sidebar
 imgur.com##.Gallery-Sidebar-Wrapper
