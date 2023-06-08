@@ -324,7 +324,7 @@ ozon.ru##[data-widget="hammers"]
 ! ozon.ru - start mobile
 ozon.ru##[data-widget="advVideoBannerMobile"]
 ozon.ru##[data-widget="stickyContainer"]:has([data-widget="webToAppBanner"])
-ozon.ru##[data-widget="objectGrid2"]:has-text("Реклама")
+ozon.ru##[data-widget="objectGrid2"]:has-text(Реклама)
 ||www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=%2F%3Flayout_container%3Drecommendatory_mweb$xhr
 ! ozon.ru - footer
 ozon.ru##[data-widget="footer"]
@@ -349,7 +349,7 @@ opensource.com##.subscribe-float
 apkmirror.com##.apkm-timed-slider
 weather.com##[id^="WxuContentMedia"]
 apkpure.com##.aegon-down-item
-bitrefill.com##[id="radix-:r0:"]
+bitrefill.com##[id^="radix-:r"]:has-text(🍪)
 genius.com##[class^="RightSidebar"]
 unogs.com,uno.gs##.alert
 
