@@ -329,6 +329,13 @@ ozon.ru##[data-widget="objectGrid2"]:has-text(Реклама)
 ! ozon.ru - footer
 ozon.ru##[data-widget="footer"]
 
+! proshop.de - ads
+www.proshop.de##.site-top-banner
+www.proshop.de##[data-action="campaignClick"]
+||www.proshop.de/Images/Takeover
+! proshop.de - footer
+www.proshop.de##.footer__top
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
