@@ -399,3 +399,6 @@ bitrefill.com#@#div[data-contentwrapper="true"][tabindex="-1"]
 
 ! ozon.ru - Unbreak login
 ozon.ru#@#[data-widget="blockVertical"][style="width: auto;"]
+
+! weather.com - Unbreak search
+@@||weather.com/api/v1/script/dprSdkScript.js
