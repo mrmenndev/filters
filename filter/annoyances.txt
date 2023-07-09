@@ -4,10 +4,14 @@
 
 !-----General-----
 
-! youtube.com - channelpage
-youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer)
+! youtube.com - channel
 youtube.com##+js(set, ytInitialData.contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer, undefined)
-! youtube.com - mobile
+youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.channelVideoPlayerRenderer)
+! youtube.com - video
+youtube.com##+js(set, ytInitialData.contents.twoColumnWatchNextResults.secondaryResults.secondaryResults.results.1.itemSectionRenderer.contents.2.feedNudgeRenderer , undefined)
+youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.secondaryResults.secondaryResults.results.1.itemSectionRenderer.contents.*.feedNudgeRenderer)
+
+! m.youtube.com - consent
 m.youtube.com##.consent-bump-v2-lightbox
 m.youtube.com##body:style(position: absolute !important;)
 
