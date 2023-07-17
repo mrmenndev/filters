@@ -340,6 +340,12 @@ www.proshop.de##[data-action="campaignClick"]
 ! proshop.de - footer
 www.proshop.de##.footer__top
 
+! reddit.com - post
+reddit.com##.right-sidebar
+||redditstatic.com/shreddit/*/shreddit-sidebar-ad
+! reddit.com - subreddit
+reddit.com##[data-testid="subreddit-sidebar"] > :not([data-redditstyle="false"])
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
