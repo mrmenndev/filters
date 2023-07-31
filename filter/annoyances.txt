@@ -171,13 +171,6 @@ www.geeksforgeeks.org##.shell
 ! geeksforgeeks.org - sidebar
 www.geeksforgeeks.org##.rightBar
 
-! turkru.tv - ads
-turkru.tv##.fragment
-! turkru.tv - popups
-turkru.tv##.notification-live
-! turkru.tv - social
-turkru.tv##.promo-wrap2
-
 ! anime-loads.org - ads
 www.anime-loads.org###mediawidget
 ! anime-loads.org - footer
@@ -369,6 +362,7 @@ bitrefill.com##[id^="radix-:r"]:has-text(🍪)
 genius.com##[class^="RightSidebar"]
 unogs.com,uno.gs##.alert
 cryptonews.com##[class^=clickout]
+turkru.tv##[class^="promo"]
 
 www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
