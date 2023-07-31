@@ -333,6 +333,10 @@ reddit.com##.right-sidebar
 ! reddit.com - subreddit
 reddit.com##[data-testid="subreddit-sidebar"] > :not([data-redditstyle="false"])
 
+! alternate.de - ads
+www.alternate.de##.banner-container
+www.alternate.de##.track_this_link:upward(.skyscraper)
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
