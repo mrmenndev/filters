@@ -85,13 +85,12 @@ imdb.com##[data-testid="dynamic-top-picks--loader"]
 yandex.ru##[data-apiary-widget-id*="AppDistributionPopup"]
 yandex.ru##[data-apiary-widget-name="@marketfront/DistributionInCut"]
 
-! fandom.com - consent
-fandom.com##[data-tracking-opt-in-overlay]:remove()
-! fandom.com - footer
-fandom.com###mixed-content-footer
+! fandom.com - sidebar
+fandom.com##.WikiaRail
 fandom.com##.global-navigation
-! fandom.com - video
-fandom.com##.article-featured-video__player
+! fandom.com - article
+fandom.com##.render-wiki-recommendations
+fandom.com##.reviews
 
 ! pcwelt.de - start
 www.pcwelt.de##[data-ga-event-category="billiger_de_box_right_column"]
