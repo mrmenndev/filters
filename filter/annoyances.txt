@@ -149,7 +149,6 @@ tele-ru.ru##+js(acis, document.onmousedown)
 ! islamicfinder.org - ads
 www.islamicfinder.org##.iqra-article-tile
 www.islamicfinder.org##.latest-gallery-cards
-www.islamicfinder.org##.rbanner
 www.islamicfinder.org##.columns > :has([href*="print"])
 ! islamicfinder.org - app
 www.islamicfinder.org###sidebar
