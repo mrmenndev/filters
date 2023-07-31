@@ -314,16 +314,12 @@ asrock.com###container-floating
 ! ozon.ru - ads
 ozon.ru##[data-widget^="sku"]
 ! ozon.ru - start
-ozon.ru##[data-widget="hammers"]
 ||www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=%2F%3Flayout_container%3DhomePageNew$xhr
 ||www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=https%3A%2F%2Fozon.ru%2Fnotification%2Fcookies_acceptance$xhr
 ! ozon.ru - start mobile
 ozon.ru##[data-widget="advVideoBannerMobile"]
 ozon.ru##[data-widget="stickyContainer"]:has([data-widget="webToAppBanner"])
-ozon.ru##[data-widget="objectGrid2"]:has-text(Реклама)
 ||www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=%2F%3Flayout_container%3Drecommendatory_mweb$xhr
-! ozon.ru - footer
-ozon.ru##[data-widget="footer"]
 
 ! proshop.de - ads
 www.proshop.de##.site-top-banner
