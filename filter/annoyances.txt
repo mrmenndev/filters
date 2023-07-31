@@ -363,6 +363,7 @@ genius.com##[class^="RightSidebar"]
 unogs.com,uno.gs##.alert
 cryptonews.com##[class^=clickout]
 turkru.tv##[class^="promo"]
+go.dev##.Cookie-notice
 
 www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
