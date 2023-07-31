@@ -22,6 +22,7 @@ m.youtube.com##ytm-reel-shelf-renderer
 mail.ru##[data-testid='news-tabs']:upward(1):remove()
 ! mail.ru - start mobile
 mail.ru##.promo-point
+mail.ru##.horoscope
 mail.ru##.news:remove()
 mail.ru##[data-click-pixel]
 mail.ru##[data-show-on-scroll-counter]
