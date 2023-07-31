@@ -176,10 +176,6 @@ www.anime-loads.org###mediawidget
 ! anime-loads.org - footer
 www.anime-loads.org##footer
 
-! kodi-guide.com - ads
-www.kodi-guide.com##.privacy-box
-www.kodi-guide.com##.inside-right-sidebar
-
 ! forum.kde.org - posts
 !#if env_mobile
 forum.kde.org##.profile-info-area
@@ -365,7 +361,6 @@ cryptonews.com##[class^=clickout]
 turkru.tv##[class^="promo"]
 go.dev##.Cookie-notice
 
-www.reddit.com###SearchDropdownContent
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
 www.asustor.com###gdpr_wrap
@@ -376,6 +371,7 @@ www.bytelab.codes###ghost-portal-root
 www.omg.de##.fade
 www.ui.com###dwnBanWrapper
 www.binarytides.com##.display-ad-unit
+www.kodi-guide.com##.inside-right-sidebar
 
 !---Translate---
 
