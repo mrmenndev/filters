@@ -328,6 +328,10 @@ www.proshop.de##[data-action="campaignClick"]
 ! proshop.de - footer
 www.proshop.de##.footer__top
 
+! reddit.com - start
+reddit.com###TrendingPostsContainer
+! reddit.com - search
+||reddit.com/svc/shreddit/trending-searches
 ! reddit.com - post
 reddit.com##.right-sidebar
 ||redditstatic.com/shreddit/*/shreddit-sidebar-ad
