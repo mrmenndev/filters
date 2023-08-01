@@ -363,6 +363,7 @@ unogs.com,uno.gs##.alert
 cryptonews.com##[class^=clickout]
 turkru.tv##[class^="promo"]
 go.dev##.Cookie-notice
+medium.com##[data-testid="close-button"]:upward(4)
 
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
