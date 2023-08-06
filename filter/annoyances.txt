@@ -376,6 +376,7 @@ www.omg.de##.fade
 www.ui.com###dwnBanWrapper
 www.binarytides.com##.display-ad-unit
 www.kodi-guide.com##.inside-right-sidebar
+www.developer.com##.devco-sticky
 
 !---Translate---
 
