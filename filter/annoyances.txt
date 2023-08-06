@@ -337,6 +337,11 @@ reddit.com##[data-testid="subreddit-sidebar"] > :not([data-redditstyle="false"])
 www.alternate.de##.banner-container
 www.alternate.de##.track_this_link:upward(.skyscraper)
 
+! digitalocean.com - header
+www.digitalocean.com##[class^="TopHat"]
+! digitalocean.com - popups
+www.digitalocean.com##[class^="WhaleAmbienceStyle"]
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
