@@ -343,6 +343,11 @@ www.digitalocean.com##[class^="TopHat"]
 ! digitalocean.com - popups
 www.digitalocean.com##[class^="WhaleAmbienceStyle"]
 
+ smarthomebeginner.com - ads
+www.smarthomebeginner.com##.widget_ls_content_block
+! smarthomebeginner.com - article
+www.smarthomebeginner.com##blockquote
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
