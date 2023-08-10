@@ -130,12 +130,11 @@ www.raywenderlich.com##.l-newsletter-article
 ! raywenderlich.com - footer
 www.raywenderlich.com##.c-banner-draper-sticky
 
-! stackexchange - banner
-stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.js-announcement-banner
-stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com###notice-sidebar-popover
 ! stackexchange - sidebar
-stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com###hot-network-questions
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.sidebar-subcommunity
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.s-sidebarwidget
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.js-collectives-navcta-toggle
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com###hot-network-questions
 
 ! steamcommunity.com - age gate
 steamcommunity.com##.adult_content_age_gate
