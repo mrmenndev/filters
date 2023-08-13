@@ -347,6 +347,15 @@ www.smarthomebeginner.com##.widget_ls_content_block
 ! smarthomebeginner.com - article
 www.smarthomebeginner.com##blockquote
 
+! cyberciti.biz - start
+www.cyberciti.biz##.nixcraftsubscribing
+! cyberciti.biz - article
+www.cyberciti.biz##.pop
+www.cyberciti.biz##.card
+www.cyberciti.biz##.author_description
+! cyberciti.biz - search
+www.cyberciti.biz##.nixcraftsearchbox
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
