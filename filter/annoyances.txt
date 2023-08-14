@@ -356,6 +356,12 @@ www.cyberciti.biz##.author_description
 ! cyberciti.biz - search
 www.cyberciti.biz##.nixcraftsearchbox
 
+! goneuland.de - ads
+goneuland.de##.give-embed-form-wrapper
+||goneuland.de/give/
+! goneuland.de - consent
+goneuland.de##+js(set, window.realCookieBanner, {})
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
