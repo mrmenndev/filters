@@ -54,6 +54,13 @@ www.debugpoint.com##.bb-comments
 debugpointnews.com##.comments-area
 debugpointnews.com##.post-comments
 
+! goneuland.de - start
+goneuland.de##a[href*="#comments"]
+goneuland.de##a[href*="#respond"]
+! goneuland.de - article
+goneuland.de###comments
+goneuland.de##.widget_wpdiscuzwidgets
+
 winfuture.de##.content_wrap:has(#comments_box)
 apkpure.com###comment
 turkru.tv##.comments-container
