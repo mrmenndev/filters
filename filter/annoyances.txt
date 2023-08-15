@@ -72,14 +72,15 @@ imdb.com##+js(json-prune, d.[].v)
 ! imdb.com - result
 imdb.com##.ipc-split-button
 imdb.com##.ipc-page-grid__item--span-1
+imdb.com##.imdb-header__app-button
 imdb.com##section[data-testid="contribution"]
 imdb.com##section[data-testid="videos-section"]
 imdb.com##section[data-testid="MoreLikeThis"]
 imdb.com##section[data-testid="main-column-editorial-single"]
 imdb.com##section[data-testid="News"]
-imdb.com##[data-testid="dynamic-top-picks--loader"]
-! imdb.com - prime
+! imdb.com - episode list
 ||imdb.com/watch/_ajax/option
+imdb.com##[data-testid="episodes-cards-container"]
 
 ! yandex.ru - popups
 yandex.ru##[data-apiary-widget-id*="AppDistributionPopup"]
