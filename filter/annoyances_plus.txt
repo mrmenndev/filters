@@ -41,11 +41,9 @@ imdb.com##[data-testid="storyline-loader"]
 imdb.com###sidebar
 
 ! dzen.ru - start
-dzen.ru##[class*="feedContent"]
+dzen.ru##.desktop-layout-floors__content-DE
 ! dzen.ru - start (mobile)
-dzen.ru##.touch-feed
-dzen.ru##[class^="punch-feed"]
-dzen.ru##[aria-label="Новости"]
+dzen.ru##[class^="dzen-mobile__wrapper"]
 
 ! imgur.com - sidebar
 imgur.com##.Gallery-Sidebar-Wrapper
