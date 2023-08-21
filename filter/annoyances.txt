@@ -181,11 +181,12 @@ www.anime-loads.org##footer
 forum.kde.org##.profile-info-area
 !#endif
 
-! flightradar24.com - ads
-www.flightradar24.com##.upgrade-button
-! flightradar24.com - app
-www.flightradar24.com##.applink-container
-www.flightradar24.com##.open-in-app-button
+! flightradar24.com - start
+www.flightradar24.com###headlessui-portal-root
+www.flightradar24.com##.lg\:flex
+www.flightradar24.com##.bottom-4.right-4
+! flightradar24.com - start (mobile)
+www.flightradar24.com##.items-end
 
 ! phoronix.com - ads
 www.phoronix.com##article::after
