@@ -263,6 +263,7 @@ www.smarthomeassistent.de##.grid_kaufberatung
 
 ! notebooksbilliger.de - ads
 www.notebooksbilliger.de##.vue-cherry
+www.notebooksbilliger.de##.cherry-slot
 www.notebooksbilliger.de###dy-hero-banners-slider
 ! notebooksbilliger.de - article
 www.notebooksbilliger.de###pineberry-content
