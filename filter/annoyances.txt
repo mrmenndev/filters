@@ -135,6 +135,7 @@ www.raywenderlich.com##.c-banner-draper-sticky
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.sidebar-subcommunity
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.s-sidebarwidget
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.js-collectives-navcta-toggle
+stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com##.s-popover
 stackoverflow.com,superuser.com,stackexchange.com,serverfault.com,askubuntu.com###hot-network-questions
 
 ! steamcommunity.com - age gate
