@@ -368,6 +368,12 @@ goneuland.de##.give-embed-form-wrapper
 ! goneuland.de - consent
 goneuland.de##+js(set, window.realCookieBanner, {})
 
+! caseking.de - ads
+www.caseking.de###wallpaper
+www.caseking.de###lbOverlay
+! caseking.de - social
+www.caseking.de###ck_sideribbon
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -402,7 +408,6 @@ www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
 www.asustor.com###gdpr_wrap
 www.snbforums.com##.notice--primary
-www.caseking.de###wallpaper
 www.synology-forum.de##.s2amBannerUnit
 www.bytelab.codes###ghost-portal-root
 www.omg.de##.fade
