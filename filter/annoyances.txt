@@ -115,14 +115,10 @@ www.dns-shop.ru##.app-link
 www.xda-developers.com##.w-pencil-banner
 www.xda-developers.com##.w-listing-featured-category
 
-! deepl.com - consent
-www.deepl.com##div[class^="cookieBanner"]
 ! deepl.com - ads
-www.deepl.com##[aria-labelledby*="ad-banner"]
-! deepl.com - popups
-www.deepl.com##[aria-labelledby*="recommendation-banner"]
-! deepl.com - quotes
-www.deepl.com###dl_quotes_container
+www.deepl.com##[aria-labelledby="pro-write-banner-heading"]
+www.deepl.com##[data-testid="write-promo-banner"]:upward(1)
+www.deepl.com##[aria-labelledby="career-banner-heading"]
 
 ! raywenderlich.com - ads
 www.raywenderlich.com##.c-banner-advert
