@@ -399,6 +399,7 @@ go.dev##.Cookie-notice
 medium.com##[data-testid="close-button"]:upward(4)
 coinmarketcap.com##img[src*="signupGift"]
 linuxhandbook.com##.gh-announcement-bar
+noctua.at##.MuiPaper-root
 
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
