@@ -119,6 +119,7 @@ www.xda-developers.com##.w-listing-featured-category
 www.deepl.com##[aria-labelledby="pro-write-banner-heading"]
 www.deepl.com##[data-testid="write-promo-banner"]:upward(1)
 www.deepl.com##[aria-labelledby="career-banner-heading"]
+www.deepl.com##[data-testid="doctrans-onboarding-banner"]:upward(1)
 
 ! raywenderlich.com - ads
 www.raywenderlich.com##.c-banner-advert
@@ -431,9 +432,6 @@ www.developer.com##.devco-sticky
 ! xcom-shop.ru - Unbreak search
 @@||cdn.diginetica.net^$domain=xcom-shop.ru
 @@||autocomplete.diginetica.net^$domain=xcom-shop.ru
-
-! deepl.com - Unbreak language picker
-www.deepl.com#@##headlessui-portal-root
 
 ! bitrefill.com - Unbreak dialog
 bitrefill.com#@#.b-vsrR8W
