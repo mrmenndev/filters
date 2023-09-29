@@ -326,7 +326,7 @@ www.proshop.de##[data-action="campaignClick"]
 www.proshop.de##.footer__top
 
 ! reddit.com - start
-reddit.com###TrendingPostsContainer
+reddit.com##.masthead
 ! reddit.com - search
 ||reddit.com/svc/shreddit/trending-searches
 ! reddit.com - post
@@ -334,6 +334,8 @@ reddit.com##.right-sidebar
 ||redditstatic.com/shreddit/*/shreddit-sidebar-ad
 ! reddit.com - subreddit
 reddit.com##[data-testid="subreddit-sidebar"] > :not([data-redditstyle="false"])
+! reddit.com - social
+||accounts.google.com^$domain=reddit.com
 
 ! alternate.de - ads
 www.alternate.de##.banner-container
