@@ -363,6 +363,10 @@ www.caseking.de###lbOverlay
 ! caseking.de - social
 www.caseking.de###ck_sideribbon
 
+! nightearth.com - ads
+www.nightearth.com##.mobileapp_parent
+www.nightearth.com##+js(set, checkAdBlock, noopFunc)
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
