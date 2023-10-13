@@ -309,16 +309,6 @@ asrock.com##.cursor
 ! asrock.com - mouse
 asrock.com###container-floating
 
-! ozon.ru - ads
-ozon.ru##[data-widget^="sku"]
-! ozon.ru - start
-||www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=%2F%3Flayout_container%3DhomePageNew$xhr
-||www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=https%3A%2F%2Fozon.ru%2Fnotification%2Fcookies_acceptance$xhr
-! ozon.ru - start mobile
-ozon.ru##[data-widget="advVideoBannerMobile"]
-ozon.ru##[data-widget="stickyContainer"]:has([data-widget="webToAppBanner"])
-||www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=%2F%3Flayout_container%3Drecommendatory_mweb$xhr
-
 ! proshop.de - ads
 www.proshop.de##.site-top-banner
 www.proshop.de##[data-action="campaignClick"]
@@ -436,9 +426,6 @@ www.developer.com##.devco-sticky
 ! bitrefill.com - Unbreak dialog
 bitrefill.com#@#.b-vsrR8W
 bitrefill.com#@#div[data-contentwrapper="true"][tabindex="-1"]
-
-! ozon.ru - Unbreak login
-ozon.ru#@#[data-widget="blockVertical"][style="width: auto;"]
 
 ! weather.com - Unbreak search
 @@||weather.com/api/v1/script/dprSdkScript.js
