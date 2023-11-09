@@ -228,6 +228,9 @@ www.sammobile.com###news-for-you-wrapper
 ||www.sammobile.com/news/*$xhr
 ! sammobile.com - article
 www.sammobile.com##.infinite
+www.sammobile.com##.buy
+www.sammobile.com##.affiliate-disclosure
+www.sammobile.com##.in-content-ad-container
 ! sammobile.com - popups
 www.sammobile.com##[aria-controls="notificationsPanel"]
 
