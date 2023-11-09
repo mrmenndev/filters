@@ -295,6 +295,8 @@ blockchair.com##[class*="adv"]
 blockchair.com##[class*="sponsored"]:upward(1)
 blockchair.com##.md-hide
 blockchair.com##.md-plus-hide
+! blockchair.com - popups
+blockchair.com###locale-proposal
 ! blockchair.com - news
 blockchair.com##.transaction__news-wrap
 
