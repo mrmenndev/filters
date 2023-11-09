@@ -367,6 +367,12 @@ www.caseking.de###ck_sideribbon
 www.nightearth.com##.mobileapp_parent
 www.nightearth.com##+js(set, checkAdBlock, noopFunc)
 
+! winfuture.de - start
+winfuture.de##[id*="lazyload"]
+! winfuture.de - article
+winfuture.de###rightWrap
+winfuture.de###to-startpage
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
