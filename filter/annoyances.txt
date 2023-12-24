@@ -366,6 +366,10 @@ winfuture.de##[id*="lazyload"]
 winfuture.de###rightWrap
 winfuture.de###to-startpage
 
+! etherscan.io - ads
+etherscan.io###c_widget_es:upward(section)
+etherscan.io##[data-t8xt5pt6kr-em9uzwlk]
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
