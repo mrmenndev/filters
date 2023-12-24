@@ -189,11 +189,6 @@ www.flightradar24.com##.bottom-4.right-4
 ! flightradar24.com - start (mobile)
 www.flightradar24.com##.items-end
 
-! phoronix.com - ads
-www.phoronix.com##article::after
-! phoronix.com - sidebar
-www.phoronix.com###sidebar-wrap
-
 ! boxberry.ru - app
 boxberry.ru##.block-mobile-apps
 boxberry.ru##.mobile-store-upper
