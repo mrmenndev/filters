@@ -19,15 +19,14 @@ m.youtube.com##+js(json-prune, contents.singleColumnBrowseResultsRenderer.tabs.0
 m.youtube.com##ytm-reel-shelf-renderer
 
 ! mail.ru - start
-mail.ru##[data-testid='news-tabs']:upward(1):remove()
-! mail.ru - start mobile
-mail.ru##.promo-point
-mail.ru##.horoscope
-mail.ru##.news:remove()
-mail.ru##[data-click-pixel]
-mail.ru##[data-show-on-scroll-counter]
+mail.ru##.news-item-container:upward([slot="main-column"]):remove()
+mail.ru##.widget__container
 ! mail.ru - center login
 mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:translateX(-50%)!important)
+! mail.ru - start mobile
+mail.ru##.news:remove()
+mail.ru##.info-widgets
+mail.ru##[data-click-pixel]
 
 ! imdb.com - homepage
 imdb.com###featured-today:upward(main)
