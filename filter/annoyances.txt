@@ -370,6 +370,11 @@ winfuture.de###to-startpage
 etherscan.io###c_widget_es:upward(section)
 etherscan.io##[data-t8xt5pt6kr-em9uzwlk]
 
+! vivawest.de - popups
+vivawest.de##.chatbot-button
+! vivawest.de - footer
+vivawest.de###footer
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
