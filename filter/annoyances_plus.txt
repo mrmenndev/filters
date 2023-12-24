@@ -29,15 +29,11 @@ mail.ru##.info-widgets
 mail.ru##[data-click-pixel]
 
 ! imdb.com - homepage
-imdb.com###featured-today:upward(main)
+imdb.com###featured-today:upward(main):remove()
 ! imdb.com - result
 imdb.com##section[data-testid="Photos"]
 imdb.com##section[data-testid="DidYouKnow"]
-imdb.com##section[data-testid="FAQ"]
-imdb.com##section[data-testid="Storyline"]
-imdb.com##[data-testid="storyline-header"]
-imdb.com##[data-testid="storyline-loader"]
-imdb.com###sidebar
+imdb.com##[data-testid="faq-title"]:upward(section)
 
 ! dzen.ru - start
 dzen.ru##.desktop-layout-floors__content-DE
