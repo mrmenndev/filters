@@ -70,6 +70,7 @@ www.udemy.com##.js-pride-month-gradient
 ! imdb.com - search
 imdb.com##+js(json-prune, d.[].v)
 ! imdb.com - result
+imdb.com##iframe
 imdb.com##.ipc-split-button
 imdb.com##.ipc-page-grid__item--span-1
 imdb.com##.imdb-header__app-button
