@@ -310,15 +310,21 @@ www.proshop.de##[data-action="campaignClick"]
 www.proshop.de##.footer__top
 
 ! reddit.com - start
-reddit.com##.masthead
-! reddit.com - search
-||reddit.com/svc/shreddit/trending-searches
-! reddit.com - post
-reddit.com##.right-sidebar
-||redditstatic.com/shreddit/*/shreddit-sidebar-ad
+reddit.com##[search-telemetry-source="popular_carousel"]
 ! reddit.com - subreddit
-reddit.com##[data-testid="subreddit-sidebar"] > :not([data-redditstyle="false"])
-! reddit.com - social
+reddit.com##.right-sidebar
+reddit.com##faceplate-tracker[source="subreddit"]
+! reddit.com - age gate
+reddit.com##[bundlename="nsfw_blocking_modal"]
+reddit.com##body:style(overflow:auto !important)
+reddit.com##[style*="backdrop-filter: blur"]
+! reddit.com - popups
+reddit.com##[bundlename="faceplate_alerts"]
+! reddit.com - network
+||reddit.com/svc/shreddit/trending-searches
+||reddit.com/svc/shreddit/translation
+||redditstatic.com/shreddit/*/translation
+||redditstatic.com/shreddit/*/shreddit-sidebar-ad
 ||accounts.google.com^$domain=reddit.com
 
 ! alternate.de - ads
