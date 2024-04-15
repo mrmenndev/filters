@@ -46,14 +46,14 @@ Collection of all previosly mentioned filters
 -   [URL](https://easylist-downloads.adblockplus.org/bitblock.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/bitblock.txt&title=RU%20AdList%3A%20Bitblock)
 
+### Anti-paywall filters
+
+-   [Page](https://github.com/liamengland1/miscfilters)
+-   [URL](https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt)
+-   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt&title=Anti-paywall%20filters)
+
 ### Fuck Fuckadblock
 
 -   [Page](https://github.com/bogachenko/fuckfuckadblock)
 -   [URL](https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt&title=Fuck%20Fuckadblock)
-
-### Anti-paywall filters
-
--   [Page](https://github.com/liamengland1/miscfilters)
--   [URL](https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt)
--   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt)
