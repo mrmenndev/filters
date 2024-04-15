@@ -6,36 +6,28 @@ My personal collection of filters for **uBlock Origin**
 
 ## mrmenndev filters - annoyances
 
-Block everything that can be annoying, like `ads`, `dialogs`, `anti-adblock` and more.
+Block everything that can be annoying, like `ads`, `dialogs`, `anti-adblock` and more
 
 -   [URL](https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt&title=mrmenndev%20filters%20-%20annoyances)
 
 ## mrmenndev filters - annoyances_plus
 
-The more aggressive version of `annoyances`, can break functionality of a site.
+The more aggressive version of `annoyances`, can break functionality of a site
 
 -   [URL](https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances_plus.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances_plus.txt&title=mrmenndev%20filters%20-%20annoyances_plus)
 
 ## mrmenndev filters - comments
 
-Block comments of a website.
+Block comments of a website
 
 -   [URL](https://raw.githubusercontent.com/mrmenndev/filters/master/filter/comments.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/mrmenndev/filters/master/filter/comments.txt&title=mrmenndev%20filters%20-%20comments)
 
-## mrmenndev filters - search
-
-Filter (in my opinion) stupid, scam or other dangerous websites from search engines.
-Right now `duckduckgo`, `brave search` and `yandex` are supported.
-
--   [URL](https://raw.githubusercontent.com/mrmenndev/filters/master/filter/search.txt)
--   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/mrmenndev/filters/master/filter/search.txt&title=mrmenndev%20filters%20-%20search)
-
 ## mrmenndev filters - all
 
-Collection of all previosly called filters.
+Collection of all previosly mentioned filters
 
 -   [URL](https://raw.githubusercontent.com/mrmenndev/filters/master/filter/all.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/mrmenndev/filters/master/filter/all.txt&title=mrmenndev%20filters%20-%20all)
@@ -59,3 +51,9 @@ Collection of all previosly called filters.
 -   [Page](https://github.com/bogachenko/fuckfuckadblock)
 -   [URL](https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt&title=Fuck%20Fuckadblock)
+
+### Anti-paywall filters
+
+-   [Page](https://github.com/liamengland1/miscfilters)
+-   [URL](https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt)
+-   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt)
