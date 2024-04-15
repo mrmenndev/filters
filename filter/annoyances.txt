@@ -406,6 +406,7 @@ www.ui.com###dwnBanWrapper
 www.binarytides.com##.display-ad-unit
 www.kodi-guide.com##.inside-right-sidebar
 www.developer.com##.devco-sticky
+www.netcup.de###whatsapp-banner
 
 !---Translate---
 
