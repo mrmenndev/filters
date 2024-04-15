@@ -5,4 +5,3 @@
 !#include annoyances.txt
 !#include annoyances_plus.txt
 !#include comments.txt
-!#include search.txt
