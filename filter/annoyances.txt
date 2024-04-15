@@ -197,11 +197,18 @@ hashrate.no##.hr-border-infobar
 hashrate.no##a[target="ad_gpu_top"]
 hashrate.no##.w3-row:has(a[href="/knowhow"])
 
+! sammobile.com - notification
+www.sammobile.com###push-notification-permission-modal
+www.sammobile.com##.notifications
+www.sammobile.com##.navbar-bell
+! sammobile.com - start
+www.sammobile.com##.news-for-you-wrapper
 ! sammobile.com - article
-||www.sammobile.com/wp-content/plugins/ajax-load-more
+www.sammobile.com##iframe
 www.sammobile.com##.buy
 www.sammobile.com##.affiliate-disclosure
-www.sammobile.com##iframe
+www.sammobile.com##.infinite
+||www.sammobile.com/wp-content/plugins/ajax-load-more
 
 ! ethermine.org - ads
 ethermine.org###ems-banner
