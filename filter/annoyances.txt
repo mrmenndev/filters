@@ -24,21 +24,21 @@ chocolatey.org##[aria-controls="offcanvasRightAnnouncements"]
 chocolatey.org###announcementCarousel:upward(1)
 
 ! pcgameshardware.de - start
-www.pcgameshardware.de##.tickerBobble
-www.pcgameshardware.de##.jobfeedWidget
-! pcgameshardware.de - ticker
-www.pcgameshardware.de##.at_premium
-www.pcgameshardware.de##.item:has-text([Werbung])
-! pcgameshardware.de - ticker mobile
+www.pcgameshardware.de##article:has(.at_premium)
+www.pcgameshardware.de##article:has-text(Daily Deals)
+! pcgameshardware.de - start mobile
 www.pcgameshardware.de##.pcghPlus
-www.pcgameshardware.de##.teaserItem:has-text([Werbung])
-! pcgameshardware.de - article
-www.pcgameshardware.de##.sidebar
-www.pcgameshardware.de##.shopLinkFrameWrapper
-www.pcgameshardware.de##.affbtnContainer
-www.pcgameshardware.de##p:has(> strong)
-! pcgameshardware.de - article mobile
-www.pcgameshardware.de##aside.innerArticleModule
+www.pcgameshardware.de##.commercialMod
+www.pcgameshardware.de##.strr_slot
+! pcgameshardware.de - arcticle
+www.pcgameshardware.de##.stickyParent
+www.pcgameshardware.de##.innerArticleModule
+www.pcgameshardware.de##.shopLink
+www.pcgameshardware.de##.rgTable
+www.pcgameshardware.de##.tagAndSocialFrameFooter
+! pcgameshardware.de - arcticle mobile
+www.pcgameshardware.de##.shopLinkButtonsWrapper
+www.pcgameshardware.de##.footerButtons
 
 ! computerbase.de - anti adblock
 www.computerbase.de##.support-plea:remove()
