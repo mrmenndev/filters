@@ -376,7 +376,6 @@ developers.google.com##.devsite-banner-announcement
 reactjs.org##div[style="position:relative"]
 pypi.org##.notification-bar
 namingconvention.org##.producthunt
-regex101.com##div > div> div > :has-text(Sponsors)
 dev.to##.js-billboard-container
 wikipedia.org###siteNotice
 threadreaderapp.com##.sharingfooter
