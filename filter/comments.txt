@@ -15,11 +15,13 @@ youtube.com##+js(json-prune, contents.twoColumnWatchNextResults.conversationBar)
 ! youtube.com - mobile
 m.youtube.com##ytm-comments-entry-point-header-renderer
 
-! pcgameshardware.de - comments
-www.pcgameshardware.de##.comments
-www.pcgameshardware.de###article_comment_box
-www.pcgameshardware.de##.disrupterEnlargerBox
-www.pcgameshardware.de##.button:has(.social_comments)
+! pcgameshardware.de - start
+www.pcgameshardware.de##.commentBox
+! pcgameshardware.de - article
+www.pcgameshardware.de##.rowBreakoff
+www.pcgameshardware.de##.commentIcon
+! pcgameshardware.de - article mobile
+www.pcgameshardware.de###comment
 
 ! computerbase.de - start
 www.computerbase.de##.box--blue
