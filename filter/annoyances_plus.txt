@@ -27,6 +27,8 @@ mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:transla
 mail.ru##.news:remove()
 mail.ru##.info-widgets
 mail.ru##[data-click-pixel]
+! mail.ru - email
+mail.ru##iframe
 
 ! imdb.com - homepage
 imdb.com###featured-today:upward(main):remove()
