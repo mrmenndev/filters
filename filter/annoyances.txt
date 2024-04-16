@@ -344,6 +344,7 @@ goneuland.de##+js(set, window.realCookieBanner, {})
 ! caseking.de - ads
 www.caseking.de###wallpaper
 www.caseking.de###lbOverlay
+www.caseking.de###trustimage
 ! caseking.de - social
 www.caseking.de###ck_sideribbon
 
