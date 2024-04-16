@@ -310,10 +310,6 @@ reddit.com##[style*="backdrop-filter: blur"]
 ! reddit.com - popups
 reddit.com##[bundlename="faceplate_alerts"]
 ! reddit.com - network
-||reddit.com/svc/shreddit/trending-searches
-||reddit.com/svc/shreddit/translation
-||redditstatic.com/shreddit/*/translation
-||redditstatic.com/shreddit/*/shreddit-sidebar-ad
 ||accounts.google.com^$domain=reddit.com
 
 ! alternate.de - ads
