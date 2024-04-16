@@ -199,6 +199,7 @@ hashrate.no##.w3-row:has(a[href="/knowhow"])
 
 ! sammobile.com - notification
 www.sammobile.com###push-notification-permission-modal
+www.sammobile.com##.fade
 www.sammobile.com##.notifications
 www.sammobile.com##.navbar-bell
 ! sammobile.com - start
