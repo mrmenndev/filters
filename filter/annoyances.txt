@@ -116,6 +116,8 @@ www.deepl.com##[aria-labelledby="pro-write-banner-heading"]
 www.deepl.com##[data-testid="write-promo-banner"]:upward(1)
 www.deepl.com##[aria-labelledby="career-banner-heading"]
 www.deepl.com##[data-testid="doctrans-onboarding-banner"]:upward(1)
+! deepl.com - notification
+www.deepl.com##[id^="headlessui"]:upward(1)
 
 ! raywenderlich.com - ads
 www.raywenderlich.com##.c-banner-advert
