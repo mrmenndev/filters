@@ -366,6 +366,12 @@ vivawest.de##.chatbot-button
 ! vivawest.de - footer
 vivawest.de###footer
 
+! thehackernews.com - ads
+thehackernews.com##.akku
+thehackernews.com##.rockstar
+thehackernews.com##.rocking
+thehackernews.com##.note-b
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
