@@ -204,6 +204,7 @@ www.sammobile.com###push-notification-permission-modal
 www.sammobile.com##.fade
 www.sammobile.com##.notifications
 www.sammobile.com##.navbar-bell
+www.sammobile.com##body:style(overflow:auto !important)
 ! sammobile.com - start
 www.sammobile.com##.news-for-you-wrapper
 ! sammobile.com - article
