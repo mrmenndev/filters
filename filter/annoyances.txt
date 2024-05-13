@@ -210,6 +210,7 @@ www.sammobile.com##body:style(overflow:auto !important)
 www.sammobile.com##.news-for-you-wrapper
 ! sammobile.com - article
 www.sammobile.com##iframe
+www.sammobile.com###topatf
 www.sammobile.com##.buy
 www.sammobile.com##.affiliate-disclosure
 www.sammobile.com##.infinite
