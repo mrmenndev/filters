@@ -45,6 +45,7 @@ www.computerbase.de##.support-plea:remove()
 ! computerbase.de - ads
 www.computerbase.de##.js-promobar
 www.computerbase.de##.shoutbox-container
+www.computerbase.de##.forum-teaser
 
 ! allround-pc.com - consent
 www.allround-pc.com##html:style(overflow:auto !important)
