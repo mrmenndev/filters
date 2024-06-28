@@ -94,6 +94,7 @@ fandom.com##.global-navigation
 ! fandom.com - article
 fandom.com##.render-wiki-recommendations
 fandom.com##.reviews
+fandom.com##.mobileDrawer
 
 ! pcwelt.de - start
 www.pcwelt.de##[data-ga-event-category="billiger_de_box_right_column"]
