@@ -32,13 +32,14 @@ www.pcgameshardware.de##.commercialMod
 www.pcgameshardware.de##.strr_slot
 ! pcgameshardware.de - arcticle
 www.pcgameshardware.de##.stickyParent
-www.pcgameshardware.de##.innerArticleModule
-www.pcgameshardware.de##.shopLink
 www.pcgameshardware.de##.rgTable
-www.pcgameshardware.de##.tagAndSocialFrameFooter
-! pcgameshardware.de - arcticle mobile
+www.pcgameshardware.de##.shopLink
 www.pcgameshardware.de##.shopLinkButtonsWrapper
+www.pcgameshardware.de##.tagAndSocialFrameFooter
 www.pcgameshardware.de##.footerButtons
+www.pcgameshardware.de##.innerArticleModule:has(.affiliateIcon)
+www.pcgameshardware.de##.innerArticleModule:has(.articleTickerHead)
+www.pcgameshardware.de##.innerArticleModule:has(.relatedTopicsWrapper)
 
 ! computerbase.de - anti adblock
 www.computerbase.de##.support-plea:remove()
