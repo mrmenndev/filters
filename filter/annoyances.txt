@@ -94,6 +94,7 @@ fandom.com##.WikiaRail
 fandom.com##.global-navigation
 ! fandom.com - article
 fandom.com##.render-wiki-recommendations
+fandom.com##.is-sponsored
 fandom.com##.reviews
 fandom.com##.mobileDrawer
 
