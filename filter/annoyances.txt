@@ -26,6 +26,7 @@ chocolatey.org###announcementCarousel:upward(1)
 ! pcgameshardware.de - start
 www.pcgameshardware.de##article:has(.at_premium)
 www.pcgameshardware.de##article:has-text(Daily Deals)
+www.pcgameshardware.de##article:has-text([Werbung])
 ! pcgameshardware.de - start mobile
 www.pcgameshardware.de##.pcghPlus
 www.pcgameshardware.de##.commercialMod
@@ -35,6 +36,8 @@ www.pcgameshardware.de##.stickyParent
 www.pcgameshardware.de##.rgTable
 www.pcgameshardware.de##.shopLink
 www.pcgameshardware.de##.shopLinkButtonsWrapper
+www.pcgameshardware.de##.afBtn1
+www.pcgameshardware.de##.amazon_link_man
 www.pcgameshardware.de##.tagAndSocialFrameFooter
 www.pcgameshardware.de##.footerButtons
 www.pcgameshardware.de##.innerArticleModule:has(.affiliateIcon)
