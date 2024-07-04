@@ -219,6 +219,8 @@ www.sammobile.com###topatf
 www.sammobile.com##.buy
 www.sammobile.com##.affiliate-disclosure
 www.sammobile.com##.infinite
+www.sammobile.com##.scroll-for-related-content
+www.sammobile.com##p:has-text(video…)
 ||www.sammobile.com/wp-content/plugins/ajax-load-more
 
 ! ethermine.org - ads
