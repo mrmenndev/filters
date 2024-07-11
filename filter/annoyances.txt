@@ -384,6 +384,10 @@ thehackernews.com##.rockstar
 thehackernews.com##.rocking
 thehackernews.com##.note-b
 
+! check24.de - social
+check24.de##.js-resultListHint
+||chatbot.*.check24.de
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
@@ -451,3 +455,6 @@ bitrefill.com#@#div[data-contentwrapper="true"][tabindex="-1"]
 
 ! weather.com - Unbreak search
 @@||weather.com/api/v1/script/dprSdkScript.js
+
+! check24.de - Unbreak loading
+@@||cdn.*.check24.de$1p
