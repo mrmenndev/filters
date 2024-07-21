@@ -36,6 +36,7 @@ www.pcgameshardware.de##.stickyParent
 www.pcgameshardware.de##.rgTable
 www.pcgameshardware.de##.shopLink
 www.pcgameshardware.de##.shopLinkButtonsWrapper
+www.pcgameshardware.de##.productPriceContainer
 www.pcgameshardware.de##.afBtn1
 www.pcgameshardware.de##.amazon_link_man
 www.pcgameshardware.de##.tagAndSocialFrameFooter
