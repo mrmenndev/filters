@@ -221,6 +221,7 @@ www.sammobile.com##.buy
 www.sammobile.com##.affiliate-disclosure
 www.sammobile.com##.infinite
 www.sammobile.com##.scroll-for-related-content
+www.sammobile.com##.galaxy-ai-button
 www.sammobile.com##p:has-text(The story continues after)
 ||www.sammobile.com/wp-content/plugins/ajax-load-more
 
