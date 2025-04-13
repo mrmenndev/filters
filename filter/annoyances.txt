@@ -365,6 +365,16 @@ thehackernews.com##.note-b
 check24.de##.js-resultListHint
 ||chatbot.*.check24.de
 
+! shop-apotheke.com - ads
+www.shop-apotheke.com##.ad-server-banner
+www.shop-apotheke.com##[data-clientside-hook="stickyBanner"]
+! shop-apotheke.com - chat
+www.shop-apotheke.com##[class^=ChatButton]
+! shop-apotheke.com - start
+www.shop-apotheke.com##.heading:has-text(Aktuelle Empfehlungen):upward(1)
+! shop-apotheke.com - article
+www.shop-apotheke.com##[data-analytics="crosssell-widget"]
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
