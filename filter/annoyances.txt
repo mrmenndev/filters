@@ -254,10 +254,6 @@ www.eurogamer.net##.ot-sdk-container
 www.eurogamer.net##.article .supporter_promo
 www.eurogamer.net##.article ul
 
-! duckduckgo.com - search
-duckduckgo.com##.module--carousel-videos
-duckduckgo.com##.js-module--news
-
 ! hardwareluxx.de - ads
 www.hardwareluxx.de##.ad-large
 www.hardwareluxx.de##.header-com
