@@ -268,12 +268,6 @@ blockchair.com###blockchai-wrap
 ! blockchair.com - news
 blockchair.com##.transaction__news-wrap
 
-! asus.com - consent
-asus.com###cookie-policy-info:remove()
-! asus.com - banner 
-asus.com###locationReminder
-asus.com###headerBanners
-
 ! asrock.com - social
 asrock.com##.cursor
 ! asrock.com - mouse
@@ -405,6 +399,7 @@ coinmarketcap.com##img[src*="signupGift"]
 linuxhandbook.com##.gh-announcement-bar
 noctua.at###survey-popup
 cloudzy.com##.rh-dynamic_cta_mobile
+asus.com##[class^="ProductSupportHeader__productHeadRight"]
 
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
