@@ -32,8 +32,9 @@ mail.ru##[data-click-pixel]
 imdb.com###featured-today:upward(main):remove()
 ! imdb.com - result
 imdb.com##section[data-testid="Photos"]
-imdb.com##section[data-testid="DidYouKnow"]
-imdb.com##[data-testid="faq-title"]:upward(section)
+imdb.com##section[data-testid="videos-section"]
+imdb.com##section[data-cel-widget="StaticFeature_FAQ"]
+imdb.com##[data-testid="episodes-next-details"]
 
 ! dzen.ru - start
 dzen.ru##.desktop-layout-floors__content-DE
