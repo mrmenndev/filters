@@ -91,13 +91,9 @@ imdb.com##section[data-testid="News"]
 imdb.com##[data-testid="episodes-cards-container"]
 
 ! fandom.com - sidebar
-fandom.com##.WikiaRail
-fandom.com##.global-navigation
-! fandom.com - article
-fandom.com##.render-wiki-recommendations
-fandom.com##.is-sponsored
-fandom.com##.reviews
-fandom.com##.mobileDrawer
+fandom.com##.global-explore-navigation
+fandom.com##.page__right-rail
+fandom.com##.wds-mobile-drawer
 
 ! pcwelt.de - start
 www.pcwelt.de##[data-ga-event-category="billiger_de_box_right_column"]
