@@ -90,10 +90,6 @@ imdb.com##section[data-testid="News"]
 ||imdb.com/watch/_ajax/option
 imdb.com##[data-testid="episodes-cards-container"]
 
-! yandex.ru - popups
-yandex.ru##[data-apiary-widget-id*="AppDistributionPopup"]
-yandex.ru##[data-apiary-widget-name="@marketfront/DistributionInCut"]
-
 ! fandom.com - sidebar
 fandom.com##.WikiaRail
 fandom.com##.global-navigation
