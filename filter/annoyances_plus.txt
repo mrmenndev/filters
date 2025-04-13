@@ -41,8 +41,3 @@ dzen.ru##.desktop-layout-floors__content-DE
 ! dzen.ru - start (mobile)
 dzen.ru##[class^="dzen-mobile__wrapper"]
 
-! imgur.com - sidebar
-imgur.com##.Gallery-Sidebar-Wrapper
-! imgur.com - infinity
-imgur.com##.BottomRecirc
-||api.imgur.io/post/v1/posts$xhr
