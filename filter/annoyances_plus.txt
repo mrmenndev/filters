@@ -20,15 +20,13 @@ m.youtube.com##ytm-reel-shelf-renderer
 
 ! mail.ru - start
 mail.ru##.news-item-container:upward([slot="main-column"]):remove()
-mail.ru##.widget__container
+mail.ru##.horoscope
 ! mail.ru - center login
-mail.ru##.mailbox-container:upward(1):style(left:50%!important;transform:translateX(-50%)!important)
+mail.ru##.grid__lcol:style(left:50%!important;transform:translateX(-50%)!important)
 ! mail.ru - start mobile
 mail.ru##.news:remove()
 mail.ru##.info-widgets
 mail.ru##[data-click-pixel]
-! mail.ru - email
-mail.ru##iframe
 
 ! imdb.com - homepage
 imdb.com###featured-today:upward(main):remove()
