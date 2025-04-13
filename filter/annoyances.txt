@@ -76,19 +76,16 @@ www.udemy.com##.js-pride-month-gradient
 
 ! imdb.com - search
 imdb.com##+js(json-prune, d.[].v)
+imdb.com##+js(json-prune, data.topTrendingTitles)
 ! imdb.com - result
 imdb.com##iframe
 imdb.com##.ipc-split-button
 imdb.com##.ipc-page-grid__item--span-1
 imdb.com##.imdb-header__app-button
-imdb.com##section[data-testid="contribution"]
-imdb.com##section[data-testid="videos-section"]
 imdb.com##section[data-testid="MoreLikeThis"]
-imdb.com##section[data-testid="main-column-editorial-single"]
 imdb.com##section[data-testid="News"]
 ! imdb.com - episode list
 ||imdb.com/watch/_ajax/option
-imdb.com##[data-testid="episodes-cards-container"]
 
 ! fandom.com - sidebar
 fandom.com##.global-explore-navigation
