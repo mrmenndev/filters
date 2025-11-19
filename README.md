@@ -46,3 +46,9 @@ Collection of all previosly mentioned filters
 -   [Page](https://github.com/liamengland1/miscfilters)
 -   [URL](https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt)
 -   [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt&title=Anti-paywall%20filters)
+
+### Huge AI Blocklist
+
+-   [Page](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+-   [URL](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
+-   [Subscribe](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Flaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%2Fmain%2Flist.txt&title=Sites%20using%20AI%20generated%20content)
