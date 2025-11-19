@@ -205,10 +205,8 @@ www.debugpoint.com##.dp-gnews-link
 www.debugpoint.com##[href="https://t.me/debugpoint"]
 
 ! debugpointnews.com - social
-debugpointnews.com##.dp-gnews-link
-debugpointnews.com##.dp-telegram-link
-debugpointnews.com##.dp-mastodon-link
-debugpointnews.com##.col-sidebar
+debugpointnews.com##.social_cont
+debugpointnews.com##.sharedaddy
 
 ! search.brave.com - banner
 search.brave.com##.carousel-snippet
