@@ -314,13 +314,6 @@ goneuland.de##.give-embed-form-wrapper
 ! goneuland.de - consent
 goneuland.de##+js(set, window.realCookieBanner, {})
 
-! caseking.de - ads
-www.caseking.de###wallpaper
-www.caseking.de###lbOverlay
-www.caseking.de###trustimage
-! caseking.de - social
-www.caseking.de###ck_sideribbon
-
 ! nightearth.com - ads
 www.nightearth.com##.mobileapp_parent
 www.nightearth.com##+js(set, checkAdBlock, noopFunc)
