@@ -222,11 +222,11 @@ www.smarthomeassistent.de##.SABox
 www.smarthomeassistent.de##.kaufberatungtitle
 www.smarthomeassistent.de##.grid_kaufberatung
 
-! eurogamer.net - consent
-www.eurogamer.net##.ot-sdk-container
+! www.eurogamer.net - banner 
+www.eurogamer.net##.disclaimer
 ! eurogamer.net - article
-www.eurogamer.net##.article .supporter_promo
-www.eurogamer.net##.article ul
+www.eurogamer.net##.disclaimer
+||eurogamer.net/*?ajax=1
 
 ! hardwareluxx.de - ads
 www.hardwareluxx.de##.ad-large
