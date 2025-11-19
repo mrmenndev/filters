@@ -202,7 +202,8 @@ ethermine.org##.open:has(a[href^="https://blog.ethereum.org"])
 
 ! debugpoint.com - social
 www.debugpoint.com##.dp-gnews-link
-www.debugpoint.com##[href="https://t.me/debugpoint"]
+www.debugpoint.com##.dp-telegram-link
+www.debugpoint.com##.dp-mastodon-link
 
 ! debugpointnews.com - social
 debugpointnews.com##.social_cont
