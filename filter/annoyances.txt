@@ -78,8 +78,11 @@ imdb.com##iframe
 imdb.com##.ipc-split-button
 imdb.com##.ipc-page-grid__item--span-1
 imdb.com##.imdb-header__app-button
-imdb.com##section[data-testid="MoreLikeThis"]
+imdb.com##[data-testid="ai-review-summary"]
 imdb.com##section[data-testid="News"]
+imdb.com##section[data-testid="MoreLikeThis"]
+imdb.com##section[data-testid="RelatedInterests"]
+imdb.com##section[data-testid="main-column-editorial-single"]
 ! imdb.com - episode list
 ||imdb.com/watch/_ajax/option
 
