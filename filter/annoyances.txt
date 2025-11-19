@@ -391,6 +391,7 @@ linuxhandbook.com##.gh-announcement-bar
 noctua.at###survey-popup
 cloudzy.com##.rh-dynamic_cta_mobile
 asus.com##[class^="ProductSupportHeader__productHeadRight"]
+flexikon.doccheck.com###loginNagger
 
 www.shadowserver.org##.c--gdpr-message
 www.rockandnull.com##div[id*="kofi-widget"]
