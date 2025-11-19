@@ -360,6 +360,10 @@ www.shop-apotheke.com##.heading:has-text(Aktuelle Empfehlungen):upward(1)
 ! shop-apotheke.com - article
 www.shop-apotheke.com##[data-analytics="crosssell-widget"]
 
+! truenas.com - banner
+www.truenas.com###popupBlock
+www.truenas.com##.open-button
+
 !------Simple-----
 
 developers.google.com##.devsite-banner-announcement
