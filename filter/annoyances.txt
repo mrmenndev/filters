@@ -223,11 +223,6 @@ www.smarthomeassistent.de##.SABox
 www.smarthomeassistent.de##.kaufberatungtitle
 www.smarthomeassistent.de##.grid_kaufberatung
 
-! notebooksbilliger.de - consent
-www.notebooksbilliger.de##.js-uc-placeholder:remove()
-! notebooksbilliger.de - ads
-www.notebooksbilliger.de##.vue-cherry
-
 ! eurogamer.net - consent
 www.eurogamer.net##.ot-sdk-container
 ! eurogamer.net - article
