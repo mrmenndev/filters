@@ -379,7 +379,7 @@ opensource.com##.subscribe-float
 apkmirror.com##.apkm-timed-slider
 weather.com##[id^="WxuContentMedia"]
 apkpure.com##.aegon-down-item
-bitrefill.com##[id^="radix-:r"]:has-text(🍪)
+bitrefill.com##.cookie-dialog
 genius.com##[class^="RightSidebar"]
 unogs.com,uno.gs##.alert
 cryptonews.com##[class^=clickout]
@@ -423,9 +423,8 @@ www.netcup.de###whatsapp-banner
 @@||cdn.diginetica.net^$domain=xcom-shop.ru
 @@||autocomplete.diginetica.net^$domain=xcom-shop.ru
 
-! bitrefill.com - Unbreak dialog
-bitrefill.com#@#.b-vsrR8W
-bitrefill.com#@#div[data-contentwrapper="true"][tabindex="-1"]
+! bitrefill.com - Unbreak site
+@@||www.bitrefill.com/assets/CookieConsent-*.js
 
 ! weather.com - Unbreak search
 @@||weather.com/api/v1/script/dprSdkScript.js
