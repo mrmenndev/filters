@@ -63,6 +63,11 @@ goneuland.de##a[href*="#respond"]
 goneuland.de###comments
 goneuland.de##.widget_wpdiscuzwidgets
 
+! golem.de - start
+www.golem.de##.go-comment-button
+! golem.de - article
+www.golem.de###cmts
+
 winfuture.de##.content_wrap:has(#comments_box)
 apkpure.com###comment
 turkru.tv##.comments-container
