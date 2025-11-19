@@ -280,10 +280,6 @@ reddit.com##[bundlename="faceplate_alerts"]
 ! reddit.com - network
 ||accounts.google.com^$domain=reddit.com
 
-! alternate.de - ads
-www.alternate.de##.banner-container
-www.alternate.de##.track_this_link:upward(.skyscraper)
-
 ! digitalocean.com - header
 www.digitalocean.com##[class^="TopHat"]
 ! digitalocean.com - popups
@@ -397,6 +393,7 @@ www.binarytides.com##.display-ad-unit
 www.kodi-guide.com##.inside-right-sidebar
 www.developer.com##.devco-sticky
 www.netcup.de###whatsapp-banner
+www.alternate.de##.track_this_link:upward(.skyscraper)
 
 !---Translate---
 
