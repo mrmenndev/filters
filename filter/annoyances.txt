@@ -107,10 +107,9 @@ www.dns-shop.ru##.catalog-rsu-switch__new-tip
 www.dns-shop.ru##.app-link
 
 ! deepl.com - ads
-www.deepl.com##[aria-labelledby="pro-write-banner-heading"]
-www.deepl.com##[aria-labelledby="career-banner-heading"]
+www.deepl.com##[class^=homeExperience]
 ! deepl.com - banner
-www.deepl.com##[class^=closeButton]:upward(.items-start)
+www.deepl.com##.sticky > .md\:block
 
 ! raywenderlich.com - ads
 www.raywenderlich.com##.c-banner-advert
